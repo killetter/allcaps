@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<<<<<<< HEAD
   <dict>
     <key>ascender</key>
     <integer>750</integer>
@@ -48,42 +47,4 @@
     <key>xHeight</key>
     <integer>550</integer>
   </dict>
-=======
-<dict>
-	<key>ascender</key>
-	<integer>750</integer>
-	<key>capHeight</key>
-	<integer>670</integer>
-	<key>descender</key>
-	<integer>-250</integer>
-	<key>familyName</key>
-	<string>New Font</string>
-	<key>openTypeHeadCreated</key>
-	<string>2021/08/18 17:25:25</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular</string>
-	<key>openTypeOS2WeightClass</key>
-	<integer>400</integer>
-	<key>openTypeOS2WidthClass</key>
-	<integer>5</integer>
-	<key>postscriptBlueValues</key>
-	<array/>
-	<key>postscriptFontName</key>
-	<string>NewFont-Regular</string>
-	<key>postscriptOtherBlues</key>
-	<array/>
-	<key>styleMapStyleName</key>
-	<string>regular</string>
-	<key>styleName</key>
-	<string>Regular</string>
-	<key>unitsPerEm</key>
-	<integer>1000</integer>
-	<key>versionMajor</key>
-	<integer>1</integer>
-	<key>versionMinor</key>
-	<integer>0</integer>
-	<key>xHeight</key>
-	<integer>550</integer>
-</dict>
->>>>>>> e819e1ae6e7b73f7c9bde0eb3a18569a7eba5501
 </plist>

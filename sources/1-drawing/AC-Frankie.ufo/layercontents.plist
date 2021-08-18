@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<<<<<<< HEAD
   <array>
     <array>
       <string>public.default</string>
@@ -12,16 +11,4 @@
       <string>glyphs.public.background</string>
     </array>
   </array>
-=======
-<array>
-	<array>
-		<string>public.default</string>
-		<string>glyphs</string>
-	</array>
-	<array>
-		<string>public.background</string>
-		<string>glyphs.public.background</string>
-	</array>
-</array>
->>>>>>> e819e1ae6e7b73f7c9bde0eb3a18569a7eba5501
 </plist>
