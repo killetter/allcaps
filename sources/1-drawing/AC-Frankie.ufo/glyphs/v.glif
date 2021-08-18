@@ -8,8 +8,13 @@
 			<point x="324" y="0" type="line"/>
 			<point x="186" y="0" type="line"/>
 			<point x="76" y="395" type="line" smooth="yes"/>
+<<<<<<< HEAD
 			<point x="62" y="447"/>
 			<point x="55" y="452"/>
+=======
+			<point x="61" y="447"/>
+			<point x="55" y="453"/>
+>>>>>>> e819e1ae6e7b73f7c9bde0eb3a18569a7eba5501
 			<point x="22" y="458" type="curve"/>
 			<point x="15" y="538" type="line"/>
 			<point x="45" y="546"/>
@@ -21,6 +26,7 @@
 			<point x="267" y="81" type="line"/>
 			<point x="259" y="81" type="line"/>
 			<point x="336" y="395" type="line" smooth="yes"/>
+<<<<<<< HEAD
 			<point x="349" y="449"/>
 			<point x="358" y="464"/>
 			<point x="305" y="461" type="curve"/>
@@ -38,4 +44,17 @@
 			<string>2021-08-18 16:51:26 +0000</string>
 		</dict>
 	</lib>
+=======
+			<point x="349" y="448"/>
+			<point x="319" y="451"/>
+			<point x="289" y="458" type="curve"/>
+			<point x="282" y="538" type="line"/>
+			<point x="319" y="546"/>
+			<point x="374" y="556"/>
+			<point x="412" y="556" type="curve" smooth="yes"/>
+			<point x="464" y="556"/>
+			<point x="480" y="536"/>
+		</contour>
+	</outline>
+>>>>>>> e819e1ae6e7b73f7c9bde0eb3a18569a7eba5501
 </glyph>
