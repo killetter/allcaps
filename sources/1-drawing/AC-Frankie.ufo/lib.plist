@@ -13,8 +13,9 @@
 	</array>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>H</string>
-		<string>I</string>
+		<string>o</string>
+		<string>b</string>
+		<string>h</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -135,6 +136,7 @@
 		<string>N</string>
 		<string>O</string>
 		<string>T</string>
+		<string>b</string>
 		<string>h</string>
 		<string>n</string>
 		<string>o</string>
