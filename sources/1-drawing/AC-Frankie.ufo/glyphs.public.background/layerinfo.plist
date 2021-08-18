@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-<?xml version='1.0' encoding='UTF-8'?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-  <dict>
-    <key>n</key>
-    <string>n.glif</string>
-    <key>v</key>
-    <string>v.glif</string>
-  </dict>
-=======
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -25,5 +14,4 @@
 	<string>v.glif</string>
 </dict>
 >>>>>>> e819e1ae6e7b73f7c9bde0eb3a18569a7eba5501:sources/1-drawing/AC-Frankie.ufo/glyphs.public.background/contents.plist
->>>>>>> e819e1ae6e7b73f7c9bde0eb3a18569a7eba5501
 </plist>
