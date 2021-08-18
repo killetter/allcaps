@@ -12,9 +12,7 @@
 		</dict>
 	</array>
 	<key>com.schriftgestaltung.DisplayStrings</key>
-	<array>
-		<string>veneno</string>
-	</array>
+	<array/>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.fontMasterID</key>
