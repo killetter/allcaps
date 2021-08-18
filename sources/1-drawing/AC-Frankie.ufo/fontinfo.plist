@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
@@ -9,11 +9,11 @@
     <key>descender</key>
     <integer>-250</integer>
     <key>familyName</key>
-    <string>Nueva fuente</string>
+    <string>New Font</string>
     <key>guidelines</key>
     <array/>
     <key>openTypeHeadCreated</key>
-    <string>2021/08/18 16:08:35</string>
+    <string>2021/08/18 17:25:25</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Regular</string>
     <key>openTypeOS2WeightClass</key>
@@ -27,7 +27,7 @@
     <key>postscriptFamilyOtherBlues</key>
     <array/>
     <key>postscriptFontName</key>
-    <string>Nuevafuente-Regular</string>
+    <string>NewFont-Regular</string>
     <key>postscriptOtherBlues</key>
     <array/>
     <key>postscriptStemSnapH</key>

@@ -30,11 +30,7 @@
 			<point x="85" y="0" type="line"/>
 			<point x="195" y="0" type="line"/>
 			<point x="200" y="10" type="line"/>
-<<<<<<< HEAD
-			<point x="202" y="10"/>
-=======
 			<point x="200" y="10"/>
->>>>>>> e819e1ae6e7b73f7c9bde0eb3a18569a7eba5501
 			<point x="190" y="253"/>
 			<point x="190" y="352" type="curve" smooth="yes"/>
 			<point x="190" y="475"/>
@@ -76,13 +72,4 @@
 			<point x="495" y="95" type="line"/>
 		</contour>
 	</outline>
-<<<<<<< HEAD
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-08-18 16:09:38 +0000</string>
-		</dict>
-	</lib>
-=======
->>>>>>> e819e1ae6e7b73f7c9bde0eb3a18569a7eba5501
 </glyph>
