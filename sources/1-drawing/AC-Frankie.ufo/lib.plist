@@ -191,5 +191,7 @@
     </array>
     <key>public.postscriptNames</key>
     <dict/>
+    <key>public.skipExportGlyphs</key>
+    <array/>
   </dict>
 </plist>
