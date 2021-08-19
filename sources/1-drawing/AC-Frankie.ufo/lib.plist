@@ -123,7 +123,7 @@
     <key>com.typemytype.robofont.compileSettings.layerName</key>
     <string>public.default</string>
     <key>com.typemytype.robofont.compileSettings.path</key>
-    <string>/Library/Application Support/Adobe/Fonts/find-same-length-words-master.otf</string>
+    <string>/Users/imac/Documents/Torneo 2/Allcaps_git/allcaps/fonts/AC-Frankie.otf</string>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
     <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
@@ -194,6 +194,8 @@
       <string>Y</string>
       <string>Z</string>
       <string>oacute</string>
+      <string>hyphen</string>
+      <string>.notdef</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>

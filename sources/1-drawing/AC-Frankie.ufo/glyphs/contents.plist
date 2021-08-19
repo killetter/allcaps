@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>.notdef</key>
+    <string>_notdef.glif</string>
     <key>A</key>
     <string>A_.glif</string>
     <key>B</key>
@@ -74,6 +76,8 @@
     <string>g.glif</string>
     <key>h</key>
     <string>h.glif</string>
+    <key>hyphen</key>
+    <string>hyphen.glif</string>
     <key>i</key>
     <string>i.glif</string>
     <key>j</key>
