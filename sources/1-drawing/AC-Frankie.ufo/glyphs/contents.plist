@@ -96,8 +96,12 @@
 	<string>newG_lyph.001.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
+	<key>o.001</key>
+	<string>o.001.glif</string>
 	<key>oacute</key>
 	<string>oacute.glif</string>
+	<key>oacute.001</key>
+	<string>oacute.001.glif</string>
 	<key>p</key>
 	<string>p.glif</string>
 	<key>q</key>
