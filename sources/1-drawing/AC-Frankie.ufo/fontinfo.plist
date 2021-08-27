@@ -24,6 +24,8 @@
 		<integer>0</integer>
 		<integer>500</integer>
 		<integer>510</integer>
+		<integer>670</integer>
+		<integer>680</integer>
 	</array>
 	<key>postscriptFontName</key>
 	<string>NewFont-Regular</string>
