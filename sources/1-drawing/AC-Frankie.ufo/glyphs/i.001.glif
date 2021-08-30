@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i.001" format="2">
   <advance width="500"/>
   <outline>
   </outline>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.001" format="2">
+	<advance width="500"/>
+	<outline>
+	</outline>
+>>>>>>> bd3ae18285ff7750f1b7ed4a84cd4a6bd753374b
 </glyph>
