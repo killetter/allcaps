@@ -11,6 +11,11 @@
 			<string>characterSet</string>
 		</dict>
 	</array>
+	<key>com.schriftgestaltung.DisplayStrings</key>
+	<array>
+		<string>LEnOoqdNEndeGIEL
+NHNHNHNHN</string>
+	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.fontMaster.customParameters</key>
