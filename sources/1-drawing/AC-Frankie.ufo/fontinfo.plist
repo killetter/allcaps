@@ -19,7 +19,14 @@
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
-	<array/>
+	<array>
+		<real>-10.0</real>
+		<real>0.0</real>
+		<real>510.0</real>
+		<real>520.0</real>
+		<real>670.0</real>
+		<real>680.0</real>
+	</array>
 	<key>postscriptFontName</key>
 	<string>NewFont-Regular</string>
 	<key>postscriptOtherBlues</key>
@@ -35,6 +42,6 @@
 	<key>versionMinor</key>
 	<integer>0</integer>
 	<key>xHeight</key>
-	<integer>550</integer>
+	<integer>510</integer>
 </dict>
 </plist>
