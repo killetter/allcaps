@@ -9,7 +9,11 @@
 	<key>descender</key>
 	<integer>-250</integer>
 	<key>familyName</key>
+<<<<<<< Updated upstream
 	<string>New Font</string>
+=======
+	<string>AC-Frankie</string>
+>>>>>>> Stashed changes
 	<key>openTypeHeadCreated</key>
 	<string>2021/08/18 17:25:25</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
@@ -19,7 +23,16 @@
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
+<<<<<<< Updated upstream
 	<array/>
+=======
+	<array>
+		<real>-10.0</real>
+		<real>0.0</real>
+		<real>670.0</real>
+		<real>680.0</real>
+	</array>
+>>>>>>> Stashed changes
 	<key>postscriptFontName</key>
 	<string>NewFont-Regular</string>
 	<key>postscriptOtherBlues</key>
@@ -35,6 +48,10 @@
 	<key>versionMinor</key>
 	<integer>0</integer>
 	<key>xHeight</key>
+<<<<<<< Updated upstream
 	<integer>550</integer>
+=======
+	<integer>510</integer>
+>>>>>>> Stashed changes
 </dict>
 </plist>

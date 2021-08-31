@@ -6,19 +6,162 @@
 	<array>
 		<dict>
 			<key>ascending</key>
+<<<<<<< Updated upstream
 			<string>Beta</string>
 			<key>type</key>
 			<string>characterSet</string>
+=======
+			<array>
+				<string>A</string>
+				<string>B</string>
+				<string>C</string>
+				<string>D</string>
+				<string>E</string>
+				<string>F</string>
+				<string>G</string>
+				<string>H</string>
+				<string>I</string>
+				<string>J</string>
+				<string>K</string>
+				<string>L</string>
+				<string>M</string>
+				<string>N</string>
+				<string>Ñ</string>
+				<string>O</string>
+				<string>P</string>
+				<string>Q</string>
+				<string>R</string>
+				<string>S</string>
+				<string>T</string>
+				<string>U</string>
+				<string>V</string>
+				<string>W</string>
+				<string>X</string>
+				<string>Y</string>
+				<string>Z</string>
+				<string>a</string>
+				<string>b</string>
+				<string>c</string>
+				<string>d</string>
+				<string>e</string>
+				<string>f</string>
+				<string>g</string>
+				<string>h</string>
+				<string>i</string>
+				<string>j</string>
+				<string>k</string>
+				<string>l</string>
+				<string>m</string>
+				<string>n</string>
+				<string>ñ</string>
+				<string>o</string>
+				<string>p</string>
+				<string>q</string>
+				<string>r</string>
+				<string>s</string>
+				<string>t</string>
+				<string>u</string>
+				<string>v</string>
+				<string>w</string>
+				<string>x</string>
+				<string>y</string>
+				<string>z</string>
+				<string>Á</string>
+				<string>é</string>
+				<string>í</string>
+				<string>ó</string>
+				<string>ú</string>
+				<string>ü</string>
+				<string>á</string>
+				<string>period</string>
+				<string>colon</string>
+				<string>semicolon</string>
+				<string>question</string>
+				<string>questiondown</string>
+				<string>exclam</string>
+				<string>exclamdown</string>
+				<string>slash</string>
+				<string>hyphen</string>
+				<string>underscore</string>
+				<string>parenleft</string>
+				<string>parenright</string>
+				<string>quotedblleft</string>
+				<string>quotedblright</string>
+				<string>quoteleft</string>
+				<string>quoteright</string>
+				<string>ampersand</string>
+				<string>numbersign</string>
+				<string>acute</string>
+				<string>grave</string>
+				<string>tilde</string>
+				<string>dieresis</string>
+				<string>space</string>
+				<string>zero</string>
+				<string>one</string>
+				<string>two</string>
+				<string>three</string>
+				<string>four</string>
+				<string>five</string>
+				<string>six</string>
+				<string>seven</string>
+				<string>eight</string>
+				<string>nine</string>
+				<string>at</string>
+				<string>.notdef</string>
+				<string>→</string>
+				<string>←</string>
+				<string>↑</string>
+				<string>↓</string>
+				<string>↔︎</string>
+				<string>↕︎</string>
+				<string>↘︎</string>
+				<string>↗︎</string>
+				<string>N.001</string>
+				<string>T.001</string>
+				<string>oacute</string>
+				<string>i.001</string>
+				<string>o.001</string>
+				<string>oacute.001</string>
+				<string>newGlyph</string>
+				<string>newGlyph.001</string>
+			</array>
+			<key>type</key>
+			<string>glyphList</string>
+>>>>>>> Stashed changes
 		</dict>
 	</array>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
+<<<<<<< Updated upstream
 		<string>o</string>
 		<string>b</string>
 		<string>h</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
+=======
+		<string>/v.001</string>
+		<string>w</string>
+	</array>
+	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
+	<false/>
+	<key>com.schriftgestaltung.fontMaster.customParameters</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Alignment Zones</string>
+			<key>value</key>
+			<array>
+				<dict>
+					<key>pos</key>
+					<real>500.0</real>
+					<key>size</key>
+					<real>10.0</real>
+				</dict>
+			</array>
+		</dict>
+	</array>
+>>>>>>> Stashed changes
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>master01</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
@@ -109,6 +252,7 @@
 	</array>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<false/>
+<<<<<<< Updated upstream
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
 	<true/>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
@@ -119,6 +263,24 @@
 	<false/>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
+=======
+	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+	<false/>
+	<key>com.typemytype.robofont.compileSettings.autohint</key>
+	<true/>
+	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
+	<true/>
+	<key>com.typemytype.robofont.compileSettings.decompose</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
+	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.layerName</key>
+	<string>public.default</string>
+	<key>com.typemytype.robofont.compileSettings.path</key>
+	<string>/Users/imac/Documents/Torneo 2/Allcaps_git/allcaps/fonts/AC-Frankie.otf</string>
+>>>>>>> Stashed changes
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<false/>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
@@ -131,6 +293,7 @@
 	<string>4726967056</string>
 	<key>public.glyphOrder</key>
 	<array>
+<<<<<<< Updated upstream
 		<string>H</string>
 		<string>I</string>
 		<string>N</string>
@@ -144,6 +307,75 @@
 		<string>space</string>
 		<string>N.001</string>
 		<string>T.001</string>
+=======
+		<string>A</string>
+		<string>B</string>
+		<string>C</string>
+		<string>D</string>
+		<string>E</string>
+		<string>F</string>
+		<string>G</string>
+		<string>H</string>
+		<string>I</string>
+		<string>J</string>
+		<string>K</string>
+		<string>L</string>
+		<string>M</string>
+		<string>N</string>
+		<string>O</string>
+		<string>P</string>
+		<string>Q</string>
+		<string>R</string>
+		<string>S</string>
+		<string>T</string>
+		<string>U</string>
+		<string>V</string>
+		<string>W</string>
+		<string>X</string>
+		<string>Y</string>
+		<string>Z</string>
+		<string>a</string>
+		<string>b</string>
+		<string>c</string>
+		<string>d</string>
+		<string>e</string>
+		<string>f</string>
+		<string>g</string>
+		<string>h</string>
+		<string>i</string>
+		<string>j</string>
+		<string>k</string>
+		<string>l</string>
+		<string>m</string>
+		<string>n</string>
+		<string>o</string>
+		<string>p</string>
+		<string>q</string>
+		<string>r</string>
+		<string>s</string>
+		<string>t</string>
+		<string>u</string>
+		<string>v</string>
+		<string>w</string>
+		<string>x</string>
+		<string>y</string>
+		<string>z</string>
+		<string>hyphen</string>
+		<string>space</string>
+		<string>.notdef</string>
+		<string>Ñ</string>
+		<string>N.001</string>
+		<string>N.002</string>
+		<string>T.001</string>
+		<string>oacute</string>
+		<string>i.001</string>
+		<string>o.001</string>
+		<string>oacute.001</string>
+		<string>v.001</string>
+		<string>grave</string>
+		<string>acute</string>
+		<string>tilde</string>
+>>>>>>> Stashed changes
 		<string>newGlyph</string>
 		<string>newGlyph.001</string>
 	</array>
