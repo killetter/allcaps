@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Ñ" format="2">
-  <advance width="609"/>
-  <outline>
-    <component base="N"/>
-    <component base="tilde" xScale="1.069022361653114" xOffset="100" yOffset="130"/>
-  </outline>
-</glyph>
