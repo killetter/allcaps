@@ -130,6 +130,8 @@
 	<string>u.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
+	<key>v.001</key>
+	<string>v.001.glif</string>
 	<key>w</key>
 	<string>w.glif</string>
 	<key>x</key>
@@ -138,5 +140,7 @@
 	<string>y.glif</string>
 	<key>z</key>
 	<string>z.glif</string>
+	<key>Ñ</key>
+	<string>Ñ_.glif</string>
 </dict>
 </plist>
