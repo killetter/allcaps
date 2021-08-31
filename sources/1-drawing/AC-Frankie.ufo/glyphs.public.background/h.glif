@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="n" format="2">
+<glyph name="h" format="2">
   <advance width="566"/>
-  <unicode hex="006E"/>
+  <unicode hex="0068"/>
   <outline>
     <contour>
       <point x="476" y="37" type="line"/>
@@ -59,12 +59,4 @@
       <point x="109" y="425" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2021-08-27 20:46:11 +0000</string>
-      <key>public.markColor</key>
-      <string>0.3874,1,0.8237,1</string>
-    </dict>
-  </lib>
 </glyph>
