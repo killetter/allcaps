@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="G" format="2">
-<<<<<<< HEAD
-<<<<<<< HEAD
-  <advance width="500"/>
-  <unicode hex="0047"/>
-  <outline>
-  </outline>
-=======
-=======
->>>>>>> 2a506f76b54ca070ab916e5704046982afc5f847
 	<advance width="500"/>
 	<unicode hex="0047"/>
 	<outline>
@@ -74,8 +65,4 @@
 			<string>2021-08-30 03:33:29 +0000</string>
 		</dict>
 	</lib>
-<<<<<<< HEAD
->>>>>>> bd3ae18285ff7750f1b7ed4a84cd4a6bd753374b
-=======
->>>>>>> 2a506f76b54ca070ab916e5704046982afc5f847
 </glyph>
