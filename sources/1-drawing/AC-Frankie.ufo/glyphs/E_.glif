@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="2">
+<<<<<<< HEAD
 <<<<<<< HEAD
   <advance width="430"/>
   <unicode hex="0045"/>
@@ -60,6 +61,8 @@
     </contour>
   </outline>
 =======
+=======
+>>>>>>> 2a506f76b54ca070ab916e5704046982afc5f847
 	<advance width="430"/>
 	<unicode hex="0045"/>
 	<outline>
@@ -124,5 +127,8 @@
 			<string>2021-08-30 02:21:10 +0000</string>
 		</dict>
 	</lib>
+<<<<<<< HEAD
 >>>>>>> bd3ae18285ff7750f1b7ed4a84cd4a6bd753374b
+=======
+>>>>>>> 2a506f76b54ca070ab916e5704046982afc5f847
 </glyph>

@@ -1,8 +1,33 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ñ" format="2">
-  <advance width="609"/>
-  <outline>
-    <component base="N"/>
-    <component base="tilde" xScale="1.069022361653114" xOffset="100" yOffset="130"/>
-  </outline>
+	<advance width="609"/>
+	<outline>
+		<component base="N"/>
+		<component base="tilde" xScale="1.069" xOffset="100" yOffset="130"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>N</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>tilde</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-08-31 19:09:57 +0000</string>
+		</dict>
+	</lib>
 </glyph>

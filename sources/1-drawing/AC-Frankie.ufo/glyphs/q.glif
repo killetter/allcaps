@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="q" format="2">
+<<<<<<< HEAD
 <<<<<<< HEAD
   <advance width="530"/>
   <unicode hex="0071"/>
@@ -64,6 +65,8 @@
     </dict>
   </lib>
 =======
+=======
+>>>>>>> 2a506f76b54ca070ab916e5704046982afc5f847
 	<advance width="496"/>
 	<unicode hex="0071"/>
 	<outline>
@@ -135,5 +138,8 @@
 			<string>=o</string>
 		</dict>
 	</lib>
+<<<<<<< HEAD
 >>>>>>> bd3ae18285ff7750f1b7ed4a84cd4a6bd753374b
+=======
+>>>>>>> 2a506f76b54ca070ab916e5704046982afc5f847
 </glyph>
