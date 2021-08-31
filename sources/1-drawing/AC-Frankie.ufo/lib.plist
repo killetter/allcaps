@@ -119,15 +119,11 @@
 				<string>oacute.001</string>
 				<string>newGlyph</string>
 				<string>newGlyph.001</string>
+				<string>v.001</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
 		</dict>
-	</array>
-	<key>com.schriftgestaltung.DisplayStrings</key>
-	<array>
-		<string>/Ñ/Ñ</string>
-		<string>/N.001 GLdq</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -279,7 +275,6 @@
 		<string>L</string>
 		<string>M</string>
 		<string>N</string>
-		<string>Ñ</string>
 		<string>O</string>
 		<string>P</string>
 		<string>Q</string>
@@ -319,20 +314,23 @@
 		<string>y</string>
 		<string>z</string>
 		<string>hyphen</string>
-		<string>acute</string>
-		<string>grave</string>
-		<string>tilde</string>
 		<string>space</string>
 		<string>.notdef</string>
+		<string>Ntilde</string>
 		<string>N.001</string>
 		<string>T.001</string>
+		<string>N.002</string>
 		<string>oacute</string>
 		<string>i.001</string>
 		<string>o.001</string>
 		<string>oacute.001</string>
+		<string>grave</string>
+		<string>acute</string>
+		<string>tilde</string>
 		<string>newGlyph</string>
 		<string>newGlyph.001</string>
-		<string>N.002</string>
+		<string>v.001</string>
+		<string>Ñ</string>
 	</array>
 	<key>public.postscriptNames</key>
 	<dict/>

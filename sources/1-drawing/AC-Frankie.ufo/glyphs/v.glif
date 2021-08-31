@@ -2,7 +2,7 @@
 <glyph name="v" format="2">
 	<advance width="489"/>
 	<unicode hex="0076"/>
-	<guideline x="49" y="459" angle="0" identifier="GhKdVA1Hy2"/>
+	<guideline x="49" y="459" angle="0"/>
 	<outline>
 		<contour>
 			<point x="458" y="426" type="curve" smooth="yes"/>

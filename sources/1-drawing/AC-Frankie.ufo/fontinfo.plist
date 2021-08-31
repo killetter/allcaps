@@ -22,13 +22,18 @@
 	<array>
 		<real>-10.0</real>
 		<real>0.0</real>
+		<real>510.0</real>
+		<real>520.0</real>
 		<real>670.0</real>
 		<real>680.0</real>
 	</array>
 	<key>postscriptFontName</key>
 	<string>NewFont-Regular</string>
 	<key>postscriptOtherBlues</key>
-	<array/>
+	<array>
+		<real>-260.0</real>
+		<real>-250.0</real>
+	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>

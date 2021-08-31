@@ -2,7 +2,7 @@
 <glyph name="o" format="2">
 	<advance width="489"/>
 	<unicode hex="006F"/>
-	<guideline x="-28" y="461" angle="0" identifier="Emvunvt92q"/>
+	<guideline x="-28" y="461" angle="0"/>
 	<outline>
 		<contour>
 			<point x="244" y="80" type="curve" smooth="yes"/>
