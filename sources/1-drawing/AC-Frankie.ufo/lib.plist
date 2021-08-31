@@ -119,6 +119,7 @@
 				<string>oacute.001</string>
 				<string>newGlyph</string>
 				<string>newGlyph.001</string>
+				<string>v.001</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -126,202 +127,10 @@
 	</array>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>fo</string>
-		<string>gon</string>
-		<string>s</string>
-		<string>rana</string>
-		<string>QQ</string>
-		<string>oogoogoir</string>
-		<string>Qrg</string>
-		<string>N</string>
-		<string>g</string>
-		<string>OQlrg</string>
+		<string>ÑÑ/Ñ/Ñ</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
-	<key>com.schriftgestaltung.font.customParameters</key>
-	<array>
-		<dict>
-			<key>name</key>
-			<string>glyphOrder</string>
-			<key>value</key>
-			<array>
-				<string>A</string>
-				<string>B</string>
-				<string>C</string>
-				<string>D</string>
-				<string>E</string>
-				<string>F</string>
-				<string>G</string>
-				<string>H</string>
-				<string>I</string>
-				<string>J</string>
-				<string>K</string>
-				<string>L</string>
-				<string>M</string>
-				<string>N</string>
-				<string>O</string>
-				<string>P</string>
-				<string>Q</string>
-				<string>R</string>
-				<string>S</string>
-				<string>T</string>
-				<string>U</string>
-				<string>V</string>
-				<string>W</string>
-				<string>X</string>
-				<string>Y</string>
-				<string>Z</string>
-				<string>a</string>
-				<string>b</string>
-				<string>c</string>
-				<string>d</string>
-				<string>e</string>
-				<string>f</string>
-				<string>g</string>
-				<string>h</string>
-				<string>i</string>
-				<string>j</string>
-				<string>k</string>
-				<string>l</string>
-				<string>m</string>
-				<string>n</string>
-				<string>o</string>
-				<string>p</string>
-				<string>q</string>
-				<string>r</string>
-				<string>s</string>
-				<string>t</string>
-				<string>u</string>
-				<string>v</string>
-				<string>w</string>
-				<string>x</string>
-				<string>y</string>
-				<string>z</string>
-				<string>period</string>
-				<string>comma</string>
-				<string>colon</string>
-				<string>semicolon</string>
-				<string>question</string>
-				<string>exclam</string>
-				<string>slash</string>
-				<string>hyphen</string>
-				<string>endash</string>
-				<string>emdash</string>
-				<string>parenleft</string>
-				<string>parenright</string>
-				<string>quotedblleft</string>
-				<string>quotedblright</string>
-				<string>quoteleft</string>
-				<string>quoteright</string>
-				<string>at</string>
-				<string>ampersand</string>
-				<string>space</string>
-				<string>zero</string>
-				<string>one</string>
-				<string>two</string>
-				<string>three</string>
-				<string>four</string>
-				<string>five</string>
-				<string>six</string>
-				<string>seven</string>
-				<string>eight</string>
-				<string>nine</string>
-				<string>dollar</string>
-				<string>.notdef</string>
-			</array>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>glyphOrder</string>
-			<key>value</key>
-			<array>
-				<string>A</string>
-				<string>B</string>
-				<string>C</string>
-				<string>D</string>
-				<string>E</string>
-				<string>F</string>
-				<string>G</string>
-				<string>H</string>
-				<string>I</string>
-				<string>J</string>
-				<string>K</string>
-				<string>L</string>
-				<string>M</string>
-				<string>N</string>
-				<string>O</string>
-				<string>P</string>
-				<string>Q</string>
-				<string>R</string>
-				<string>S</string>
-				<string>T</string>
-				<string>U</string>
-				<string>V</string>
-				<string>W</string>
-				<string>X</string>
-				<string>Y</string>
-				<string>Z</string>
-				<string>a</string>
-				<string>b</string>
-				<string>c</string>
-				<string>d</string>
-				<string>e</string>
-				<string>f</string>
-				<string>g</string>
-				<string>h</string>
-				<string>i</string>
-				<string>j</string>
-				<string>k</string>
-				<string>l</string>
-				<string>m</string>
-				<string>n</string>
-				<string>o</string>
-				<string>p</string>
-				<string>q</string>
-				<string>r</string>
-				<string>s</string>
-				<string>t</string>
-				<string>u</string>
-				<string>v</string>
-				<string>w</string>
-				<string>x</string>
-				<string>y</string>
-				<string>z</string>
-				<string>period</string>
-				<string>comma</string>
-				<string>colon</string>
-				<string>semicolon</string>
-				<string>question</string>
-				<string>exclam</string>
-				<string>slash</string>
-				<string>hyphen</string>
-				<string>endash</string>
-				<string>emdash</string>
-				<string>parenleft</string>
-				<string>parenright</string>
-				<string>quotedblleft</string>
-				<string>quotedblright</string>
-				<string>quoteleft</string>
-				<string>quoteright</string>
-				<string>at</string>
-				<string>ampersand</string>
-				<string>space</string>
-				<string>zero</string>
-				<string>one</string>
-				<string>two</string>
-				<string>three</string>
-				<string>four</string>
-				<string>five</string>
-				<string>six</string>
-				<string>seven</string>
-				<string>eight</string>
-				<string>nine</string>
-				<string>dollar</string>
-				<string>.notdef</string>
-			</array>
-		</dict>
-	</array>
 	<key>com.schriftgestaltung.fontMaster.customParameters</key>
 	<array>
 		<dict>
@@ -524,6 +333,8 @@
 		<string>tilde</string>
 		<string>newGlyph</string>
 		<string>newGlyph.001</string>
+		<string>v.001</string>
+		<string>Ñ</string>
 	</array>
 	<key>public.postscriptNames</key>
 	<dict/>
