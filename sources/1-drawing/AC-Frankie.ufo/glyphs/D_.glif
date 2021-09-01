@@ -1,41 +1,53 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="2">
-  <advance width="462"/>
-  <unicode hex="0044"/>
-  <outline>
-    <contour>
-      <point x="35" y="0" type="line"/>
-      <point x="179" y="-4" type="line" smooth="yes"/>
-      <point x="375" y="-9"/>
-      <point x="442" y="107"/>
-      <point x="442" y="351" type="curve" smooth="yes"/>
-      <point x="442" y="595"/>
-      <point x="383" y="683"/>
-      <point x="145" y="674" type="curve" smooth="yes"/>
-      <point x="35" y="670" type="line"/>
-      <point x="30" y="661" type="line"/>
-      <point x="38" y="460"/>
-      <point x="38" y="213"/>
-      <point x="30" y="12" type="curve"/>
-    </contour>
-    <contour>
-      <point x="301" y="572"/>
-      <point x="329" y="539"/>
-      <point x="329" y="351" type="curve" smooth="yes"/>
-      <point x="329" y="164"/>
-      <point x="299" y="96"/>
-      <point x="117" y="96" type="curve"/>
-      <point x="141" y="66" type="line"/>
-      <point x="141" y="601" type="line"/>
-      <point x="118" y="572" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2021-08-31 13:49:08 +0000</string>
-      <key>public.markColor</key>
-      <string>0.3874,1,0.8237,1</string>
-    </dict>
-  </lib>
+	<advance width="498"/>
+	<unicode hex="0044"/>
+	<outline>
+		<contour>
+			<point x="53" y="0" type="line"/>
+			<point x="208" y="0" type="line" smooth="yes"/>
+			<point x="375" y="0"/>
+			<point x="458" y="110"/>
+			<point x="458" y="331" type="curve" smooth="yes"/>
+			<point x="458" y="558"/>
+			<point x="387" y="670"/>
+			<point x="245" y="670" type="curve" smooth="yes"/>
+			<point x="53" y="670" type="line"/>
+			<point x="48" y="661" type="line"/>
+			<point x="53" y="548"/>
+			<point x="55" y="440"/>
+			<point x="55" y="337" type="curve" smooth="yes"/>
+			<point x="55" y="234"/>
+			<point x="53" y="127"/>
+			<point x="48" y="12" type="curve"/>
+		</contour>
+		<contour>
+			<point x="311" y="571"/>
+			<point x="345" y="498"/>
+			<point x="345" y="331" type="curve" smooth="yes"/>
+			<point x="345" y="168"/>
+			<point x="307" y="96"/>
+			<point x="220" y="96" type="curve" smooth="yes"/>
+			<point x="121" y="96" type="line"/>
+			<point x="160" y="66" type="line"/>
+			<point x="160" y="114"/>
+			<point x="155" y="194"/>
+			<point x="155" y="339" type="curve" smooth="yes"/>
+			<point x="155" y="469"/>
+			<point x="157" y="549"/>
+			<point x="160" y="601" type="curve"/>
+			<point x="131" y="571" type="line"/>
+			<point x="233" y="571" type="line" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-01 03:16:30 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=O</string>
+			<key>public.markColor</key>
+			<string>0.39,1,0.82,1</string>
+		</dict>
+	</lib>
 </glyph>
