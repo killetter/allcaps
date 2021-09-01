@@ -125,10 +125,6 @@
 			<string>glyphList</string>
 		</dict>
 	</array>
-	<key>com.schriftgestaltung.DisplayStrings</key>
-	<array>
-		<string>ÑÑ/Ñ/Ñ</string>
-	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.fontMaster.customParameters</key>
