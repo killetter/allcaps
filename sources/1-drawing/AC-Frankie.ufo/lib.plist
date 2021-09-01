@@ -318,30 +318,31 @@
       <string>y</string>
       <string>z</string>
       <string>hyphen</string>
+      <string>acute</string>
+      <string>grave</string>
+      <string>tilde</string>
       <string>space</string>
       <string>.notdef</string>
-      <string>Ntilde</string>
       <string>N.001</string>
+      <string>T.001</string>
+      <string>oacute</string>
+      <string>i.001</string>
+      <string>o.001</string>
+      <string>oacute.001</string>
+      <string>newGlyph</string>
+      <string>newGlyph.001</string>
+      <string>v.001</string>
+      <string>Ntilde</string>
       <string>N.002</string>
       <string>N.003</string>
-      <string>T.001</string>
       <string>aacute</string>
       <string>ntilde</string>
-      <string>oacute</string>
       <string>a.alt</string>
       <string>i.alt</string>
       <string>h.001</string>
-      <string>i.001</string>
       <string>m.001</string>
       <string>n.001</string>
-      <string>o.001</string>
-      <string>oacute.001</string>
-      <string>v.001</string>
-      <string>grave</string>
-      <string>acute</string>
-      <string>tilde</string>
-      <string>newGlyph</string>
-      <string>newGlyph.001</string>
+      <string>Q.alt</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>
