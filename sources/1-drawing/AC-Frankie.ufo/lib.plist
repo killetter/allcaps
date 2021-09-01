@@ -127,7 +127,7 @@
 	</array>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>BCDEFGHIJKLMN/N.003/N.001 OPQRSTUVvWXYZbdpqaabcdefghijklabdpqmnopqrstuvwÑnáoóncncncncncnccenenenecececocococococ</string>
+		<string>h/h.001 m/m.001 n/n.001</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -330,7 +330,10 @@
 		<string>oacute</string>
 		<string>a.alt</string>
 		<string>i.alt</string>
+		<string>h.001</string>
 		<string>i.001</string>
+		<string>m.001</string>
+		<string>n.001</string>
 		<string>o.001</string>
 		<string>oacute.001</string>
 		<string>v.001</string>

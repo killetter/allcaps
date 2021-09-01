@@ -90,6 +90,8 @@
 	<string>grave.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
+	<key>h.001</key>
+	<string>h.001.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
 	<key>i</key>
@@ -106,8 +108,12 @@
 	<string>l.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
+	<key>m.001</key>
+	<string>m.001.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
+	<key>n.001</key>
+	<string>n.001.glif</string>
 	<key>newGlyph</key>
 	<string>newG_lyph.glif</string>
 	<key>newGlyph.001</key>

@@ -32,8 +32,12 @@
 	<string>g.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
+	<key>h.001</key>
+	<string>h.001.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
+	<key>m.001</key>
+	<string>m.001.glif</string>
 	<key>v.001</key>
 	<string>v.001.glif</string>
 </dict>
