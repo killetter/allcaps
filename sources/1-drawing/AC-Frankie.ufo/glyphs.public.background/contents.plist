@@ -42,7 +42,11 @@
     <string>m.001.glif</string>
     <key>n.001</key>
     <string>n.001.glif</string>
+    <key>r</key>
+    <string>r.glif</string>
     <key>v.001</key>
     <string>v.001.glif</string>
+    <key>w</key>
+    <string>w.glif</string>
   </dict>
 </plist>
