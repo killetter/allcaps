@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="o" format="2">
+<glyph name="g" format="2">
   <advance width="489"/>
-  <unicode hex="006F"/>
-  <guideline x="-28" y="461" angle="0" identifier="7lZhvwE96q"/>
+  <unicode hex="0067"/>
   <outline>
     <contour>
       <point x="244" y="80" type="curve" smooth="yes"/>
@@ -33,12 +32,4 @@
       <point x="372" y="-10"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2021-08-27 00:44:02 +0000</string>
-      <key>public.markColor</key>
-      <string>0.3874,1,0.8237,1</string>
-    </dict>
-  </lib>
 </glyph>
