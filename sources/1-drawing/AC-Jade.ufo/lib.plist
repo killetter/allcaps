@@ -5,124 +5,12 @@
     <key>com.defcon.sortDescriptor</key>
     <array>
       <dict>
+        <key>allowPseudoUnicode</key>
+        <integer>1</integer>
         <key>ascending</key>
-        <array>
-          <string>A</string>
-          <string>B</string>
-          <string>C</string>
-          <string>D</string>
-          <string>E</string>
-          <string>F</string>
-          <string>G</string>
-          <string>H</string>
-          <string>I</string>
-          <string>J</string>
-          <string>K</string>
-          <string>L</string>
-          <string>M</string>
-          <string>N</string>
-          <string>Ñ</string>
-          <string>O</string>
-          <string>P</string>
-          <string>Q</string>
-          <string>R</string>
-          <string>S</string>
-          <string>T</string>
-          <string>U</string>
-          <string>V</string>
-          <string>W</string>
-          <string>X</string>
-          <string>Y</string>
-          <string>Z</string>
-          <string>a</string>
-          <string>b</string>
-          <string>c</string>
-          <string>d</string>
-          <string>e</string>
-          <string>f</string>
-          <string>g</string>
-          <string>h</string>
-          <string>i</string>
-          <string>j</string>
-          <string>k</string>
-          <string>l</string>
-          <string>m</string>
-          <string>n</string>
-          <string>ñ</string>
-          <string>o</string>
-          <string>p</string>
-          <string>q</string>
-          <string>r</string>
-          <string>s</string>
-          <string>t</string>
-          <string>u</string>
-          <string>v</string>
-          <string>w</string>
-          <string>x</string>
-          <string>y</string>
-          <string>z</string>
-          <string>Á</string>
-          <string>é</string>
-          <string>í</string>
-          <string>ó</string>
-          <string>ú</string>
-          <string>ü</string>
-          <string>á</string>
-          <string>period</string>
-          <string>colon</string>
-          <string>semicolon</string>
-          <string>question</string>
-          <string>questiondown</string>
-          <string>exclam</string>
-          <string>exclamdown</string>
-          <string>slash</string>
-          <string>hyphen</string>
-          <string>underscore</string>
-          <string>parenleft</string>
-          <string>parenright</string>
-          <string>quotedblleft</string>
-          <string>quotedblright</string>
-          <string>quoteleft</string>
-          <string>quoteright</string>
-          <string>ampersand</string>
-          <string>numbersign</string>
-          <string>acute</string>
-          <string>grave</string>
-          <string>tilde</string>
-          <string>dieresis</string>
-          <string>space</string>
-          <string>zero</string>
-          <string>one</string>
-          <string>two</string>
-          <string>three</string>
-          <string>four</string>
-          <string>five</string>
-          <string>six</string>
-          <string>seven</string>
-          <string>eight</string>
-          <string>nine</string>
-          <string>at</string>
-          <string>.notdef</string>
-          <string>→</string>
-          <string>←</string>
-          <string>↑</string>
-          <string>↓</string>
-          <string>↔︎</string>
-          <string>↕︎</string>
-          <string>↘︎</string>
-          <string>↗︎</string>
-          <string>N.001</string>
-          <string>T.001</string>
-          <string>oacute</string>
-          <string>i.001</string>
-          <string>o.001</string>
-          <string>oacute.001</string>
-          <string>newGlyph</string>
-          <string>newGlyph.001</string>
-          <string>v.001</string>
-        </array>
+        <string>Torneo</string>
         <key>type</key>
-        <string>glyphList</string>
+        <string>characterSet</string>
       </dict>
     </array>
     <key>com.schriftgestaltung.DisplayStrings</key>
@@ -317,12 +205,55 @@
       <string>x</string>
       <string>y</string>
       <string>z</string>
+      <string>Á</string>
+      <string>é</string>
+      <string>í</string>
+      <string>ó</string>
+      <string>ú</string>
+      <string>ü</string>
+      <string>á</string>
+      <string>period</string>
+      <string>colon</string>
+      <string>semicolon</string>
+      <string>question</string>
+      <string>questiondown</string>
+      <string>exclam</string>
+      <string>exclamdown</string>
+      <string>slash</string>
       <string>hyphen</string>
+      <string>underscore</string>
+      <string>parenleft</string>
+      <string>parenright</string>
+      <string>quotedblleft</string>
+      <string>quotedblright</string>
+      <string>quoteleft</string>
+      <string>quoteright</string>
+      <string>ampersand</string>
+      <string>numbersign</string>
+      <string>space</string>
+      <string>zero</string>
+      <string>one</string>
+      <string>two</string>
+      <string>three</string>
+      <string>four</string>
+      <string>five</string>
+      <string>six</string>
+      <string>seven</string>
+      <string>eight</string>
+      <string>nine</string>
+      <string>at</string>
+      <string>.notdef</string>
+      <string>→</string>
+      <string>←</string>
+      <string>↑</string>
+      <string>↓</string>
+      <string>↔︎</string>
+      <string>↕︎</string>
+      <string>↘︎</string>
+      <string>↗︎</string>
       <string>acute</string>
       <string>grave</string>
       <string>tilde</string>
-      <string>space</string>
-      <string>.notdef</string>
       <string>N.001</string>
       <string>T.001</string>
       <string>oacute</string>
@@ -343,6 +274,7 @@
       <string>m.001</string>
       <string>n.001</string>
       <string>Q.alt</string>
+      <string>u.alt</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>
