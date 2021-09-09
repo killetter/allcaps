@@ -3,13 +3,13 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>750</integer>
+    <integer>780</integer>
     <key>capHeight</key>
     <integer>670</integer>
     <key>descender</key>
-    <integer>-250</integer>
+    <integer>-220</integer>
     <key>familyName</key>
-    <string>AC-Frankie</string>
+    <string>AC-Jade</string>
     <key>guidelines</key>
     <array>
       <dict>
@@ -33,6 +33,8 @@
         <integer>430</integer>
       </dict>
     </array>
+    <key>openTypeNameDesigner</key>
+    <string>Andrea Buendía, Constanza Rizzo, Juan José Melendez, Miguel Ángel Contreras, Tamara Segura</string>
     <key>openTypeOS2WeightClass</key>
     <integer>400</integer>
     <key>openTypeOS2WidthClass</key>
@@ -52,8 +54,8 @@
     <array/>
     <key>postscriptOtherBlues</key>
     <array>
-      <real>-260.0</real>
-      <real>-250.0</real>
+      <integer>-230</integer>
+      <integer>-220</integer>
     </array>
     <key>postscriptStemSnapH</key>
     <array/>

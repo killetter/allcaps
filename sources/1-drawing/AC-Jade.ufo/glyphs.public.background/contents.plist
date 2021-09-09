@@ -8,10 +8,28 @@
     <string>C_.glif</string>
     <key>D</key>
     <string>D_.glif</string>
+    <key>E</key>
+    <string>E_.glif</string>
+    <key>F</key>
+    <string>F_.glif</string>
     <key>G</key>
     <string>G_.glif</string>
+    <key>H</key>
+    <string>H_.glif</string>
+    <key>I</key>
+    <string>I_.glif</string>
+    <key>L</key>
+    <string>L_.glif</string>
+    <key>N</key>
+    <string>N_.glif</string>
+    <key>O</key>
+    <string>O_.glif</string>
+    <key>P</key>
+    <string>P_.glif</string>
     <key>Q.alt</key>
     <string>Q_.alt.glif</string>
+    <key>U</key>
+    <string>U_.glif</string>
     <key>V</key>
     <string>V_.glif</string>
     <key>a</key>
@@ -36,14 +54,30 @@
     <string>h.glif</string>
     <key>h.001</key>
     <string>h.001.glif</string>
+    <key>i</key>
+    <string>i.glif</string>
+    <key>l</key>
+    <string>l.glif</string>
     <key>m</key>
     <string>m.glif</string>
     <key>m.001</key>
     <string>m.001.glif</string>
+    <key>n</key>
+    <string>n.glif</string>
     <key>n.001</key>
     <string>n.001.glif</string>
+    <key>o</key>
+    <string>o.glif</string>
+    <key>p</key>
+    <string>p.glif</string>
+    <key>q</key>
+    <string>q.glif</string>
     <key>r</key>
     <string>r.glif</string>
+    <key>tilde</key>
+    <string>tilde.glif</string>
+    <key>v</key>
+    <string>v.glif</string>
     <key>v.001</key>
     <string>v.001.glif</string>
     <key>w</key>
