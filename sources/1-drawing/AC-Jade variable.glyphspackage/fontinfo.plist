@@ -1,0 +1,540 @@
+{
+.appVersion = "3098";
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+},
+{
+name = Width;
+tag = wdth;
+}
+);
+customParameters = (
+{
+name = glyphOrder;
+value = (
+A,
+B,
+C,
+D,
+E,
+F,
+G,
+H,
+I,
+J,
+K,
+L,
+M,
+N,
+O,
+P,
+Q,
+R,
+S,
+T,
+U,
+V,
+W,
+X,
+Y,
+Z,
+a,
+b,
+c,
+d,
+e,
+f,
+g,
+h,
+i,
+j,
+k,
+l,
+m,
+n,
+o,
+p,
+q,
+r,
+s,
+t,
+u,
+v,
+w,
+x,
+y,
+z,
+period,
+comma,
+colon,
+semicolon,
+question,
+exclam,
+slash,
+hyphen,
+endash,
+emdash,
+parenleft,
+parenright,
+quotedblleft,
+quotedblright,
+quoteleft,
+quoteright,
+at,
+ampersand,
+space,
+zero,
+one,
+two,
+three,
+four,
+five,
+six,
+seven,
+eight,
+nine,
+dollar,
+.notdef
+);
+}
+);
+date = "2021-09-08 00:17:51 +0000";
+familyName = "AC-Jade";
+fontMaster = (
+{
+axesValues = (
+0,
+0
+);
+customParameters = (
+{
+name = "Alignment Zones";
+value = (
+{
+pos = 500;
+size = 10;
+}
+);
+}
+);
+guides = (
+{
+pos = (302,520);
+userData = {
+UFO.identifier = qWYkjuYtmg;
+};
+},
+{
+pos = (244,430);
+userData = {
+UFO.identifier = xfky10aIOS;
+};
+}
+);
+iconName = Light;
+id = master01;
+metricValues = (
+{
+pos = 750;
+},
+{
+over = 10;
+pos = 670;
+},
+{
+over = 10;
+pos = 510;
+},
+{
+over = -10;
+},
+{
+over = -10;
+pos = -250;
+}
+);
+name = Light;
+userData = {
+layerinfo.color = "1,0.75,0,0.7";
+};
+},
+{
+axesValues = (
+0,
+1000
+);
+customParameters = (
+{
+name = "Alignment Zones";
+value = (
+{
+pos = 500;
+size = 10;
+}
+);
+}
+);
+guides = (
+{
+pos = (302,520);
+},
+{
+pos = (244,430);
+}
+);
+iconName = Light_Extended;
+id = m003;
+metricValues = (
+{
+pos = 750;
+},
+{
+over = 10;
+pos = 670;
+},
+{
+over = 10;
+pos = 510;
+},
+{
+over = -10;
+},
+{
+over = -10;
+pos = -250;
+}
+);
+name = "Extendido Light";
+userData = {
+layerinfo.color = "1,0.75,0,0.7";
+};
+},
+{
+axesValues = (
+1000,
+0
+);
+customParameters = (
+{
+name = "Alignment Zones";
+value = (
+{
+pos = 500;
+size = 10;
+}
+);
+}
+);
+guides = (
+{
+pos = (302,520);
+},
+{
+pos = (244,430);
+}
+);
+iconName = Bold;
+id = m002;
+metricValues = (
+{
+pos = 750;
+},
+{
+over = 10;
+pos = 670;
+},
+{
+over = 10;
+pos = 510;
+},
+{
+over = -10;
+},
+{
+over = -10;
+pos = -250;
+}
+);
+name = Bold;
+userData = {
+layerinfo.color = "1,0.75,0,0.7";
+};
+},
+{
+axesValues = (
+1000,
+1000
+);
+customParameters = (
+{
+name = "Alignment Zones";
+value = (
+{
+pos = 500;
+size = 10;
+}
+);
+}
+);
+guides = (
+{
+pos = (302,520);
+},
+{
+pos = (244,430);
+}
+);
+iconName = Bold_Extended;
+id = m004;
+metricValues = (
+{
+pos = 750;
+},
+{
+over = 10;
+pos = 670;
+},
+{
+over = 10;
+pos = 510;
+},
+{
+over = -10;
+},
+{
+over = -10;
+pos = -250;
+}
+);
+name = "Extendido Bold";
+userData = {
+layerinfo.color = "1,0.75,0,0.7";
+};
+}
+);
+instances = (
+{
+axesValues = (
+0,
+0
+);
+instanceInterpolations = {
+master01 = 1;
+};
+name = Light;
+weightClass = 100;
+},
+{
+axesValues = (
+500,
+0
+);
+instanceInterpolations = {
+m002 = 0.5;
+master01 = 0.5;
+};
+name = Regular;
+},
+{
+axesValues = (
+500,
+500
+);
+instanceInterpolations = {
+m002 = 0.25;
+m003 = 0.25;
+m004 = 0.25;
+master01 = 0.25;
+};
+name = "Regular Medium";
+},
+{
+axesValues = (
+750,
+0
+);
+instanceInterpolations = {
+m002 = 0.75;
+master01 = 0.25;
+};
+name = Medium;
+},
+{
+axesValues = (
+1000,
+1000
+);
+instanceInterpolations = {
+m004 = 1;
+};
+name = Bold;
+weightClass = 700;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+}
+);
+settings = {
+disablesNiceNames = 1;
+};
+unitsPerEm = 1000;
+userData = {
+UFO.lib = {
+com.defcon.sortDescriptor = (
+{
+ascending = (
+A,
+B,
+C,
+D,
+E,
+F,
+G,
+H,
+I,
+J,
+K,
+L,
+M,
+N,
+"Ñ",
+O,
+P,
+Q,
+R,
+S,
+T,
+U,
+V,
+W,
+X,
+Y,
+Z,
+a,
+b,
+c,
+d,
+e,
+f,
+g,
+h,
+i,
+j,
+k,
+l,
+m,
+n,
+"ñ",
+o,
+p,
+q,
+r,
+s,
+t,
+u,
+v,
+w,
+x,
+y,
+z,
+"Á",
+"é",
+"í",
+"ó",
+"ú",
+"ü",
+"á",
+period,
+colon,
+semicolon,
+question,
+questiondown,
+exclam,
+exclamdown,
+slash,
+hyphen,
+underscore,
+parenleft,
+parenright,
+quotedblleft,
+quotedblright,
+quoteleft,
+quoteright,
+ampersand,
+numbersign,
+acute,
+grave,
+tilde,
+dieresis,
+space,
+zero,
+one,
+two,
+three,
+four,
+five,
+six,
+seven,
+eight,
+nine,
+at,
+.notdef,
+"→",
+"←",
+"↑",
+"↓",
+"↔︎",
+"↕︎",
+"↘︎",
+"↗︎",
+N.001,
+T.001,
+oacute,
+i.001,
+o.001,
+oacute.001,
+newGlyph,
+newGlyph.001,
+v.001
+);
+type = glyphList;
+}
+);
+com.typemytype.robofont.compileSettings.MacRomanFirst = 0;
+com.typemytype.robofont.compileSettings.autohint = 1;
+com.typemytype.robofont.compileSettings.checkOutlines = 1;
+com.typemytype.robofont.compileSettings.createDummyDSIG = 1;
+com.typemytype.robofont.compileSettings.decompose = 1;
+com.typemytype.robofont.compileSettings.generateFormat = 0;
+com.typemytype.robofont.compileSettings.layerName = public.default;
+com.typemytype.robofont.compileSettings.path = "/Users/imac/Documents/Torneo 2/Allcaps_git/allcaps/fonts/AC-Frankie.otf";
+com.typemytype.robofont.compileSettings.releaseMode = 0;
+com.typemytype.robofont.italicSlantOffset = 0;
+com.typemytype.robofont.segmentType = curve;
+com.typemytype.robofont.shouldAddPointsInSplineConversion = 1;
+com.typemytype.robofont.smartSets.uniqueKey = "4726967056";
+public.postscriptNames = {
+};
+};
+UFOFormat = 3;
+};
+versionMajor = 1;
+versionMinor = 0;
+}

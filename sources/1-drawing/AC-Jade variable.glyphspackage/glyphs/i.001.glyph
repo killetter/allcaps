@@ -1,0 +1,21 @@
+{
+glyphname = i.001;
+layers = (
+{
+layerId = master01;
+width = 500;
+},
+{
+layerId = m002;
+width = 500;
+},
+{
+layerId = m003;
+width = 500;
+},
+{
+layerId = m004;
+width = 500;
+}
+);
+}
