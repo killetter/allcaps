@@ -1,0 +1,66 @@
+{
+glyphname = aacute;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (64,0);
+ref = acute;
+}
+);
+width = 466;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (64,0);
+ref = acute;
+}
+);
+width = 466;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (64,0);
+ref = acute;
+}
+);
+width = 466;
+},
+{
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (64,0);
+ref = acute;
+}
+);
+width = 466;
+}
+);
+unicode = 225;
+}

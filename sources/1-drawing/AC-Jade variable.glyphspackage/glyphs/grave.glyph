@@ -1,0 +1,22 @@
+{
+glyphname = grave;
+layers = (
+{
+layerId = master01;
+width = 489;
+},
+{
+layerId = m002;
+width = 489;
+},
+{
+layerId = m003;
+width = 489;
+},
+{
+layerId = m004;
+width = 489;
+}
+);
+unicode = 96;
+}

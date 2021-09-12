@@ -21,20 +21,36 @@
 		</contour>
 		<contour>
 			<point x="100" y="632" type="line"/>
+<<<<<<< HEAD
 			<point x="100" y="632"/>
 			<point x="111" y="446"/>
 			<point x="110" y="352" type="curve" smooth="yes"/>
 			<point x="109" y="258"/>
 			<point x="100" y="10"/>
+=======
+			<point x="104" y="552"/>
+			<point x="110" y="421"/>
+			<point x="110" y="352" type="curve" smooth="yes"/>
+			<point x="109" y="184"/>
+			<point x="104" y="109"/>
+>>>>>>> Miguel
 			<point x="100" y="10" type="curve"/>
 			<point x="105" y="0" type="line"/>
 			<point x="205" y="0" type="line"/>
 			<point x="210" y="10" type="line"/>
+<<<<<<< HEAD
 			<point x="210" y="10"/>
 			<point x="200" y="259"/>
 			<point x="200" y="352" type="curve" smooth="yes"/>
 			<point x="200" y="445"/>
 			<point x="203" y="618"/>
+=======
+			<point x="206" y="109"/>
+			<point x="200" y="185"/>
+			<point x="200" y="352" type="curve" smooth="yes"/>
+			<point x="200" y="420"/>
+			<point x="202" y="544"/>
+>>>>>>> Miguel
 			<point x="203" y="618" type="curve"/>
 			<point x="203" y="657"/>
 			<point x="186" y="680"/>
@@ -46,6 +62,7 @@
 			<point x="119" y="595" type="line"/>
 		</contour>
 		<contour>
+<<<<<<< HEAD
 			<point x="504" y="0" type="curve"/>
 			<point x="599" y="0" type="line"/>
 			<point x="599" y="3"/>
@@ -56,10 +73,21 @@
 			<point x="594" y="352" type="curve" smooth="yes"/>
 			<point x="594" y="444"/>
 			<point x="604" y="660"/>
+=======
+			<point x="499" y="0" type="line"/>
+			<point x="599" y="0" type="line"/>
+			<point x="604" y="12" type="line"/>
+			<point x="594" y="109"/>
+			<point x="594" y="186"/>
+			<point x="594" y="352" type="curve" smooth="yes"/>
+			<point x="594" y="489"/>
+			<point x="600" y="567"/>
+>>>>>>> Miguel
 			<point x="604" y="660" type="curve"/>
 			<point x="599" y="670" type="line"/>
 			<point x="499" y="670" type="line"/>
 			<point x="494" y="660" type="line"/>
+<<<<<<< HEAD
 			<point x="494" y="660"/>
 			<point x="504" y="445"/>
 			<point x="504" y="352" type="curve" smooth="yes"/>
@@ -68,12 +96,24 @@
 			<point x="499" y="11" type="curve"/>
 			<point x="501" y="7"/>
 			<point x="502" y="3"/>
+=======
+			<point x="498" y="568"/>
+			<point x="504" y="490"/>
+			<point x="504" y="352" type="curve" smooth="yes"/>
+			<point x="504" y="185"/>
+			<point x="503" y="109"/>
+			<point x="494" y="11" type="curve"/>
+>>>>>>> Miguel
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+<<<<<<< HEAD
 			<string>2021-08-27 20:44:48 +0000</string>
+=======
+			<string>2021-09-10 04:39:19 +0000</string>
+>>>>>>> Miguel
 			<key>public.markColor</key>
 			<string>0.39,1,0.82,1</string>
 		</dict>

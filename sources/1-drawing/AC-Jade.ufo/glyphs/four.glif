@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="2">
+<<<<<<< HEAD
 	<advance width="508"/>
 	<unicode hex="0034"/>
 	<outline>
@@ -52,4 +53,10 @@
 			<string>2021-09-11 00:54:37 +0000</string>
 		</dict>
 	</lib>
+=======
+	<advance width="600"/>
+	<unicode hex="0034"/>
+	<outline>
+	</outline>
+>>>>>>> Miguel
 </glyph>

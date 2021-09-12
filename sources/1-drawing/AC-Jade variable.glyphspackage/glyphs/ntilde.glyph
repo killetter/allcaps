@@ -1,0 +1,66 @@
+{
+glyphname = ntilde;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+ref = n;
+},
+{
+alignment = -1;
+pos = (82,0);
+ref = tilde;
+}
+);
+width = 577;
+},
+{
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+ref = n;
+},
+{
+alignment = -1;
+pos = (82,0);
+ref = tilde;
+}
+);
+width = 577;
+},
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+ref = n;
+},
+{
+alignment = -1;
+pos = (82,0);
+ref = tilde;
+}
+);
+width = 577;
+},
+{
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+ref = n;
+},
+{
+alignment = -1;
+pos = (82,0);
+ref = tilde;
+}
+);
+width = 577;
+}
+);
+unicode = 241;
+}

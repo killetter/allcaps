@@ -3,6 +3,7 @@
 	<advance width="600"/>
 	<unicode hex="0035"/>
 	<outline>
+<<<<<<< HEAD
 		<contour>
 			<point x="489" y="681" type="curve"/>
 			<point x="493" y="671" type="line"/>
@@ -50,4 +51,7 @@
 			<string>2021-09-11 00:57:49 +0000</string>
 		</dict>
 	</lib>
+=======
+	</outline>
+>>>>>>> Miguel
 </glyph>
