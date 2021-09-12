@@ -126,7 +126,14 @@
 		</dict>
 	</array>
 	<key>com.schriftgestaltung.DisplayStrings</key>
+<<<<<<< HEAD
 	<array/>
+=======
+	<array>
+		<string>NHMV/M.001 IGUELxzB(O)C3</string>
+		<string>˜/tilde.001 n˜ñn/tilde.001/ntilde.001</string>
+	</array>
+>>>>>>> parent of 26074e8 (x)
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.fontMaster.customParameters</key>

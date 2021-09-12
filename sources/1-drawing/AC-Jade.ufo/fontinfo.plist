@@ -29,9 +29,15 @@
 			<key>identifier</key>
 			<string>xfky10aIOS</string>
 			<key>x</key>
+<<<<<<< HEAD
 			<integer>244</integer>
 			<key>y</key>
 			<integer>430</integer>
+=======
+			<integer>206</integer>
+			<key>y</key>
+			<integer>109</integer>
+>>>>>>> parent of 26074e8 (x)
 		</dict>
 	</array>
 	<key>openTypeHeadCreated</key>
