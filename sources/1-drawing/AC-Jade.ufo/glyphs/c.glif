@@ -1,17 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="c" format="2">
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 1932f0f (cambios)
   <advance width="488"/>
   <unicode hex="0063"/>
   <outline>
     <contour>
       <point x="55" y="254" type="curve" smooth="yes"/>
       <point x="55.0" y="431.0"/>
+<<<<<<< HEAD
       <point x="123" y="520.0"/>
       <point x="267" y="520" type="curve" smooth="yes"/>
       <point x="390" y="520.0"/>
+=======
+      <point x="122.72222222222223" y="520.0"/>
+      <point x="267" y="520" type="curve" smooth="yes"/>
+      <point x="389.8571428571429" y="520.0"/>
+>>>>>>> parent of 1932f0f (cambios)
       <point x="439.0" y="446.0"/>
       <point x="439" y="339" type="curve"/>
       <point x="437" y="337" type="line"/>
@@ -49,6 +58,7 @@
       <string>0.3874,1,0.8237,1</string>
     </dict>
   </lib>
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
@@ -107,4 +117,6 @@
 >>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 =======
 >>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
+=======
+>>>>>>> parent of 1932f0f (cambios)
 </glyph>

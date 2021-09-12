@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oacute" format="2">
+<<<<<<< HEAD
 	<advance width="479"/>
 	<unicode hex="00F3"/>
 	<outline>
@@ -35,4 +36,18 @@
 >>>>>>> Miguel
 		</dict>
 	</lib>
+=======
+  <advance width="479"/>
+  <unicode hex="00F3"/>
+  <outline>
+    <component base="o"/>
+    <component base="acute" xOffset="63" yOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021-09-01 03:20:28 +0000</string>
+    </dict>
+  </lib>
+>>>>>>> parent of 1932f0f (cambios)
 </glyph>

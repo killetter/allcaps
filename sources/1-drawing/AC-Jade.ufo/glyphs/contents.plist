@@ -134,10 +134,13 @@
     <string>p.glif</string>
     <key>q</key>
     <string>q.glif</string>
+<<<<<<< HEAD
     <key>quotedblleft</key>
     <string>quotedblleft.glif</string>
     <key>quotedblright</key>
     <string>quotedblright.glif</string>
+=======
+>>>>>>> parent of 1932f0f (cambios)
     <key>r</key>
     <string>r.glif</string>
     <key>s</key>
@@ -148,12 +151,17 @@
     <string>t.glif</string>
     <key>tilde</key>
     <string>tilde.glif</string>
+<<<<<<< HEAD
     <key>two</key>
     <string>two.glif</string>
     <key>u</key>
     <string>u.glif</string>
     <key>u.alt</key>
     <string>u.alt.glif</string>
+=======
+    <key>u</key>
+    <string>u.glif</string>
+>>>>>>> parent of 1932f0f (cambios)
     <key>v</key>
     <string>v.glif</string>
     <key>v.001</key>
