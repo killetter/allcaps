@@ -3,6 +3,7 @@
 <plist version="1.0">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   <dict>
     <key>.notdef</key>
     <string>_notdef.glif</string>
@@ -172,6 +173,8 @@
 =======
 =======
 >>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
+=======
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 <dict>
 	<key>.notdef</key>
 	<string>_notdef.glif</string>
@@ -202,8 +205,11 @@
 	<key>M</key>
 	<string>M_.glif</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<key>M.001</key>
 	<string>M_.001.glif</string>
+=======
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 =======
 >>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 	<key>N</key>
@@ -255,6 +261,7 @@
 	<key>b</key>
 	<string>b.glif</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
 	<key>braceright</key>
@@ -265,6 +272,8 @@
 	<string>bracketright.glif</string>
 =======
 >>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
+=======
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 	<key>c</key>
 	<string>c.glif</string>
 	<key>d</key>
@@ -272,8 +281,13 @@
 	<key>e</key>
 	<string>e.glif</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<key>eight</key>
 	<string>eight.glif</string>
+=======
+	<key>exclam</key>
+	<string>exclam.glif</string>
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 =======
 	<key>exclam</key>
 	<string>exclam.glif</string>
@@ -319,12 +333,17 @@
 	<key>newGlyph.001</key>
 	<string>newG_lyph.001.glif</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<key>nine</key>
 	<string>nine.glif</string>
 	<key>ntilde</key>
 	<string>ntilde.glif</string>
 	<key>ntilde.001</key>
 	<string>ntilde.001.glif</string>
+=======
+	<key>ntilde</key>
+	<string>ntilde.glif</string>
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 =======
 	<key>ntilde</key>
 	<string>ntilde.glif</string>
@@ -338,6 +357,7 @@
 	<key>oacute.001</key>
 	<string>oacute.001.glif</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<key>one</key>
 	<string>one.glif</string>
 	<key>p</key>
@@ -349,22 +369,30 @@
 	<key>q</key>
 	<string>q.glif</string>
 =======
+=======
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 	<key>p</key>
 	<string>p.glif</string>
 	<key>q</key>
 	<string>q.glif</string>
 	<key>question</key>
 	<string>question.glif</string>
+<<<<<<< HEAD
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
+=======
 >>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 	<key>r</key>
 	<string>r.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<key>seven</key>
 	<string>seven.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
+=======
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 =======
 >>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 	<key>space</key>
@@ -376,10 +404,13 @@
 	<key>tilde</key>
 	<string>tilde.glif</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<key>tilde.001</key>
 	<string>tilde.001.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
+=======
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 =======
 >>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 	<key>u</key>
@@ -397,10 +428,14 @@
 	<key>z</key>
 	<string>z.glif</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<key>zero</key>
 	<string>zero.glif</string>
 </dict>
 >>>>>>> Miguel
+=======
+</dict>
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 =======
 </dict>
 >>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)

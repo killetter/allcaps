@@ -3,6 +3,7 @@
 <plist version="1.0">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   <dict>
     <key>B</key>
     <string>B_.glif</string>
@@ -92,6 +93,8 @@
 =======
 =======
 >>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
+=======
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 <dict>
 	<key>B</key>
 	<string>B_.glif</string>
@@ -166,12 +169,17 @@
 	<key>r</key>
 	<string>r.glif</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<key>three</key>
 	<string>three.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
 	<key>tilde.001</key>
 	<string>tilde.001.glif</string>
+=======
+	<key>tilde</key>
+	<string>tilde.glif</string>
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 =======
 	<key>tilde</key>
 	<string>tilde.glif</string>
@@ -184,7 +192,10 @@
 	<string>w.glif</string>
 </dict>
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> Miguel
+=======
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 =======
 >>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 </plist>

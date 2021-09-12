@@ -2,6 +2,7 @@
 <glyph name="O" format="2">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   <advance width="690"/>
   <unicode hex="004F"/>
   <outline>
@@ -45,6 +46,8 @@
 =======
 =======
 >>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
+=======
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 	<advance width="690"/>
 	<unicode hex="004F"/>
 	<outline>
@@ -86,7 +89,10 @@
 		</dict>
 	</lib>
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> Miguel
+=======
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 =======
 >>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 </glyph>
