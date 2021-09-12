@@ -380,6 +380,13 @@ xoxoxoxoxoxoxo x</string>
       <string>numbersign</string>
       <string>at</string>
       <string>u.alt</string>
+      <string>J.copy_1</string>
+      <string>j.copy_1</string>
+      <string>t.copy_1</string>
+      <string>question.copy_1</string>
+      <string>exclam.copy_1</string>
+      <string>four.copy_1</string>
+      <string>five.copy_1</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>
