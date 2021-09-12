@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="c" format="2">
 <<<<<<< HEAD
+<<<<<<< HEAD
   <advance width="488"/>
   <unicode hex="0063"/>
   <outline>
@@ -48,6 +49,8 @@
     </dict>
   </lib>
 =======
+=======
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 	<advance width="488"/>
 	<unicode hex="0063"/>
 	<outline>
@@ -94,5 +97,8 @@
 			<string>0.39,1,0.82,1</string>
 		</dict>
 	</lib>
+<<<<<<< HEAD
 >>>>>>> Miguel
+=======
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 </glyph>

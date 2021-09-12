@@ -2,6 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <<<<<<< HEAD
+<<<<<<< HEAD
   <dict>
     <key>com.defcon.sortDescriptor</key>
     <array>
@@ -283,6 +284,8 @@
     <array/>
   </dict>
 =======
+=======
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 <dict>
 	<key>com.defcon.sortDescriptor</key>
 	<array>
@@ -408,10 +411,14 @@
 		</dict>
 	</array>
 	<key>com.schriftgestaltung.DisplayStrings</key>
+<<<<<<< HEAD
 	<array>
 		<string>NHMV/M.001 IGUELinxnzB(O)C3
 xoxoxoxoxoxoxo x</string>
 	</array>
+=======
+	<array/>
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.fontMaster.customParameters</key>
@@ -600,6 +607,7 @@ xoxoxoxoxoxoxo x</string>
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
+<<<<<<< HEAD
 		<string>hyphen</string>
 		<string>parenleft</string>
 		<string>parenright</string>
@@ -617,6 +625,17 @@ xoxoxoxoxoxoxo x</string>
 		<string>.notdef</string>
 		<string>Ntilde</string>
 		<string>M.001</string>
+=======
+		<string>question</string>
+		<string>exclam</string>
+		<string>hyphen</string>
+		<string>space</string>
+		<string>three</string>
+		<string>four</string>
+		<string>five</string>
+		<string>.notdef</string>
+		<string>Ntilde</string>
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 		<string>N.001</string>
 		<string>N.002</string>
 		<string>N.003</string>
@@ -631,6 +650,7 @@ xoxoxoxoxoxoxo x</string>
 		<string>i.001</string>
 		<string>m.001</string>
 		<string>n.001</string>
+<<<<<<< HEAD
 		<string>ntilde.001</string>
 		<string>o.001</string>
 		<string>oacute.001</string>
@@ -643,11 +663,22 @@ xoxoxoxoxoxoxo x</string>
 		<string>acute</string>
 		<string>tilde</string>
 		<string>tilde.001</string>
+=======
+		<string>o.001</string>
+		<string>oacute.001</string>
+		<string>v.001</string>
+		<string>grave</string>
+		<string>acute</string>
+		<string>tilde</string>
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 		<string>newGlyph</string>
 		<string>newGlyph.001</string>
 	</array>
 	<key>public.postscriptNames</key>
 	<dict/>
 </dict>
+<<<<<<< HEAD
 >>>>>>> Miguel
+=======
+>>>>>>> parent of 31b3726 (Merge branch 'Tam' into main)
 </plist>
