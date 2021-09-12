@@ -18,15 +18,10 @@
 			<key>identifier</key>
 			<string>qWYkjuYtmg</string>
 			<key>x</key>
-<<<<<<< HEAD
+
 			<integer>302</integer>
 			<key>y</key>
 			<integer>520</integer>
-=======
-			<integer>498</integer>
-			<key>y</key>
-			<integer>568</integer>
->>>>>>> Miguel
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -34,7 +29,6 @@
 			<key>identifier</key>
 			<string>xfky10aIOS</string>
 			<key>x</key>
-<<<<<<< HEAD
 			<integer>244</integer>
 			<key>y</key>
 			<integer>430</integer>
@@ -42,15 +36,7 @@
 	</array>
 	<key>openTypeHeadCreated</key>
 	<string>2021/09/10 23:47:30</string>
-=======
-			<integer>94</integer>
-			<key>y</key>
-			<integer>10</integer>
-		</dict>
-	</array>
-	<key>openTypeHeadCreated</key>
-	<string>2021/09/10 04:03:00</string>
->>>>>>> Miguel
+
 	<key>openTypeNameDesigner</key>
 	<string>Andrea Buendía, Constanza Rizzo, Juan José Melendez, Miguel Ángel Contreras, Tamara Segura</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
