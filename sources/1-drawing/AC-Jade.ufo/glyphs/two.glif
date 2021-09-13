@@ -4,39 +4,39 @@
   <unicode hex="0032"/>
   <outline>
     <contour>
-      <point x="343" y="488" type="curve"/>
-      <point x="343" y="352"/>
-      <point x="144" y="159"/>
-      <point x="70" y="86" type="curve" smooth="yes"/>
-      <point x="50" y="66"/>
-      <point x="70" y="0"/>
-      <point x="84" y="0" type="curve" smooth="yes"/>
+      <point x="343" y="488" type="qcurve"/>
+      <point x="343.0" y="386.5074626865672"/>
+      <point x="125.22388059701493" y="140.47761194029852"/>
+      <point x="70" y="86" type="qcurve" smooth="yes"/>
+      <point x="55.07462686567165" y="71.07462686567165"/>
+      <point x="73.55223880597015" y="0.0"/>
+      <point x="84" y="0" type="qcurve" smooth="yes"/>
       <point x="454" y="0" type="line" smooth="yes"/>
-      <point x="496" y="0"/>
-      <point x="494" y="83"/>
-      <point x="493" y="161" type="curve"/>
+      <point x="485.34328358208955" y="0.0"/>
+      <point x="493.74626865671644" y="102.7910447761194"/>
+      <point x="493" y="161" type="qcurve"/>
       <point x="426" y="168" type="line"/>
       <point x="407" y="65" type="line"/>
       <point x="472" y="90" type="line"/>
       <point x="127" y="90" type="line"/>
       <point x="135" y="62" type="line"/>
-      <point x="207" y="128"/>
-      <point x="443" y="330"/>
-      <point x="443" y="518" type="curve"/>
-      <point x="443" y="611"/>
-      <point x="381" y="680"/>
-      <point x="259" y="680" type="curve"/>
-      <point x="167" y="680"/>
-      <point x="96" y="633"/>
-      <point x="45" y="590" type="curve"/>
+      <point x="188.73134328358208" y="111.25373134328358"/>
+      <point x="443.0" y="377.70149253731347"/>
+      <point x="443" y="518" type="qcurve"/>
+      <point x="443.0" y="587.4029850746268"/>
+      <point x="350.04477611940297" y="680.0"/>
+      <point x="259" y="680" type="qcurve"/>
+      <point x="190.34328358208955" y="680.0"/>
+      <point x="83.0597014925373" y="622.0895522388059"/>
+      <point x="45" y="590" type="qcurve"/>
       <point x="45" y="587" type="line"/>
       <point x="81" y="536" type="line"/>
       <point x="83" y="537" type="line"/>
-      <point x="129" y="562"/>
-      <point x="175" y="585"/>
-      <point x="235" y="585" type="curve"/>
-      <point x="302" y="585"/>
-      <point x="343" y="547"/>
+      <point x="117.32835820895522" y="555.6567164179105"/>
+      <point x="190.22388059701493" y="585.0"/>
+      <point x="235" y="585" type="qcurve"/>
+      <point x="285.0" y="585.0"/>
+      <point x="343.0" y="532.0298507462686"/>
     </contour>
   </outline>
   <lib>

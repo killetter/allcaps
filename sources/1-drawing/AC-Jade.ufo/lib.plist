@@ -258,7 +258,7 @@
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
-    <string>curve</string>
+    <string>qcurve</string>
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
     <integer>1</integer>
     <key>com.typemytype.robofont.smartSets.uniqueKey</key>
@@ -388,5 +388,7 @@
     </array>
     <key>public.postscriptNames</key>
     <dict/>
+    <key>public.skipExportGlyphs</key>
+    <array/>
   </dict>
 </plist>

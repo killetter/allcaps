@@ -33,12 +33,8 @@
         <integer>7</integer>
       </dict>
     </array>
-    <key>openTypeHeadCreated</key>
-    <string>2021/09/10 04:03:00</string>
     <key>openTypeNameDesigner</key>
     <string>Andrea Buendía, Constanza Rizzo, Juan José Melendez, Miguel Ángel Contreras, Tamara Segura</string>
-    <key>openTypeNamePreferredSubfamilyName</key>
-    <string>Regular</string>
     <key>openTypeOS2WeightClass</key>
     <integer>400</integer>
     <key>openTypeOS2WidthClass</key>
@@ -56,8 +52,6 @@
     <array/>
     <key>postscriptFamilyOtherBlues</key>
     <array/>
-    <key>postscriptFontName</key>
-    <string>AC-Jade-Regular</string>
     <key>postscriptOtherBlues</key>
     <array>
       <real>-230.0</real>

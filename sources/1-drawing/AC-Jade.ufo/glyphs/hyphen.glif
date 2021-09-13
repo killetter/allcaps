@@ -4,20 +4,20 @@
   <unicode hex="002D"/>
   <outline>
     <contour>
-      <point x="177" y="402" type="curve" smooth="yes"/>
-      <point x="98" y="402"/>
-      <point x="41" y="404"/>
-      <point x="35" y="404" type="curve"/>
+      <point x="177" y="402" type="qcurve" smooth="yes"/>
+      <point x="118.044776119403" y="402.0"/>
+      <point x="39.47761194029851" y="404.0"/>
+      <point x="35" y="404" type="qcurve"/>
       <point x="35" y="305" type="line"/>
-      <point x="43" y="305"/>
-      <point x="96" y="307"/>
-      <point x="177" y="307" type="curve" smooth="yes"/>
-      <point x="256" y="307"/>
-      <point x="308" y="305"/>
-      <point x="315" y="305" type="curve"/>
+      <point x="40.97014925373134" y="305.0"/>
+      <point x="116.55223880597015" y="307.0"/>
+      <point x="177" y="307" type="qcurve" smooth="yes"/>
+      <point x="235.955223880597" y="307.0"/>
+      <point x="309.7761194029851" y="305.0"/>
+      <point x="315" y="305" type="qcurve"/>
       <point x="315" y="404" type="line"/>
-      <point x="308" y="404"/>
-      <point x="253" y="402"/>
+      <point x="309.7761194029851" y="404.0"/>
+      <point x="233.71641791044777" y="402.0"/>
     </contour>
   </outline>
 </glyph>
