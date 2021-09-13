@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ntilde.001" format="2">
-	<advance width="577"/>
+	<advance width="596"/>
 	<outline>
 		<component base="n"/>
 		<component base="tilde.001" xOffset="100"/>
@@ -17,9 +17,21 @@
 					<key>name</key>
 					<string>n</string>
 				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>tilde.001</string>
+				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-10 06:01:32 +0000</string>
+			<string>2021-09-13 04:17:27 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=n</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=n</string>
 		</dict>
 	</lib>
 </glyph>
