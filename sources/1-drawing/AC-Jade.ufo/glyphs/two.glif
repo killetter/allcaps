@@ -24,19 +24,19 @@
       <point x="443.0" y="377.70149253731347"/>
       <point x="443" y="518" type="qcurve"/>
       <point x="443.0" y="587.4029850746268"/>
-      <point x="350.04477611940297" y="680.0"/>
+      <point x="354" y="680"/>
       <point x="259" y="680" type="qcurve"/>
-      <point x="190.34328358208955" y="680.0"/>
-      <point x="83.0597014925373" y="622.0895522388059"/>
-      <point x="45" y="590" type="qcurve"/>
-      <point x="45" y="587" type="line"/>
-      <point x="81" y="536" type="line"/>
-      <point x="83" y="537" type="line"/>
-      <point x="117.32835820895522" y="555.6567164179105"/>
-      <point x="190.22388059701493" y="585.0"/>
-      <point x="235" y="585" type="qcurve"/>
-      <point x="285.0" y="585.0"/>
-      <point x="343.0" y="532.0298507462686"/>
+      <point x="195.0" y="680.0"/>
+      <point x="91.25813399071659" y="636.3672319332583"/>
+      <point x="58" y="608" type="qcurve"/>
+      <point x="58" y="605" type="line"/>
+      <point x="90" y="550" type="line"/>
+      <point x="92" y="551" type="line"/>
+      <point x="126" y="568"/>
+      <point x="193" y="589.0"/>
+      <point x="235" y="589" type="qcurve"/>
+      <point x="285.0" y="589.0"/>
+      <point x="343.0" y="533.8455146945684"/>
     </contour>
   </outline>
   <lib>
