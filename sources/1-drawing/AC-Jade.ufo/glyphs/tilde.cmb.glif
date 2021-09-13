@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="tilde" format="2">
+<glyph name="tilde.cmb" format="2">
   <advance width="402"/>
-  <unicode hex="02DC"/>
-  <anchor x="195" y="510" name="_top"/>
   <outline>
     <contour>
       <point x="126" y="623" type="curve" smooth="yes"/>
@@ -27,10 +25,4 @@
       <point x="188" y="623"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2021-09-01 03:24:27 +0000</string>
-    </dict>
-  </lib>
 </glyph>
