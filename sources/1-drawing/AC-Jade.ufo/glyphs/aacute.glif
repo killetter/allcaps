@@ -4,7 +4,7 @@
 	<unicode hex="00E1"/>
 	<outline>
 		<component base="a"/>
-		<component base="acute" xOffset="64"/>
+		<component base="acute" xOffset="64" yOffset="20"/>
 	</outline>
 	<lib>
 		<dict>
@@ -28,7 +28,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-13 04:17:01 +0000</string>
+			<string>2021-09-15 06:29:34 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>=a</string>
 		</dict>
