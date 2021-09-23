@@ -50,16 +50,7 @@
 			<point x="182" y="367" type="curve"/>
 			<point x="239" y="429" type="line"/>
 			<point x="184" y="429" type="line"/>
-<<<<<<< HEAD
-<<<<<<< HEAD
-			<point x="184" y="262" type="line"/>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
-=======
 			<point x="184" y="280" type="line"/>
->>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
-=======
-			<point x="184" y="280" type="line"/>
->>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 		</contour>
 	</outline>
 	<lib>

@@ -54,19 +54,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-			<string>2021-09-12 21:02:38 +0000</string>
-=======
-			<string>2021-09-15 07:26:19 +0000</string>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
-=======
 			<string>2021-09-23 19:28:58 +0000</string>
->>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
-=======
-			<string>2021-09-23 19:28:58 +0000</string>
->>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 		</dict>
 	</lib>
 </glyph>

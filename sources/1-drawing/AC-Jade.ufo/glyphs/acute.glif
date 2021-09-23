@@ -5,30 +5,6 @@
 	<anchor x="186" y="510" name="_top"/>
 	<outline>
 		<contour>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-			<point x="100" y="609" type="line"/>
-			<point x="100" y="617" type="line"/>
-			<point x="256" y="778" type="line"/>
-			<point x="266" y="778" type="line"/>
-			<point x="332" y="697" type="line"/>
-			<point x="332" y="687" type="line"/>
-			<point x="138" y="570" type="line"/>
-			<point x="131" y="570" type="line"/>
-=======
-			<point x="106" y="576" type="line"/>
-			<point x="113" y="576" type="line"/>
-			<point x="348" y="693" type="line"/>
-			<point x="348" y="703" type="line"/>
-			<point x="293" y="778" type="line"/>
-			<point x="283" y="778" type="line"/>
-			<point x="86" y="617" type="line"/>
-			<point x="86" y="609" type="line"/>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
-=======
-=======
->>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 			<point x="126" y="562" type="line"/>
 			<point x="133" y="564" type="line"/>
 			<point x="328" y="737" type="line"/>
@@ -37,10 +13,6 @@
 			<point x="263" y="791" type="line"/>
 			<point x="101" y="595" type="line"/>
 			<point x="102" y="587" type="line"/>
-<<<<<<< HEAD
->>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
-=======
->>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 		</contour>
 	</outline>
 	<lib>
