@@ -2,16 +2,20 @@
 <glyph name="t" format="2">
 	<advance width="384"/>
 	<unicode hex="0074"/>
+	<anchor x="192" y="510" name="top"/>
+	<anchor x="210" y="0" name="bottom"/>
+	<anchor x="192" y="255" name="center"/>
+	<anchor x="364" y="780" name="topright"/>
 	<outline>
 		<contour>
 			<point x="252" y="-10" type="curve" smooth="yes"/>
 			<point x="301.75124" y="-10"/>
-			<point x="337.13433" y="5.08458"/>
-			<point x="364" y="22" type="curve"/>
-			<point x="366" y="27" type="line"/>
-			<point x="350" y="74" type="line"/>
-			<point x="344" y="78" type="line"/>
-			<point x="329.07463" y="74.0199"/>
+			<point x="339" y="3"/>
+			<point x="366" y="20" type="curve"/>
+			<point x="368" y="25" type="line"/>
+			<point x="348" y="81" type="line"/>
+			<point x="344" y="84" type="line"/>
+			<point x="333" y="80"/>
 			<point x="315.87065" y="70"/>
 			<point x="290" y="70" type="curve" smooth="yes"/>
 			<point x="232.28856" y="70"/>
@@ -30,19 +34,19 @@
 			<point x="172.39801" y="-10"/>
 		</contour>
 		<contour>
-			<point x="56" y="444" type="line"/>
-			<point x="91" y="445"/>
-			<point x="144" y="447"/>
-			<point x="179" y="447" type="curve" smooth="yes"/>
-			<point x="194.9204" y="447"/>
-			<point x="285.14925" y="444.49751"/>
-			<point x="315" y="444" type="curve"/>
-			<point x="320" y="452" type="line"/>
+			<point x="56" y="436" type="line"/>
+			<point x="91" y="437"/>
+			<point x="144" y="439"/>
+			<point x="179" y="439" type="curve" smooth="yes"/>
+			<point x="195" y="439"/>
+			<point x="285" y="436"/>
+			<point x="315" y="436" type="curve"/>
+			<point x="320" y="444" type="line"/>
 			<point x="320" y="504" type="line"/>
 			<point x="315" y="510" type="line"/>
 			<point x="56" y="510" type="line"/>
 			<point x="50" y="502" type="line"/>
-			<point x="50" y="452" type="line"/>
+			<point x="50" y="444" type="line"/>
 		</contour>
 	</outline>
 	<lib>

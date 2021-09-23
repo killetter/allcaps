@@ -4,14 +4,6 @@
 	<unicode hex="00F1"/>
 	<outline>
 		<component base="n"/>
-<<<<<<< HEAD
-		<component base="tilde" xOffset="-423"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-12 21:00:31 +0000</string>
-=======
 		<component base="tilde" xOffset="101"/>
 	</outline>
 	<lib>
@@ -41,7 +33,6 @@
 			<string>=n</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>=n</string>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 		</dict>
 	</lib>
 </glyph>
