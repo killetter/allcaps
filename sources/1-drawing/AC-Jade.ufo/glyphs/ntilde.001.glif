@@ -3,7 +3,7 @@
 	<advance width="577"/>
 	<outline>
 		<component base="n"/>
-		<component base="tilde.001" xOffset="100"/>
+		<component base="tilde.001" xOffset="-428"/>
 	</outline>
 	<lib>
 		<dict>
@@ -19,7 +19,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-10 06:01:32 +0000</string>
+			<string>2021-09-12 21:00:31 +0000</string>
 		</dict>
 	</lib>
 </glyph>

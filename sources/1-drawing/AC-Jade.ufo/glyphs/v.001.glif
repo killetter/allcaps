@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v.001" format="2">
 	<advance width="519"/>
-	<guideline x="97" y="482" angle="0" identifier="jJ8kmjo9op"/>
+	<guideline x="97" y="482" angle="0"/>
 	<outline>
 		<contour>
 			<point x="1003" y="406" type="curve"/>
