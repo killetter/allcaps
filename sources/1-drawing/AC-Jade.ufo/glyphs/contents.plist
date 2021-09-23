@@ -24,11 +24,8 @@
 	<string>I_.glif</string>
 	<key>J</key>
 	<string>J_.glif</string>
-<<<<<<< HEAD
-=======
 	<key>J.001</key>
 	<string>J_.001.glif</string>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>K</key>
 	<string>K_.glif</string>
 	<key>L</key>
@@ -39,44 +36,32 @@
 	<string>M_.001.glif</string>
 	<key>N</key>
 	<string>N_.glif</string>
-<<<<<<< HEAD
 	<key>N.001</key>
 	<string>N_.001.glif</string>
 	<key>N.002</key>
 	<string>N_.002.glif</string>
 	<key>N.003</key>
 	<string>N_.003.glif</string>
-=======
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>Ntilde</key>
 	<string>N_tilde.glif</string>
 	<key>O</key>
 	<string>O_.glif</string>
-<<<<<<< HEAD
-=======
 	<key>Odieresis</key>
 	<string>O_dieresis.glif</string>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>P</key>
 	<string>P_.glif</string>
 	<key>Q</key>
 	<string>Q_.glif</string>
-<<<<<<< HEAD
 	<key>Q.alt</key>
 	<string>Q_.alt.glif</string>
-=======
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>R</key>
 	<string>R_.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
-<<<<<<< HEAD
 	<key>T.001</key>
 	<string>T_.001.glif</string>
-=======
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>V</key>
@@ -117,15 +102,12 @@
 	<string>colon.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
-<<<<<<< HEAD
-=======
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
 	<key>dieresis.cap</key>
 	<string>dieresis.cap.glif</string>
 	<key>dieresis.cmb</key>
 	<string>dieresis.cmb.glif</string>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>e</key>
 	<string>e.glif</string>
 	<key>eight</key>
@@ -146,22 +128,16 @@
 	<string>grave.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
-<<<<<<< HEAD
 	<key>h.001</key>
 	<string>h.001.glif</string>
-=======
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
-<<<<<<< HEAD
 	<key>i.001</key>
 	<string>i.001.glif</string>
 	<key>i.alt</key>
 	<string>i.alt.glif</string>
-=======
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>j</key>
 	<string>j.glif</string>
 	<key>k</key>
@@ -170,7 +146,6 @@
 	<string>l.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
-<<<<<<< HEAD
 	<key>m.001</key>
 	<string>m.001.glif</string>
 	<key>n</key>
@@ -181,34 +156,22 @@
 	<string>newG_lyph.glif</string>
 	<key>newGlyph.001</key>
 	<string>newG_lyph.001.glif</string>
-=======
-	<key>n</key>
-	<string>n.glif</string>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>nine</key>
 	<string>nine.glif</string>
 	<key>ntilde</key>
 	<string>ntilde.glif</string>
-<<<<<<< HEAD
 	<key>ntilde.001</key>
 	<string>ntilde.001.glif</string>
-=======
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>numbersign</key>
 	<string>numbersign.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
-<<<<<<< HEAD
 	<key>o.001</key>
 	<string>o.001.glif</string>
 	<key>oacute</key>
 	<string>oacute.glif</string>
 	<key>oacute.001</key>
 	<string>oacute.001.glif</string>
-=======
-	<key>oacute</key>
-	<string>oacute.glif</string>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>one</key>
 	<string>one.glif</string>
 	<key>p</key>
@@ -255,31 +218,22 @@
 	<string>tilde.glif</string>
 	<key>tilde.001</key>
 	<string>tilde.001.glif</string>
-<<<<<<< HEAD
-=======
 	<key>tilde.cap</key>
 	<string>tilde.cap.glif</string>
 	<key>tilde.cmb</key>
 	<string>tilde.cmb.glif</string>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>two</key>
 	<string>two.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
-<<<<<<< HEAD
 	<key>u.alt</key>
 	<string>u.alt.glif</string>
-=======
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>underscore</key>
 	<string>underscore.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
-<<<<<<< HEAD
 	<key>v.001</key>
 	<string>v.001.glif</string>
-=======
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>w</key>
 	<string>w.glif</string>
 	<key>x</key>
