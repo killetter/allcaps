@@ -60,6 +60,8 @@
 =======
 	<advance width="762"/>
 	<unicode hex="0077"/>
+	<anchor x="381" y="510" name="top"/>
+	<anchor x="381" y="0" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="162" y="0" type="line"/>

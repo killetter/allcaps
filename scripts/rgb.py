@@ -4,8 +4,13 @@ def hextofloats(h):
     return color
 
 #Colores #fffff
+<<<<<<< .merge_file_hCiVbT
 codigo_bg = "#00a86b"
 codigo_fg = "#00a86b"
+=======
+codigo_bg = "#06964B"
+codigo_fg = "#CF072F"
+>>>>>>> .merge_file_l8X5O4
 
 #Llamado a la funcion hexagesimal a floats
 bg_hex = hextofloats(codigo_bg)
@@ -20,6 +25,7 @@ def r_g_b (r,g,b):
     return r_color , g_color , b_color
     
     
+<<<<<<< .merge_file_hCiVbT
 sol = r_g_b(7,145,240)
 luna = r_g_b(245,65,21)
 newPage(500,500)
@@ -27,6 +33,15 @@ fill(*sol)
 rect(0,0,500,500)
 fill(*luna)
 rect(100,100,300,300)
+=======
+# sol = r_g_b(7,145,240)
+# luna = r_g_b(245,65,21)
+# newPage(500,500)
+# fill(*sol)
+# rect(0,0,500,500)
+# fill(*luna)
+# rect(100,100,300,300)
+>>>>>>> .merge_file_l8X5O4
 
 #Color hex
 newPage(500,500)

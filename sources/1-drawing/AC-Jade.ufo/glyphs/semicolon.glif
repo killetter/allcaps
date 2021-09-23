@@ -33,6 +33,7 @@
 	<advance width="251"/>
 	<unicode hex="003B"/>
 	<outline>
+<<<<<<< HEAD
 		<contour>
 			<point x="106" y="-208" type="line"/>
 			<point x="148.78607" y="-132.37811"/>
@@ -67,6 +68,8 @@
 			<point x="81" y="351"/>
 >>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 		</contour>
+=======
+>>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
 	</outline>
 	<lib>
 		<dict>

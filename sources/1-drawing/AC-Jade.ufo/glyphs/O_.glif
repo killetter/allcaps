@@ -34,6 +34,12 @@
 =======
 	<advance width="740"/>
 	<unicode hex="004F"/>
+	<anchor x="370" y="700" name="top"/>
+	<anchor x="370" y="0" name="bottom"/>
+	<anchor x="370" y="350" name="center"/>
+	<anchor x="720" y="700" name="topright"/>
+	<anchor x="666" y="10" name="ogonek"/>
+	<anchor x="20" y="700" name="topleft"/>
 	<outline>
 		<contour>
 			<point x="370" y="-10" type="curve" smooth="yes"/>
