@@ -4,14 +4,6 @@
 	<unicode hex="00E1"/>
 	<outline>
 		<component base="a"/>
-<<<<<<< HEAD
-		<component base="acute" xOffset="102"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-12 21:00:31 +0000</string>
-=======
 		<component base="acute" xOffset="64" yOffset="20"/>
 	</outline>
 	<lib>
@@ -39,7 +31,6 @@
 			<string>2021-09-15 06:29:34 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>=a</string>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 		</dict>
 	</lib>
 </glyph>

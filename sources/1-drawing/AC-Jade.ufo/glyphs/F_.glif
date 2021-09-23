@@ -1,54 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="F" format="2">
-<<<<<<< HEAD
-	<advance width="392"/>
-	<unicode hex="0046"/>
-	<outline>
-		<contour>
-			<point x="164" y="-2" type="line"/>
-			<point x="134" y="0"/>
-			<point x="83" y="0"/>
-			<point x="55" y="-2" type="curve"/>
-			<point x="50" y="8" type="line"/>
-			<point x="50" y="8"/>
-			<point x="66" y="200"/>
-			<point x="66" y="355" type="curve" smooth="yes"/>
-			<point x="66" y="490"/>
-			<point x="57" y="658"/>
-			<point x="57" y="658" type="curve"/>
-			<point x="62" y="668" type="line"/>
-			<point x="111" y="669"/>
-			<point x="148" y="666"/>
-			<point x="246" y="666" type="curve"/>
-			<point x="340" y="666"/>
-			<point x="380" y="668"/>
-			<point x="402" y="668" type="curve"/>
-			<point x="407" y="658" type="line"/>
-			<point x="407" y="588" type="line"/>
-			<point x="402" y="579" type="line"/>
-			<point x="402" y="579"/>
-			<point x="253" y="587"/>
-			<point x="141" y="587" type="curve"/>
-			<point x="165" y="615" type="line"/>
-			<point x="160" y="576"/>
-			<point x="157" y="508"/>
-			<point x="157" y="361" type="curve" smooth="yes"/>
-			<point x="157" y="152"/>
-			<point x="161" y="100"/>
-			<point x="171" y="8" type="curve"/>
-		</contour>
-		<contour>
-			<point x="107" y="299" type="curve"/>
-			<point x="107" y="373" type="line"/>
-			<point x="210" y="373"/>
-			<point x="338" y="381"/>
-			<point x="338" y="381" type="curve"/>
-			<point x="348" y="377" type="line"/>
-			<point x="348" y="295" type="line"/>
-			<point x="338" y="291" type="line"/>
-			<point x="338" y="291"/>
-			<point x="214" y="299"/>
-=======
 	<advance width="477"/>
 	<unicode hex="0046"/>
 	<outline>
@@ -96,19 +47,14 @@
 			<point x="142" y="299" type="line"/>
 			<point x="208" y="299"/>
 			<point x="337" y="293"/>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-<<<<<<< HEAD
-			<string>2021-08-30 18:50:33 +0000</string>
-=======
 			<string>2021-09-15 07:30:46 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>=H</string>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 			<key>public.markColor</key>
 			<string>0.39,1,0.82,1</string>
 		</dict>
