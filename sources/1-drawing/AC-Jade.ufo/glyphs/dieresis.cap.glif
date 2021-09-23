@@ -4,6 +4,7 @@
 	<anchor x="247" y="704" name="_top"/>
 	<outline>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD:sources/1-drawing/AC-Jade.ufo/glyphs/ntilde.001.glif
 		<component base="n"/>
 		<component base="tilde.001" xOffset="-428"/>
@@ -11,6 +12,8 @@
 		<component base="dieresis.cmb" xOffset="250"/>
 >>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722:sources/1-drawing/AC-Jade.ufo/glyphs/dieresis.cap.glif
 =======
+=======
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 		<component base="dieresis.cmb" xOffset="249"/>
 		<contour>
 			<point x="151" y="754" type="curve" smooth="yes"/>
@@ -40,7 +43,10 @@
 			<point x="309" y="764"/>
 			<point x="328" y="749"/>
 		</contour>
+<<<<<<< HEAD
 >>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
+=======
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	</outline>
 	<lib>
 		<dict>
@@ -56,11 +62,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-<<<<<<< HEAD:sources/1-drawing/AC-Jade.ufo/glyphs/ntilde.001.glif
-			<string>2021-09-12 21:00:31 +0000</string>
-=======
 			<string>2021-09-15 00:19:48 +0000</string>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722:sources/1-drawing/AC-Jade.ufo/glyphs/dieresis.cap.glif
 		</dict>
 	</lib>
 </glyph>

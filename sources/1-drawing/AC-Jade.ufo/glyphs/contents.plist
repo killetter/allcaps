@@ -80,16 +80,19 @@
 	<string>I_ogonek.glif</string>
 	<key>J</key>
 	<string>J_.glif</string>
-<<<<<<< HEAD
-=======
 	<key>J.001</key>
 	<string>J_.001.glif</string>
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 =======
 	<key>Jacute</key>
 	<string>J_acute.glif</string>
 >>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
+=======
+	<key>Jacute</key>
+	<string>J_acute.glif</string>
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	<key>K</key>
 	<string>K_.glif</string>
 	<key>L</key>
@@ -106,6 +109,7 @@
 	<string>N_.glif</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<key>N.001</key>
 	<string>N_.001.glif</string>
 	<key>N.002</key>
@@ -115,15 +119,21 @@
 =======
 >>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 =======
+=======
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	<key>Nacute</key>
 	<string>N_acute.glif</string>
 	<key>Ncaron</key>
 	<string>N_caron.glif</string>
+<<<<<<< HEAD
 >>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
+=======
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	<key>Ntilde</key>
 	<string>N_tilde.glif</string>
 	<key>O</key>
 	<string>O_.glif</string>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -131,6 +141,8 @@
 	<string>O_dieresis.glif</string>
 >>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 =======
+=======
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	<key>Oacute</key>
 	<string>O_acute.glif</string>
 	<key>Ocircumflex</key>
@@ -145,16 +157,14 @@
 	<string>O_macron.glif</string>
 	<key>Otilde</key>
 	<string>O_tilde.glif</string>
+<<<<<<< HEAD
 >>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
+=======
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	<key>P</key>
 	<string>P_.glif</string>
 	<key>Q</key>
 	<string>Q_.glif</string>
-<<<<<<< HEAD
-	<key>Q.alt</key>
-	<string>Q_.alt.glif</string>
-=======
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>R</key>
 	<string>R_.glif</string>
 	<key>Racute</key>
@@ -173,16 +183,22 @@
 	<string>T_.glif</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<key>T.001</key>
 	<string>T_.001.glif</string>
 =======
 >>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 =======
+=======
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	<key>Tcaron</key>
 	<string>T_caron.glif</string>
 	<key>Tcedilla</key>
 	<string>T_cedilla.glif</string>
+<<<<<<< HEAD
 >>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
+=======
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>Uacute</key>
@@ -295,11 +311,16 @@
 	<string>d.glif</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 	<key>dcaron</key>
 	<string>dcaron.glif</string>
 >>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
+=======
+	<key>dcaron</key>
+	<string>dcaron.glif</string>
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
 	<key>dieresis.cap</key>
@@ -307,11 +328,16 @@
 	<key>dieresis.cmb</key>
 	<string>dieresis.cmb.glif</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 =======
 	<key>dotaccent</key>
 	<string>dotaccent.glif</string>
 >>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
+=======
+	<key>dotaccent</key>
+	<string>dotaccent.glif</string>
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	<key>e</key>
 	<string>e.glif</string>
 	<key>eacute</key>
@@ -350,6 +376,7 @@
 	<string>h.glif</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<key>h.001</key>
 	<string>h.001.glif</string>
 =======
@@ -358,10 +385,15 @@
 	<key>hungarumlaut</key>
 	<string>hungarumlaut.glif</string>
 >>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
+=======
+	<key>hungarumlaut</key>
+	<string>hungarumlaut.glif</string>
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 	<key>i.001</key>
@@ -371,6 +403,8 @@
 =======
 >>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 =======
+=======
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	<key>iacute</key>
 	<string>iacute.glif</string>
 	<key>icircumflex</key>
@@ -385,7 +419,10 @@
 	<string>imacron.glif</string>
 	<key>iogonek</key>
 	<string>iogonek.glif</string>
+<<<<<<< HEAD
 >>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
+=======
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	<key>j</key>
 	<string>j.glif</string>
 	<key>jacute</key>
@@ -404,6 +441,7 @@
 	<string>m.glif</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<key>m.001</key>
 	<string>m.001.glif</string>
 	<key>n</key>
@@ -419,6 +457,8 @@
 	<string>n.glif</string>
 >>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 =======
+=======
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	<key>macron</key>
 	<string>macron.glif</string>
 	<key>n</key>
@@ -427,33 +467,26 @@
 	<string>nacute.glif</string>
 	<key>ncaron</key>
 	<string>ncaron.glif</string>
+<<<<<<< HEAD
 >>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
+=======
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	<key>nine</key>
 	<string>nine.glif</string>
 	<key>ntilde</key>
 	<string>ntilde.glif</string>
-<<<<<<< HEAD
-	<key>ntilde.001</key>
-	<string>ntilde.001.glif</string>
-=======
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>numbersign</key>
 	<string>numbersign.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
+	<key>oacute</key>
+	<string>oacute.glif</string>
 <<<<<<< HEAD
-	<key>o.001</key>
-	<string>o.001.glif</string>
-	<key>oacute</key>
-	<string>oacute.glif</string>
-	<key>oacute.001</key>
-	<string>oacute.001.glif</string>
-=======
-	<key>oacute</key>
-	<string>oacute.glif</string>
 <<<<<<< HEAD
 >>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 =======
+=======
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	<key>ocircumflex</key>
 	<string>ocircumflex.glif</string>
 	<key>odieresis</key>
@@ -466,7 +499,10 @@
 	<string>ohungarumlaut.glif</string>
 	<key>omacron</key>
 	<string>omacron.glif</string>
+<<<<<<< HEAD
 >>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
+=======
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	<key>one</key>
 	<string>one.glif</string>
 	<key>otilde</key>
@@ -531,17 +567,15 @@
 	<string>tilde.glif</string>
 	<key>tilde.001</key>
 	<string>tilde.001.glif</string>
-<<<<<<< HEAD
-=======
 	<key>tilde.cap</key>
 	<string>tilde.cap.glif</string>
 	<key>tilde.cmb</key>
 	<string>tilde.cmb.glif</string>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>two</key>
 	<string>two.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 	<key>u.alt</key>
@@ -549,6 +583,8 @@
 =======
 >>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 =======
+=======
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	<key>uacute</key>
 	<string>uacute.glif</string>
 	<key>ucircumflex</key>
@@ -561,7 +597,10 @@
 	<string>uhungarumlaut.glif</string>
 	<key>umacron</key>
 	<string>umacron.glif</string>
+<<<<<<< HEAD
 >>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
+=======
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	<key>underscore</key>
 	<string>underscore.glif</string>
 	<key>uogonek</key>
@@ -570,11 +609,6 @@
 	<string>uring.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
-<<<<<<< HEAD
-	<key>v.001</key>
-	<string>v.001.glif</string>
-=======
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>w</key>
 	<string>w.glif</string>
 	<key>wacute</key>

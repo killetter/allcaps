@@ -1,53 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="s" format="2">
-<<<<<<< HEAD
-	<advance width="483"/>
-	<unicode hex="0073"/>
-	<outline>
-		<contour>
-			<point x="145" y="381" type="curve"/>
-			<point x="144" y="421"/>
-			<point x="188" y="445"/>
-			<point x="236" y="445" type="curve"/>
-			<point x="316" y="445"/>
-			<point x="339" y="410"/>
-			<point x="353" y="334" type="curve"/>
-			<point x="355" y="332" type="line"/>
-			<point x="427" y="337" type="line"/>
-			<point x="429" y="339" type="line"/>
-			<point x="429" y="446"/>
-			<point x="380" y="520"/>
-			<point x="241" y="520" type="curve"/>
-			<point x="128" y="520"/>
-			<point x="60" y="456"/>
-			<point x="60" y="369" type="curve"/>
-			<point x="60" y="268"/>
-			<point x="152" y="237"/>
-			<point x="228" y="214" type="curve" smooth="yes"/>
-			<point x="291" y="195"/>
-			<point x="353" y="182"/>
-			<point x="353" y="128" type="curve"/>
-			<point x="353" y="85"/>
-			<point x="303" y="65"/>
-			<point x="236" y="65" type="curve"/>
-			<point x="163" y="65"/>
-			<point x="118" y="80"/>
-			<point x="72" y="99" type="curve"/>
-			<point x="69" y="98" type="line"/>
-			<point x="45" y="47" type="line"/>
-			<point x="46" y="44" type="line"/>
-			<point x="96" y="16"/>
-			<point x="152" y="-10"/>
-			<point x="246" y="-10" type="curve"/>
-			<point x="367" y="-10"/>
-			<point x="438" y="38"/>
-			<point x="438" y="130" type="curve"/>
-			<point x="438" y="244"/>
-			<point x="344" y="267"/>
-			<point x="267" y="292" type="curve" smooth="yes"/>
-			<point x="203" y="313"/>
-			<point x="145" y="322"/>
-=======
 	<advance width="459"/>
 	<unicode hex="0073"/>
 	<anchor x="230" y="510" name="top"/>
@@ -90,20 +42,21 @@
 			<point x="45" y="36" type="line"/>
 			<point x="101" y="8"/>
 			<point x="167" y="-10"/>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 		</contour>
 	</outline>
 	<lib>
 		<dict>
-<<<<<<< HEAD
-=======
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+<<<<<<< HEAD
 <<<<<<< HEAD
 			<string>2021-09-15 07:26:19 +0000</string>
 >>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 =======
 			<string>2021-09-23 00:58:13 +0000</string>
 >>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
+=======
+			<string>2021-09-23 00:58:13 +0000</string>
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 			<key>public.markColor</key>
 			<string>0.15,0.86,0.81,1</string>
 		</dict>

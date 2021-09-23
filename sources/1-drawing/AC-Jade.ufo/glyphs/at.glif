@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="at" format="2">
-<<<<<<< HEAD
-	<advance width="500"/>
-	<unicode hex="0040"/>
-	<outline>
-	</outline>
-=======
 	<advance width="850"/>
 	<unicode hex="0040"/>
 	<outline>
@@ -96,5 +90,4 @@
 			<string>2021-09-15 07:26:19 +0000</string>
 		</dict>
 	</lib>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 </glyph>

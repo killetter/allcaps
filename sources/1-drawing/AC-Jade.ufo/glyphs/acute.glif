@@ -7,6 +7,7 @@
 		<contour>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<point x="100" y="609" type="line"/>
 			<point x="100" y="617" type="line"/>
 			<point x="256" y="778" type="line"/>
@@ -26,6 +27,8 @@
 			<point x="86" y="609" type="line"/>
 >>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 =======
+=======
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 			<point x="126" y="562" type="line"/>
 			<point x="133" y="564" type="line"/>
 			<point x="328" y="737" type="line"/>
@@ -34,17 +37,16 @@
 			<point x="263" y="791" type="line"/>
 			<point x="101" y="595" type="line"/>
 			<point x="102" y="587" type="line"/>
+<<<<<<< HEAD
 >>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
+=======
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-<<<<<<< HEAD
-			<string>2021-09-01 03:20:24 +0000</string>
-=======
 			<string>2021-09-15 07:26:19 +0000</string>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 		</dict>
 	</lib>
 </glyph>

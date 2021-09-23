@@ -127,6 +127,7 @@
 	</array>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<array>
 <<<<<<< HEAD
 		<string>hmn</string>
@@ -251,9 +252,11 @@
 =======
 	<array/>
 >>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
+=======
+	<array/>
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>com.schriftgestaltung.fontMaster.customParameters</key>
 	<array>
 		<dict>
@@ -381,11 +384,7 @@
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.segmentType</key>
-<<<<<<< HEAD
-	<string>curve</string>
-=======
 	<string>qcurve</string>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.smartSets.uniqueKey</key>
@@ -507,6 +506,7 @@
 		<string>Ntilde</string>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<string>M.001</string>
 		<string>N.001</string>
 		<string>T.001</string>
@@ -535,6 +535,10 @@
 		<string>Oacute</string>
 		<string>Ocircumflex</string>
 >>>>>>> 10b1224857827ad043e12caf7ec8cb7acfc6b271
+=======
+		<string>Oacute</string>
+		<string>Ocircumflex</string>
+>>>>>>> 8a6a77c400bd59e0e3f6293ab732900abd290bcd
 		<string>Odieresis</string>
 		<string>Ograve</string>
 		<string>Ohungarumlaut</string>
@@ -642,20 +646,10 @@
 		<string>questiondown</string>
 		<string>numbersign</string>
 		<string>underscore</string>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 		<string>braceleft</string>
 		<string>braceright</string>
 		<string>bracketleft</string>
 		<string>bracketright</string>
-<<<<<<< HEAD
-		<string>underscore</string>
-		<string>grave</string>
-		<string>acute</string>
-		<string>tilde</string>
-		<string>tilde.001</string>
-		<string>newGlyph</string>
-		<string>newGlyph.001</string>
-=======
 		<string>dieresis</string>
 		<string>dotaccent</string>
 		<string>grave</string>
@@ -674,7 +668,6 @@
 		<string>dieresis.cmb</string>
 		<string>tilde.cmb</string>
 		<string>tilde.001</string>
->>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	</array>
 	<key>public.postscriptNames</key>
 	<dict/>
