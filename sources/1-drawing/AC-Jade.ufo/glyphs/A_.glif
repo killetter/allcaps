@@ -2,6 +2,9 @@
 <glyph name="A" format="2">
 	<advance width="591"/>
 	<unicode hex="0041"/>
+	<anchor x="296" y="700" name="top"/>
+	<anchor x="296" y="0" name="bottom"/>
+	<anchor x="532" y="10" name="ogonek"/>
 	<outline>
 		<contour>
 			<point x="467" y="0" type="line"/>
@@ -51,7 +54,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-15 07:26:19 +0000</string>
+			<string>2021-09-23 19:28:58 +0000</string>
 		</dict>
 	</lib>
 </glyph>
