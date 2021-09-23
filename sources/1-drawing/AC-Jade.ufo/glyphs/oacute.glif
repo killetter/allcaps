@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oacute" format="2">
-	<advance width="468"/>
+	<advance width="523"/>
 	<unicode hex="00F3"/>
 	<outline>
-		<component base="o" xOffset="-55"/>
-		<component base="acute" xOffset="8" yOffset="10"/>
+		<component base="o"/>
+<<<<<<< HEAD
+		<component base="acute" xOffset="75" yOffset="10"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-12 21:00:31 +0000</string>
+=======
+		<component base="acute" xOffset="63" yOffset="10"/>
 	</outline>
 	<lib>
 		<dict>
@@ -28,11 +36,12 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-13 04:17:20 +0000</string>
+			<string>2021-09-15 06:29:05 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>=0</string>
+			<string>=o</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>=o</string>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 		</dict>
 	</lib>
 </glyph>

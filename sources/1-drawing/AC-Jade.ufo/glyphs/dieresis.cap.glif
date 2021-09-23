@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis.cap" format="2">
+	<advance width="500"/>
+	<outline>
+<<<<<<< HEAD:sources/1-drawing/AC-Jade.ufo/glyphs/ntilde.001.glif
+		<component base="n"/>
+		<component base="tilde.001" xOffset="-428"/>
+=======
+		<component base="dieresis.cmb" xOffset="250"/>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722:sources/1-drawing/AC-Jade.ufo/glyphs/dieresis.cap.glif
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>dieresis.cmb</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+<<<<<<< HEAD:sources/1-drawing/AC-Jade.ufo/glyphs/ntilde.001.glif
+			<string>2021-09-12 21:00:31 +0000</string>
+=======
+			<string>2021-09-15 00:19:48 +0000</string>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722:sources/1-drawing/AC-Jade.ufo/glyphs/dieresis.cap.glif
+		</dict>
+	</lib>
+</glyph>

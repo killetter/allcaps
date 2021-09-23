@@ -4,7 +4,15 @@
 	<unicode hex="00F1"/>
 	<outline>
 		<component base="n"/>
-		<component base="tilde" xOffset="82"/>
+<<<<<<< HEAD
+		<component base="tilde" xOffset="-423"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-12 21:00:31 +0000</string>
+=======
+		<component base="tilde" xOffset="101"/>
 	</outline>
 	<lib>
 		<dict>
@@ -28,11 +36,12 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-13 04:17:45 +0000</string>
+			<string>2021-09-15 02:33:15 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
 			<string>=n</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>=n</string>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 		</dict>
 	</lib>
 </glyph>

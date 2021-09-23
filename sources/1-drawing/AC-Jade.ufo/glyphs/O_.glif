@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="O" format="2">
+<<<<<<< HEAD
 	<advance width="690"/>
 	<unicode hex="004F"/>
 	<outline>
@@ -30,12 +31,48 @@
 			<point x="640" y="335" type="curve" smooth="yes"/>
 			<point x="640" y="120"/>
 			<point x="529" y="-10"/>
+=======
+	<advance width="740"/>
+	<unicode hex="004F"/>
+	<outline>
+		<contour>
+			<point x="370" y="-10" type="curve" smooth="yes"/>
+			<point x="553" y="-10"/>
+			<point x="665" y="122"/>
+			<point x="665" y="350" type="curve" smooth="yes"/>
+			<point x="665" y="578"/>
+			<point x="553" y="710"/>
+			<point x="370" y="710" type="curve" smooth="yes"/>
+			<point x="187" y="710"/>
+			<point x="75" y="578"/>
+			<point x="75" y="350" type="curve" smooth="yes"/>
+			<point x="75" y="122"/>
+			<point x="187" y="-10"/>
+		</contour>
+		<contour>
+			<point x="370" y="80" type="curve" smooth="yes"/>
+			<point x="245" y="80"/>
+			<point x="175" y="171"/>
+			<point x="175" y="350" type="curve" smooth="yes"/>
+			<point x="175" y="529"/>
+			<point x="245" y="620"/>
+			<point x="370" y="620" type="curve" smooth="yes"/>
+			<point x="495" y="620"/>
+			<point x="565" y="529"/>
+			<point x="565" y="350" type="curve" smooth="yes"/>
+			<point x="565" y="171"/>
+			<point x="495" y="80"/>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+<<<<<<< HEAD
 			<string>2021-09-01 02:41:32 +0000</string>
+=======
+			<string>2021-09-15 07:26:19 +0000</string>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 			<key>public.markColor</key>
 			<string>0.39,1,0.82,1</string>
 		</dict>
