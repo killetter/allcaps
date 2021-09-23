@@ -127,6 +127,7 @@
 	</array>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
+<<<<<<< HEAD
 		<string>hmn</string>
 		<string>óáñ</string>
 		<string>hh</string>
@@ -243,6 +244,12 @@
 			</array>
 		</dict>
 	</array>
+=======
+		<string>F</string>
+	</array>
+	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
+	<false/>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>com.schriftgestaltung.fontMaster.customParameters</key>
 	<array>
 		<dict>
@@ -370,7 +377,11 @@
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.segmentType</key>
+<<<<<<< HEAD
 	<string>curve</string>
+=======
+	<string>qcurve</string>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.smartSets.uniqueKey</key>
@@ -457,6 +468,7 @@
 		<string>nine</string>
 		<string>.notdef</string>
 		<string>Ntilde</string>
+<<<<<<< HEAD
 		<string>M.001</string>
 		<string>N.001</string>
 		<string>T.001</string>
@@ -480,10 +492,24 @@
 		<string>exclamdown</string>
 		<string>questiondown</string>
 		<string>numbersign</string>
+=======
+		<string>Odieresis</string>
+		<string>J.001</string>
+		<string>M.001</string>
+		<string>aacute</string>
+		<string>ntilde</string>
+		<string>oacute</string>
+		<string>a.alt</string>
+		<string>exclamdown</string>
+		<string>questiondown</string>
+		<string>numbersign</string>
+		<string>underscore</string>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 		<string>braceleft</string>
 		<string>braceright</string>
 		<string>bracketleft</string>
 		<string>bracketright</string>
+<<<<<<< HEAD
 		<string>underscore</string>
 		<string>grave</string>
 		<string>acute</string>
@@ -491,6 +517,17 @@
 		<string>tilde.001</string>
 		<string>newGlyph</string>
 		<string>newGlyph.001</string>
+=======
+		<string>dieresis</string>
+		<string>grave</string>
+		<string>acute</string>
+		<string>tilde</string>
+		<string>dieresis.cap</string>
+		<string>tilde.cap</string>
+		<string>dieresis.cmb</string>
+		<string>tilde.cmb</string>
+		<string>tilde.001</string>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	</array>
 	<key>public.postscriptNames</key>
 	<dict/>

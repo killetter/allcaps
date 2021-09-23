@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ntilde" format="2">
+<<<<<<< HEAD
 	<advance width="616"/>
 	<unicode hex="00D1"/>
 	<outline>
 		<component base="N"/>
 		<component base="tilde" xOffset="116" yOffset="140"/>
+=======
+	<advance width="706"/>
+	<unicode hex="00D1"/>
+	<outline>
+		<component base="N"/>
+		<component base="tilde.cap" xOffset="38" yOffset="10"/>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	</outline>
 	<lib>
 		<dict>
@@ -24,11 +32,23 @@
 					<key>index</key>
 					<integer>1</integer>
 					<key>name</key>
+<<<<<<< HEAD
 					<string>tilde</string>
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
 			<string>2021-08-31 19:09:57 +0000</string>
+=======
+					<string>tilde.cap</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-15 06:28:50 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=N</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=N</string>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 		</dict>
 	</lib>
 </glyph>

@@ -20,14 +20,22 @@
 	<string>I_.glif</string>
 	<key>L</key>
 	<string>L_.glif</string>
+<<<<<<< HEAD
 	<key>N</key>
 	<string>N_.glif</string>
+=======
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>O</key>
 	<string>O_.glif</string>
 	<key>P</key>
 	<string>P_.glif</string>
+<<<<<<< HEAD
 	<key>Q.alt</key>
 	<string>Q_.alt.glif</string>
+=======
+	<key>S</key>
+	<string>S_.glif</string>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>V</key>
@@ -52,20 +60,28 @@
 	<string>g.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
+<<<<<<< HEAD
 	<key>h.001</key>
 	<string>h.001.glif</string>
+=======
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>i</key>
 	<string>i.glif</string>
 	<key>l</key>
 	<string>l.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
+<<<<<<< HEAD
 	<key>m.001</key>
 	<string>m.001.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
 	<key>n.001</key>
 	<string>n.001.glif</string>
+=======
+	<key>n</key>
+	<string>n.glif</string>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>o</key>
 	<string>o.glif</string>
 	<key>p</key>
@@ -74,16 +90,28 @@
 	<string>q.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
+<<<<<<< HEAD
+=======
+	<key>t</key>
+	<string>t.glif</string>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>three</key>
 	<string>three.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
+<<<<<<< HEAD
 	<key>tilde.001</key>
 	<string>tilde.001.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>v.001</key>
 	<string>v.001.glif</string>
+=======
+	<key>two</key>
+	<string>two.glif</string>
+	<key>v</key>
+	<string>v.glif</string>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>w</key>
 	<string>w.glif</string>
 </dict>
