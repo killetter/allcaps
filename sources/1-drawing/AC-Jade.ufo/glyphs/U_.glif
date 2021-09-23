@@ -1,49 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="U" format="2">
+<<<<<<< HEAD
+	<advance width="623"/>
+	<unicode hex="0055"/>
+	<outline>
+		<contour>
+			<point x="319" y="-10" type="curve"/>
+			<point x="137" y="-10"/>
+			<point x="60" y="73.93478"/>
+			<point x="60" y="276" type="curve" smooth="yes"/>
+			<point x="60" y="660" type="line"/>
+			<point x="69" y="670" type="line"/>
+			<point x="151" y="670" type="line"/>
+			<point x="160" y="661" type="line"/>
+			<point x="160" y="266" type="line" smooth="yes"/>
+			<point x="160" y="143.59116"/>
+			<point x="210" y="75"/>
+			<point x="325" y="75" type="curve"/>
+			<point x="411" y="75"/>
+			<point x="468" y="139"/>
+			<point x="468" y="274" type="curve" smooth="yes"/>
+			<point x="468" y="661" type="line"/>
+			<point x="477" y="670" type="line"/>
+			<point x="554" y="670" type="line"/>
+			<point x="563" y="660" type="line"/>
+			<point x="563" y="288" type="line" smooth="yes"/>
+			<point x="563" y="107"/>
+			<point x="478" y="-10"/>
+=======
 	<advance width="673"/>
 	<unicode hex="0055"/>
-	<anchor x="337" y="700" name="top"/>
-	<anchor x="337" y="0" name="bottom"/>
-	<anchor x="415" y="3" name="ogonek"/>
-	<anchor x="653" y="700" name="topright"/>
 	<outline>
 		<contour>
 			<point x="337" y="-11" type="curve" smooth="yes"/>
 			<point x="505" y="-11"/>
-			<point x="586" y="84"/>
+			<point x="588" y="84"/>
 			<point x="588" y="306" type="curve" smooth="yes"/>
-			<point x="589" y="433"/>
-			<point x="592" y="561"/>
-			<point x="598" y="690" type="curve"/>
-			<point x="589" y="700" type="line"/>
-			<point x="495" y="700" type="line"/>
-			<point x="486" y="691" type="line"/>
-			<point x="492" y="560"/>
-			<point x="492" y="428"/>
-			<point x="493" y="296" type="curve" smooth="yes"/>
-			<point x="495" y="157"/>
+			<point x="588" y="690" type="line"/>
+			<point x="579" y="700" type="line"/>
+			<point x="502" y="700" type="line"/>
+			<point x="493" y="691" type="line"/>
+			<point x="493" y="326" type="line" smooth="yes"/>
+			<point x="493" y="139"/>
 			<point x="450" y="79"/>
 			<point x="339" y="79" type="curve" smooth="yes"/>
 			<point x="228" y="79"/>
-			<point x="184" y="154"/>
-			<point x="184" y="296" type="curve" smooth="yes"/>
-			<point x="184" y="444"/>
-			<point x="186" y="561"/>
-			<point x="191" y="691" type="curve"/>
-			<point x="182" y="700" type="line"/>
-			<point x="84" y="700" type="line"/>
-			<point x="75" y="690" type="line"/>
-			<point x="80" y="562"/>
-			<point x="85" y="434"/>
-			<point x="85" y="306" type="curve" smooth="yes"/>
+			<point x="185" y="139"/>
+			<point x="185" y="326" type="curve" smooth="yes"/>
+			<point x="185" y="691" type="line"/>
+			<point x="176" y="700" type="line"/>
+			<point x="94" y="700" type="line"/>
+			<point x="85" y="690" type="line"/>
+			<point x="85" y="306" type="line" smooth="yes"/>
 			<point x="85" y="84"/>
 			<point x="169" y="-11"/>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-23 00:36:09 +0000</string>
+<<<<<<< HEAD
+			<string>2021-09-01 03:16:11 +0000</string>
+=======
+			<string>2021-09-15 07:26:19 +0000</string>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 			<key>public.markColor</key>
 			<string>0.39,1,0.82,1</string>
 		</dict>

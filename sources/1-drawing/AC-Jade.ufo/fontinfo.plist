@@ -5,7 +5,11 @@
 	<key>ascender</key>
 	<integer>780</integer>
 	<key>capHeight</key>
+<<<<<<< HEAD
+	<integer>670</integer>
+=======
 	<integer>700</integer>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>descender</key>
 	<integer>-220</integer>
 	<key>familyName</key>
@@ -15,16 +19,35 @@
 		<dict>
 			<key>angle</key>
 			<integer>0</integer>
+<<<<<<< HEAD
+			<key>x</key>
+			<integer>498</integer>
+			<key>y</key>
+			<integer>568</integer>
+=======
 			<key>identifier</key>
 			<string>qWYkjuYtmg</string>
 			<key>x</key>
 			<integer>490</integer>
 			<key>y</key>
 			<integer>576</integer>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 		</dict>
 		<dict>
 			<key>angle</key>
 			<integer>0</integer>
+<<<<<<< HEAD
+			<key>x</key>
+			<integer>532</integer>
+			<key>y</key>
+			<integer>7</integer>
+		</dict>
+	</array>
+	<key>openTypeHeadCreated</key>
+	<string>2021/09/10 04:03:00</string>
+	<key>openTypeNameDesigner</key>
+	<string>Andrea Buendía, Constanza Rizzo, Juan José Melendez, Miguel Ángel Contreras, Tamara Segura</string>
+=======
 			<key>identifier</key>
 			<string>xfky10aIOS</string>
 			<key>x</key>
@@ -47,6 +70,7 @@
 	<string>Andrea Buendía, Constanza Rizzo, Juan José Melendez, Miguel Ángel Contreras, Tamara Segura</string>
 	<key>openTypeNameManufacturer</key>
 	<string>ALL CAPS</string>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeOS2WeightClass</key>
@@ -55,19 +79,33 @@
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
+<<<<<<< HEAD
+		<integer>-10</integer>
+		<integer>0</integer>
+		<integer>510</integer>
+		<integer>520</integer>
+		<integer>670</integer>
+		<integer>680</integer>
+=======
 		<real>-10.0</real>
 		<real>0.0</real>
 		<real>510.0</real>
 		<real>520.0</real>
 		<real>700.0</real>
 		<real>710.0</real>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	</array>
 	<key>postscriptFontName</key>
 	<string>AC-Jade-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
+<<<<<<< HEAD
+		<integer>-230</integer>
+		<integer>-220</integer>
+=======
 		<real>-230.0</real>
 		<real>-220.0</real>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>

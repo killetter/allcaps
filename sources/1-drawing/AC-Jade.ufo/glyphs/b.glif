@@ -4,8 +4,62 @@
 	<unicode hex="0062"/>
 	<outline>
 		<contour>
+<<<<<<< HEAD
+			<point x="96" y="732" type="line"/>
+			<point x="96" y="732"/>
+			<point x="106" y="660"/>
+			<point x="106" y="389" type="curve" smooth="yes"/>
+			<point x="106" y="118"/>
+			<point x="96" y="10"/>
+			<point x="96" y="10" type="curve"/>
+			<point x="101" y="0" type="line"/>
+			<point x="146" y="0" type="line"/>
+			<point x="181" y="72" type="line"/>
+			<point x="191" y="72" type="line"/>
+			<point x="191" y="699" type="line" smooth="yes"/>
+			<point x="191" y="762"/>
+			<point x="177" y="780"/>
+			<point x="138" y="780" type="curve" smooth="yes"/>
+			<point x="103" y="780"/>
+			<point x="69" y="771"/>
+			<point x="45" y="765" type="curve"/>
+			<point x="52" y="700" type="line"/>
+			<point x="115" y="703" type="line"/>
+		</contour>
+		<contour>
+			<point x="412" y="258" type="line" smooth="yes"/>
+			<point x="412" y="113"/>
+			<point x="372" y="75"/>
+			<point x="311" y="75" type="curve"/>
+			<point x="254" y="75"/>
+			<point x="209" y="100"/>
+			<point x="170" y="122" type="curve"/>
+			<point x="158" y="74" type="line"/>
+			<point x="186" y="74" type="line"/>
+			<point x="222" y="19"/>
+			<point x="260" y="-10"/>
+			<point x="334" y="-10" type="curve"/>
+			<point x="445" y="-10"/>
+			<point x="507" y="94"/>
+			<point x="507" y="258" type="curve" smooth="yes"/>
+			<point x="507" y="283" type="line" smooth="yes"/>
+			<point x="507" y="450"/>
+			<point x="454" y="520"/>
+			<point x="342" y="520" type="curve"/>
+			<point x="269" y="520"/>
+			<point x="225" y="485"/>
+			<point x="196" y="439" type="curve"/>
+			<point x="168" y="439" type="line"/>
+			<point x="191" y="255" type="line"/>
+			<point x="191" y="396"/>
+			<point x="244" y="440"/>
+			<point x="309" y="440" type="curve" smooth="yes"/>
+			<point x="373" y="440"/>
+			<point x="412" y="410"/>
+			<point x="412" y="281" type="curve" smooth="yes"/>
+=======
 			<point x="334" y="-10" type="curve" smooth="yes"/>
-			<point x="467" y="-10"/>
+			<point x="444.44776" y="-10"/>
 			<point x="507" y="94.81592"/>
 			<point x="507" y="258" type="curve" smooth="yes"/>
 			<point x="507" y="283" type="line" smooth="yes"/>
@@ -13,21 +67,21 @@
 			<point x="453.44279" y="520"/>
 			<point x="342" y="520" type="curve" smooth="yes"/>
 			<point x="269.36318" y="520"/>
-			<point x="219" y="488"/>
-			<point x="190" y="451" type="curve"/>
+			<point x="224.85572" y="484.77114"/>
+			<point x="196" y="439" type="curve"/>
 			<point x="168" y="439" type="line"/>
 			<point x="191" y="255" type="line"/>
 			<point x="191" y="395.29851"/>
 			<point x="244.32338" y="440"/>
 			<point x="309" y="440" type="curve" smooth="yes"/>
 			<point x="372.68159" y="440"/>
-			<point x="412" y="407"/>
+			<point x="412" y="409.35821"/>
 			<point x="412" y="281" type="curve" smooth="yes"/>
-			<point x="412" y="246" type="line"/>
-			<point x="412" y="102"/>
-			<point x="385" y="66"/>
-			<point x="323" y="66" type="curve" smooth="yes"/>
-			<point x="260" y="66"/>
+			<point x="412" y="258" type="line"/>
+			<point x="412" y="167"/>
+			<point x="398" y="75"/>
+			<point x="298" y="75" type="curve" smooth="yes"/>
+			<point x="254.28358" y="75"/>
 			<point x="205" y="106"/>
 			<point x="170" y="142" type="curve"/>
 			<point x="191" y="74" type="line"/>
@@ -52,15 +106,20 @@
 			<point x="186" y="85" type="line"/>
 			<point x="136" y="62" type="line"/>
 			<point x="232" y="62" type="line"/>
-			<point x="162" y="89" type="line"/>
-			<point x="204" y="18"/>
+			<point x="169" y="101" type="line"/>
+			<point x="211" y="30"/>
 			<point x="249" y="-10"/>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-23 01:15:27 +0000</string>
+<<<<<<< HEAD
+			<string>2021-09-01 02:41:01 +0000</string>
+=======
+			<string>2021-09-15 07:26:19 +0000</string>
+>>>>>>> 63ab59a4907c3c208bd4e3ce4e29d61fad11b722
 			<key>public.markColor</key>
 			<string>0.39,1,0.82,1</string>
 		</dict>
