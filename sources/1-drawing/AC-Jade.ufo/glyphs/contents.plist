@@ -218,12 +218,48 @@
 	<string>aogonek.glif</string>
 	<key>aring</key>
 	<string>aring.glif</string>
+	<key>arrowNE</key>
+	<string>arrowN_E_.glif</string>
+	<key>arrowNW</key>
+	<string>arrowN_W_.glif</string>
+	<key>arrowSE</key>
+	<string>arrowS_E_.glif</string>
+	<key>arrowSW</key>
+	<string>arrowS_W_.glif</string>
+	<key>arrowdown</key>
+	<string>arrowdown.glif</string>
+	<key>arrowleft</key>
+	<string>arrowleft.glif</string>
+	<key>arrowleftdowntip</key>
+	<string>arrowleftdowntip.glif</string>
+	<key>arrowleftright</key>
+	<string>arrowleftright.glif</string>
+	<key>arrowleftuptip</key>
+	<string>arrowleftuptip.glif</string>
+	<key>arrowright</key>
+	<string>arrowright.glif</string>
+	<key>arrowrightdowntip</key>
+	<string>arrowrightdowntip.glif</string>
+	<key>arrowup</key>
+	<string>arrowup.glif</string>
+	<key>arrowupdown</key>
+	<string>arrowupdown.glif</string>
+	<key>arrowuprighttip</key>
+	<string>arrowuprighttip.glif</string>
 	<key>at</key>
 	<string>at.glif</string>
 	<key>atilde</key>
 	<string>atilde.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
+	<key>banio</key>
+	<string>banio.glif</string>
+	<key>banio.001</key>
+	<string>banio.001.glif</string>
+	<key>banio.002</key>
+	<string>banio.002.glif</string>
+	<key>banio.003</key>
+	<string>banio.003.glif</string>
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
 	<key>braceright</key>
@@ -282,6 +318,14 @@
 	<string>eight.glif</string>
 	<key>emacron</key>
 	<string>emacron.glif</string>
+	<key>enojado</key>
+	<string>enojado.glif</string>
+	<key>enojado.001</key>
+	<string>enojado.001.glif</string>
+	<key>enojado.003</key>
+	<string>enojado.003.glif</string>
+	<key>enojado.alt</key>
+	<string>enojado.alt.glif</string>
 	<key>eogonek</key>
 	<string>eogonek.glif</string>
 	<key>exclam</key>
@@ -290,6 +334,12 @@
 	<string>exclamdown.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
+	<key>feliz</key>
+	<string>feliz.glif</string>
+	<key>feliz.001</key>
+	<string>feliz.001.glif</string>
+	<key>feliz.003</key>
+	<string>feliz.003.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
 	<key>four</key>
@@ -434,6 +484,12 @@
 	<string>tilde.cap.glif</string>
 	<key>tilde.cmb</key>
 	<string>tilde.cmb.glif</string>
+	<key>triste</key>
+	<string>triste.glif</string>
+	<key>triste.001</key>
+	<string>triste.001.glif</string>
+	<key>triste.003</key>
+	<string>triste.003.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
 	<key>u</key>
