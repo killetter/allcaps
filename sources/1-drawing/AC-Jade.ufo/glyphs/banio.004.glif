@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="banio" format="2">
+<glyph name="banio.004" format="2">
 	<advance width="714"/>
 	<guideline x="357" y="154" angle="90"/>
 	<guideline x="385" y="630" angle="90"/>
@@ -112,7 +112,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-24 01:56:22 +0000</string>
+			<string>2021-09-24 06:13:47 +0000</string>
+			<key>public.markColor</key>
+			<string>1,0,0,1</string>
 		</dict>
 	</lib>
 </glyph>
