@@ -559,6 +559,10 @@
 		<string>ringcomb</string>
 		<string>tildecomb</string>
 		<string>cedillacomb</string>
+		<string>arrowup</string>
+		<string>arrowright</string>
+		<string>arrowdown</string>
+		<string>arrowleft</string>
 		<string>dieresis</string>
 		<string>dotaccent</string>
 		<string>grave</string>
@@ -576,6 +580,30 @@
 		<string>tilde.cap</string>
 		<string>tilde.cmb</string>
 		<string>tilde.001</string>
+		<string>arrowNE</string>
+		<string>arrowNW</string>
+		<string>arrowSE</string>
+		<string>arrowSW</string>
+		<string>arrowleftdowntip</string>
+		<string>arrowleftright</string>
+		<string>arrowleftuptip</string>
+		<string>arrowrightdowntip</string>
+		<string>arrowupdown</string>
+		<string>arrowuprighttip</string>
+		<string>banio</string>
+		<string>enojado</string>
+		<string>feliz</string>
+		<string>triste</string>
+		<string>banio.001</string>
+		<string>banio.002</string>
+		<string>banio.003</string>
+		<string>enojado.001</string>
+		<string>enojado.003</string>
+		<string>enojado.alt</string>
+		<string>feliz.001</string>
+		<string>feliz.003</string>
+		<string>triste.001</string>
+		<string>triste.003</string>
 	</array>
 	<key>public.postscriptNames</key>
 	<dict/>
