@@ -18,19 +18,9 @@
 			<key>identifier</key>
 			<string>qWYkjuYtmg</string>
 			<key>x</key>
-			<integer>490</integer>
+			<integer>485</integer>
 			<key>y</key>
-			<integer>576</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>identifier</key>
-			<string>xfky10aIOS</string>
-			<key>x</key>
-			<integer>374</integer>
-			<key>y</key>
-			<integer>110</integer>
+			<integer>528</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -39,6 +29,14 @@
 			<integer>506</integer>
 			<key>y</key>
 			<integer>780</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>485</integer>
+			<key>y</key>
+			<integer>369</integer>
 		</dict>
 	</array>
 	<key>openTypeHeadCreated</key>
