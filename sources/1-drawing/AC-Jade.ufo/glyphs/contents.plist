@@ -350,6 +350,8 @@
 	<string>eight.glif</string>
 	<key>eight.osf</key>
 	<string>eight.osf.glif</string>
+	<key>eight.tf</key>
+	<string>eight.tf.glif</string>
 	<key>ellipsis</key>
 	<string>ellipsis.glif</string>
 	<key>emacron</key>
@@ -386,10 +388,14 @@
 	<string>five.glif</string>
 	<key>five.osf</key>
 	<string>five.osf.glif</string>
+	<key>five.tf</key>
+	<string>five.tf.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
 	<key>four.osf</key>
 	<string>four.osf.glif</string>
+	<key>four.tf</key>
+	<string>four.tf.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>grave</key>
@@ -468,6 +474,8 @@
 	<string>nine.glif</string>
 	<key>nine.osf</key>
 	<string>nine.osf.glif</string>
+	<key>nine.tf</key>
+	<string>nine.tf.glif</string>
 	<key>northEastArrow</key>
 	<string>northE_astA_rrow.glif</string>
 	<key>northWestArrow</key>
@@ -498,6 +506,8 @@
 	<string>one.glif</string>
 	<key>one.osf</key>
 	<string>one.osf.glif</string>
+	<key>one.tf</key>
+	<string>one.tf.glif</string>
 	<key>otilde</key>
 	<string>otilde.glif</string>
 	<key>p</key>
@@ -568,10 +578,14 @@
 	<string>seven.glif</string>
 	<key>seven.osf</key>
 	<string>seven.osf.glif</string>
+	<key>seven.tf</key>
+	<string>seven.tf.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
 	<key>six.osf</key>
 	<string>six.osf.glif</string>
+	<key>six.tf</key>
+	<string>six.tf.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
 	<key>southEastArrow</key>
@@ -590,6 +604,8 @@
 	<string>three.glif</string>
 	<key>three.osf</key>
 	<string>three.osf.glif</string>
+	<key>three.tf</key>
+	<string>three.tf.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
 	<key>tilde.001</key>
@@ -612,6 +628,8 @@
 	<string>two.glif</string>
 	<key>two.osf</key>
 	<string>two.osf.glif</string>
+	<key>two.tf</key>
+	<string>two.tf.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
 	<key>uacute</key>
@@ -672,5 +690,7 @@
 	<string>zero.glif</string>
 	<key>zero.osf</key>
 	<string>zero.osf.glif</string>
+	<key>zero.tf</key>
+	<string>zero.tf.glif</string>
 </dict>
 </plist>

@@ -125,6 +125,16 @@
 			<string>glyphList</string>
 		</dict>
 	</array>
+	<key>com.schriftgestaltung.DisplayStrings</key>
+	<array>
+		<string>{[(lgH*)]}</string>
+		<string>l-n</string>
+		<string>` ´ ˜ ˆ ˇ ¨ ¸¯ ˘ ˙ ° ˝ .</string>
+		<string>»</string>
+		<string>«</string>
+		<string>/six.tf</string>
+		<string>6</string>
+	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.fontMaster.customParameters</key>
@@ -493,6 +503,16 @@
 		<string>seven.osf</string>
 		<string>eight.osf</string>
 		<string>nine.osf</string>
+		<string>zero.tf</string>
+		<string>one.tf</string>
+		<string>two.tf</string>
+		<string>three.tf</string>
+		<string>four.tf</string>
+		<string>five.tf</string>
+		<string>six.tf</string>
+		<string>seven.tf</string>
+		<string>eight.tf</string>
+		<string>nine.tf</string>
 		<string>ellipsis</string>
 		<string>exclamdown</string>
 		<string>questiondown</string>

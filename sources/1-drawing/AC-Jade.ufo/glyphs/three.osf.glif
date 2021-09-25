@@ -2,5 +2,65 @@
 <glyph name="three.osf" format="2">
 	<advance width="600"/>
 	<outline>
+		<contour>
+			<point x="140" y="-215" type="line"/>
+			<point x="140" y="-215"/>
+			<point x="187" y="-209"/>
+			<point x="226" y="-202" type="curve" smooth="yes"/>
+			<point x="362" y="-176"/>
+			<point x="530" y="-138"/>
+			<point x="530" y="48" type="curve" smooth="yes"/>
+			<point x="530" y="172"/>
+			<point x="472" y="245"/>
+			<point x="383" y="245" type="curve" smooth="yes"/>
+			<point x="356" y="245"/>
+			<point x="327" y="219"/>
+			<point x="296" y="200" type="curve"/>
+			<point x="296" y="197" type="line"/>
+			<point x="403" y="233"/>
+			<point x="459" y="301"/>
+			<point x="459" y="369" type="curve" smooth="yes"/>
+			<point x="459" y="470"/>
+			<point x="383" y="519"/>
+			<point x="293" y="519" type="curve" smooth="yes"/>
+			<point x="231" y="519"/>
+			<point x="159" y="492"/>
+			<point x="93" y="449" type="curve"/>
+			<point x="91" y="444" type="line"/>
+			<point x="108" y="403" type="line"/>
+			<point x="114" y="401" type="line"/>
+			<point x="159" y="424"/>
+			<point x="226" y="439"/>
+			<point x="270" y="439" type="curve" smooth="yes"/>
+			<point x="322" y="439"/>
+			<point x="359" y="400"/>
+			<point x="359" y="348" type="curve" smooth="yes"/>
+			<point x="359" y="296"/>
+			<point x="321" y="239"/>
+			<point x="204" y="196" type="curve"/>
+			<point x="201" y="194" type="line"/>
+			<point x="217" y="144" type="line"/>
+			<point x="220" y="143" type="line"/>
+			<point x="250" y="156"/>
+			<point x="280" y="166"/>
+			<point x="306" y="166" type="curve" smooth="yes"/>
+			<point x="381" y="166"/>
+			<point x="423" y="128"/>
+			<point x="423" y="29" type="curve" smooth="yes"/>
+			<point x="423" y="-100"/>
+			<point x="303" y="-112"/>
+			<point x="216" y="-137" type="curve" smooth="yes"/>
+			<point x="180" y="-147"/>
+			<point x="141" y="-156"/>
+			<point x="135" y="-156" type="curve"/>
+			<point x="130" y="-160" type="line"/>
+			<point x="135" y="-212" type="line"/>
+		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-25 00:24:15 +0000</string>
+		</dict>
+	</lib>
 </glyph>
