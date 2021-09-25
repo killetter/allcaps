@@ -127,7 +127,18 @@
 	</array>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>D</string>
+		<string>{[(lgH*)]}</string>
+		<string>l-n</string>
+		<string>` ´ ˜ ˆ ˇ ¨ ¸¯ ˘ ˙ ° ˝ .</string>
+		<string>»</string>
+		<string>«</string>
+		<string>/six.tf</string>
+		<string>6</string>
+		<string>?</string>
+		<string>Hola, cómo es´tas?.</string>
+		<string>Hola: : hi;</string>
+		<string>!</string>
+		<string>Tam's</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -370,12 +381,14 @@
 		<string>Egrave</string>
 		<string>Emacron</string>
 		<string>Eogonek</string>
+		<string>Etilde</string>
 		<string>Iacute</string>
 		<string>Icircumflex</string>
 		<string>Idieresis</string>
 		<string>Igrave</string>
 		<string>Imacron</string>
 		<string>Iogonek</string>
+		<string>Itilde</string>
 		<string>Jacute</string>
 		<string>Lacute</string>
 		<string>Lcaron</string>
@@ -392,6 +405,7 @@
 		<string>Racute</string>
 		<string>Rcaron</string>
 		<string>Sacute</string>
+		<string>Saltillo</string>
 		<string>Scaron</string>
 		<string>Scedilla</string>
 		<string>Tcaron</string>
@@ -404,6 +418,7 @@
 		<string>Umacron</string>
 		<string>Uogonek</string>
 		<string>Uring</string>
+		<string>Utilde</string>
 		<string>Wacute</string>
 		<string>Wcircumflex</string>
 		<string>Wdieresis</string>
@@ -412,6 +427,7 @@
 		<string>Ycircumflex</string>
 		<string>Ydieresis</string>
 		<string>Ygrave</string>
+		<string>Ytilde</string>
 		<string>Zacute</string>
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
@@ -439,6 +455,7 @@
 		<string>egrave</string>
 		<string>emacron</string>
 		<string>eogonek</string>
+		<string>etilde</string>
 		<string>idotless</string>
 		<string>iacute</string>
 		<string>icircumflex</string>
@@ -446,6 +463,7 @@
 		<string>igrave</string>
 		<string>imacron</string>
 		<string>iogonek</string>
+		<string>itilde</string>
 		<string>jdotless</string>
 		<string>jacute</string>
 		<string>lacute</string>
@@ -463,6 +481,7 @@
 		<string>racute</string>
 		<string>rcaron</string>
 		<string>sacute</string>
+		<string>saltillo</string>
 		<string>scaron</string>
 		<string>scedilla</string>
 		<string>tcaron</string>
@@ -475,6 +494,7 @@
 		<string>umacron</string>
 		<string>uogonek</string>
 		<string>uring</string>
+		<string>utilde</string>
 		<string>wacute</string>
 		<string>wcircumflex</string>
 		<string>wdieresis</string>
@@ -483,6 +503,7 @@
 		<string>ycircumflex</string>
 		<string>ydieresis</string>
 		<string>ygrave</string>
+		<string>ytilde</string>
 		<string>zacute</string>
 		<string>zcaron</string>
 		<string>zdotaccent</string>
