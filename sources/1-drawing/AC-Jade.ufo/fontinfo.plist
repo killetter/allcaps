@@ -38,6 +38,14 @@
 			<key>y</key>
 			<integer>369</integer>
 		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>169</integer>
+			<key>y</key>
+			<integer>314</integer>
+		</dict>
 	</array>
 	<key>openTypeHeadCreated</key>
 	<string>2021/09/15 07:23:46</string>

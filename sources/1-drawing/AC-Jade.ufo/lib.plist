@@ -127,18 +127,7 @@
 	</array>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>{[(lgH*)]}</string>
-		<string>l-n</string>
-		<string>` ´ ˜ ˆ ˇ ¨ ¸¯ ˘ ˙ ° ˝ .</string>
-		<string>»</string>
-		<string>«</string>
-		<string>/six.tf</string>
-		<string>6</string>
-		<string>?</string>
-		<string>Hola, cómo es´tas?.</string>
-		<string>Hola: : hi;</string>
-		<string>!</string>
-		<string>Tam's</string>
+		<string>t/enojado/banio.001/persona.cuadro/persona.apuntando/pizarron/persona.triangulo</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -615,6 +604,7 @@
 		<string>arrowuprighttip</string>
 		<string>enojado</string>
 		<string>feliz</string>
+		<string>pizarron</string>
 		<string>triste</string>
 		<string>banio.001</string>
 		<string>banio.002</string>
@@ -625,6 +615,9 @@
 		<string>enojado.alt</string>
 		<string>feliz.001</string>
 		<string>feliz.003</string>
+		<string>persona.apuntando</string>
+		<string>persona.cuadro</string>
+		<string>persona.triangulo</string>
 		<string>triste.001</string>
 		<string>triste.003</string>
 	</array>

@@ -530,6 +530,14 @@
 	<string>period.glif</string>
 	<key>periodcentered</key>
 	<string>periodcentered.glif</string>
+	<key>persona.apuntando</key>
+	<string>persona.apuntando.glif</string>
+	<key>persona.cuadro</key>
+	<string>persona.cuadro.glif</string>
+	<key>persona.triangulo</key>
+	<string>persona.triangulo.glif</string>
+	<key>pizarron</key>
+	<string>pizarron.glif</string>
 	<key>plus</key>
 	<string>plus.glif</string>
 	<key>q</key>
