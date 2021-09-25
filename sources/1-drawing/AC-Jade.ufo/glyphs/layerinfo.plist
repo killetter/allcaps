@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
+<<<<<<< HEAD
   <dict>
     <key>color</key>
     <string>1,0.75,0,0.7</string>
@@ -10,4 +11,15 @@
       <real>10.0</real>
     </dict>
   </dict>
+=======
+<dict>
+	<key>color</key>
+	<string>1,0.75,0,0.7</string>
+	<key>lib</key>
+	<dict>
+		<key>GSCornerRadius</key>
+		<real>15</real>
+	</dict>
+</dict>
+>>>>>>> b772532a4face42c7c73e58cfb8202d78d2d10a9
 </plist>

@@ -12,7 +12,69 @@ fuenteSize = 1200
 font(path)
 #glifos=listFontGlyphNames()
 #print(listFontGlyphNames())
-glifos = "g", "d"
+glifos = ["A",
+"B",
+"C",
+"D",
+"E",
+"F",
+"G",
+"H",
+"I",
+"J",
+"K",
+"L",
+"M",
+"N",
+"O",
+"P",
+"Q",
+"R",
+"S",
+"T",
+"U",
+"V",
+"W",
+"X",
+"Y",
+"Z",
+"a",
+"b",
+"c",
+"d",
+"e",
+"f",
+"g",
+"h",
+"i",
+"j",
+"k",
+"l",
+"m",
+"n",
+"o",
+"p",
+"q",
+"r",
+"s",
+"t",
+"u",
+"v",
+"w",
+"x",
+"y",
+"z",
+"zero",
+"one",
+"two",
+"three",
+"four",
+"five",
+"six",
+"seven",
+"eight",
+"nine",
+]
 listaNo= ["space","C.001", "M.001", "R.001", "a.001","c.001","d.001","g.001","g.002","h.001","l.001","m.001","n.001","u.001","y.001","grave","acute","tilde","Barra_mayus","asterisco","cerosup","mayus_serif",]
 #print(len(glifos))
 for x, glifo in enumerate(glifos):
@@ -34,10 +96,8 @@ for x, glifo in enumerate(glifos):
     tx.text(fs, font = path, fontSize=fuenteSize,)
     letter_width = tx.bounds()[-2] - tx.bounds()[0]
     x_offset = (width() - letter_width) /2
-  
     translate(x_offset+115, 416)
     drawPath(tx)
-
     previous_oncurve = None
     for contour in tx:
         for segment in contour:
