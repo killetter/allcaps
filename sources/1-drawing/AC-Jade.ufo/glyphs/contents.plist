@@ -58,6 +58,8 @@
 	<string>E_macron.glif</string>
 	<key>Eogonek</key>
 	<string>E_ogonek.glif</string>
+	<key>Etilde</key>
+	<string>E_tilde.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
 	<key>G</key>
@@ -78,6 +80,8 @@
 	<string>I_macron.glif</string>
 	<key>Iogonek</key>
 	<string>I_ogonek.glif</string>
+	<key>Itilde</key>
+	<string>I_tilde.glif</string>
 	<key>J</key>
 	<string>J_.glif</string>
 	<key>J.001</key>
@@ -134,6 +138,8 @@
 	<string>S_.glif</string>
 	<key>Sacute</key>
 	<string>S_acute.glif</string>
+	<key>Saltillo</key>
+	<string>S_altillo.glif</string>
 	<key>Scaron</key>
 	<string>S_caron.glif</string>
 	<key>Scedilla</key>
@@ -162,6 +168,8 @@
 	<string>U_ogonek.glif</string>
 	<key>Uring</key>
 	<string>U_ring.glif</string>
+	<key>Utilde</key>
+	<string>U_tilde.glif</string>
 	<key>V</key>
 	<string>V_.glif</string>
 	<key>W</key>
@@ -186,6 +194,8 @@
 	<string>Y_dieresis.glif</string>
 	<key>Ygrave</key>
 	<string>Y_grave.glif</string>
+	<key>Ytilde</key>
+	<string>Y_tilde.glif</string>
 	<key>Z</key>
 	<string>Z_.glif</string>
 	<key>Zacute</key>
@@ -364,6 +374,8 @@
 	<string>eogonek.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
+	<key>etilde</key>
+	<string>etilde.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
 	<key>exclamdown</key>
@@ -428,6 +440,8 @@
 	<string>imacron.glif</string>
 	<key>iogonek</key>
 	<string>iogonek.glif</string>
+	<key>itilde</key>
+	<string>itilde.glif</string>
 	<key>j</key>
 	<string>j.glif</string>
 	<key>jacute</key>
@@ -558,6 +572,8 @@
 	<string>s.glif</string>
 	<key>sacute</key>
 	<string>sacute.glif</string>
+	<key>saltillo</key>
+	<string>saltillo.glif</string>
 	<key>scaron</key>
 	<string>scaron.glif</string>
 	<key>scedilla</key>
@@ -646,6 +662,8 @@
 	<string>upD_ownA_rrow.glif</string>
 	<key>uring</key>
 	<string>uring.glif</string>
+	<key>utilde</key>
+	<string>utilde.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>w</key>
@@ -670,6 +688,8 @@
 	<string>ydieresis.glif</string>
 	<key>ygrave</key>
 	<string>ygrave.glif</string>
+	<key>ytilde</key>
+	<string>ytilde.glif</string>
 	<key>z</key>
 	<string>z.glif</string>
 	<key>zacute</key>
