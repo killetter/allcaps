@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="triste.001" format="2">
 	<advance width="962"/>
-	<guideline x="481" y="630" angle="90"/>
-	<guideline x="381" y="630" angle="90"/>
-	<guideline x="581" y="630" angle="90"/>
+	<guideline x="481" y="630" angle="90" identifier="XsVyRAv2Dr"/>
+	<guideline x="381" y="630" angle="90" identifier="cni9GOGU1s"/>
+	<guideline x="581" y="630" angle="90" identifier="sLH4MVe70Y"/>
 	<outline>
 		<contour>
 			<point x="481" y="-10" type="curve" smooth="yes"/>
