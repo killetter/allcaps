@@ -127,13 +127,7 @@
 	</array>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>{[(lgH*)]}</string>
-		<string>l-n</string>
-		<string>` ´ ˜ ˆ ˇ ¨ ¸¯ ˘ ˙ ° ˝ .</string>
-		<string>»</string>
-		<string>«</string>
-		<string>/six.tf</string>
-		<string>6</string>
+		<string>D</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -554,16 +548,12 @@
 		<string>asciitilde</string>
 		<string>percent</string>
 		<string>upArrow</string>
-		<string>arrowup</string>
 		<string>northEastArrow</string>
 		<string>rightArrow</string>
-		<string>arrowright</string>
 		<string>southEastArrow</string>
 		<string>downArrow</string>
-		<string>arrowdown</string>
 		<string>southWestArrow</string>
 		<string>leftArrow</string>
-		<string>arrowleft</string>
 		<string>northWestArrow</string>
 		<string>leftRightArrow</string>
 		<string>upDownArrow</string>

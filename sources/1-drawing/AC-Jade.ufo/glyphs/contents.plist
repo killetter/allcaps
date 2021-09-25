@@ -228,22 +228,14 @@
 	<string>arrowS_E_.glif</string>
 	<key>arrowSW</key>
 	<string>arrowS_W_.glif</string>
-	<key>arrowdown</key>
-	<string>arrowdown.glif</string>
-	<key>arrowleft</key>
-	<string>arrowleft.glif</string>
 	<key>arrowleftdowntip</key>
 	<string>arrowleftdowntip.glif</string>
 	<key>arrowleftright</key>
 	<string>arrowleftright.glif</string>
 	<key>arrowleftuptip</key>
 	<string>arrowleftuptip.glif</string>
-	<key>arrowright</key>
-	<string>arrowright.glif</string>
 	<key>arrowrightdowntip</key>
 	<string>arrowrightdowntip.glif</string>
-	<key>arrowup</key>
-	<string>arrowup.glif</string>
 	<key>arrowupdown</key>
 	<string>arrowupdown.glif</string>
 	<key>arrowuprighttip</key>
