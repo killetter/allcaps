@@ -2,5 +2,65 @@
 <glyph name="eight.osf" format="2">
 	<advance width="600"/>
 	<outline>
+		<contour>
+			<point x="304" y="0" type="curve" smooth="yes"/>
+			<point x="460" y="0"/>
+			<point x="538" y="78"/>
+			<point x="538" y="221" type="curve" smooth="yes"/>
+			<point x="538" y="336"/>
+			<point x="460" y="396"/>
+			<point x="366" y="454" type="curve" smooth="yes"/>
+			<point x="265" y="516"/>
+			<point x="205" y="561"/>
+			<point x="205" y="607" type="curve" smooth="yes"/>
+			<point x="205" y="662"/>
+			<point x="244" y="706"/>
+			<point x="310" y="706" type="curve" smooth="yes"/>
+			<point x="379" y="706"/>
+			<point x="418" y="670"/>
+			<point x="418" y="607" type="curve" smooth="yes"/>
+			<point x="418" y="552"/>
+			<point x="389" y="500"/>
+			<point x="314" y="470" type="curve"/>
+			<point x="243" y="436" type="line"/>
+			<point x="140" y="419"/>
+			<point x="67" y="336"/>
+			<point x="67" y="210" type="curve" smooth="yes"/>
+			<point x="67" y="78"/>
+			<point x="172" y="0"/>
+		</contour>
+		<contour>
+			<point x="297" y="57" type="curve" smooth="yes"/>
+			<point x="215" y="57"/>
+			<point x="174" y="134"/>
+			<point x="174" y="196" type="curve" smooth="yes"/>
+			<point x="174" y="255"/>
+			<point x="181" y="371"/>
+			<point x="279" y="399" type="curve"/>
+			<point x="374" y="446" type="line"/>
+			<point x="448" y="475"/>
+			<point x="513" y="521"/>
+			<point x="513" y="592" type="curve" smooth="yes"/>
+			<point x="513" y="702"/>
+			<point x="446" y="759"/>
+			<point x="314" y="759" type="curve" smooth="yes"/>
+			<point x="205" y="759"/>
+			<point x="113" y="685"/>
+			<point x="113" y="582" type="curve" smooth="yes"/>
+			<point x="113" y="498"/>
+			<point x="165" y="454"/>
+			<point x="276" y="387" type="curve" smooth="yes"/>
+			<point x="375" y="327"/>
+			<point x="436" y="255"/>
+			<point x="436" y="183" type="curve" smooth="yes"/>
+			<point x="436" y="114"/>
+			<point x="380" y="57"/>
+		</contour>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-25 00:24:15 +0000</string>
+		</dict>
+	</lib>
 </glyph>
