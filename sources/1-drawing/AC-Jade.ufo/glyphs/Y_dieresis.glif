@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ydieresis" format="2">
-	<advance width="500"/>
+	<advance width="508"/>
 	<unicode hex="0178"/>
 	<outline>
 		<component base="Y"/>
-		<component base="dieresis.cap" xOffset="93" yOffset="-4"/>
+		<component base="dieresiscomb.case" xOffset="45" yOffset="-1"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-26 07:09:51 +0000</string>
+		</dict>
+	</lib>
 </glyph>

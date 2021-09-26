@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edotaccent" format="2">
-	<advance width="501"/>
+	<advance width="491"/>
 	<unicode hex="0117"/>
 	<outline>
 		<component base="e"/>
-		<component base="dotaccent" xOffset="157" yOffset="-10"/>
+		<component base="dotaccent" xOffset="173"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-23 19:38:42 +0000</string>
+			<string>2021-09-26 06:46:01 +0000</string>
 		</dict>
 	</lib>
 </glyph>

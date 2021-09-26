@@ -2,8 +2,8 @@
 <glyph name="w" format="2">
 	<advance width="762"/>
 	<unicode hex="0077"/>
-	<anchor x="381" y="510" name="top"/>
 	<anchor x="381" y="0" name="bottom"/>
+	<anchor x="381" y="510" name="top"/>
 	<outline>
 		<contour>
 			<point x="162" y="0" type="line"/>
@@ -53,7 +53,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-15 07:26:19 +0000</string>
+			<string>2021-09-26 07:39:25 +0000</string>
 			<key>public.markColor</key>
 			<string>0.39,1,0.82,1</string>
 		</dict>

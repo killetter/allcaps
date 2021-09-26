@@ -1,34 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aacute" format="2">
-	<advance width="542"/>
+	<advance width="532"/>
 	<unicode hex="00E1"/>
 	<outline>
 		<component base="a"/>
-		<component base="acute" xOffset="139" yOffset="20"/>
+		<component base="acute" xOffset="159"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>0</integer>
-					<key>name</key>
-					<string>a</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>acute</string>
-				</dict>
-			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-15 06:29:34 +0000</string>
+			<string>2021-09-26 06:46:01 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>=a</string>
 		</dict>
