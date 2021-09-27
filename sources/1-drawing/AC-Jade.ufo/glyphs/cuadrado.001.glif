@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cuadrado.001" format="2">
+	<advance width="574"/>
+	<outline>
+		<contour>
+			<point x="50" y="111" type="line"/>
+			<point x="524" y="111" type="line"/>
+			<point x="524" y="589" type="line"/>
+			<point x="50" y="589" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-27 20:14:00 +0000</string>
+		</dict>
+	</lib>
+</glyph>
