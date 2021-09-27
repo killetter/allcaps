@@ -1,0 +1,59 @@
+{
+glyphname = aacute;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (174,0);
+ref = acute;
+}
+);
+width = 532;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (105,0);
+ref = acute;
+}
+);
+width = 563;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (297,0);
+ref = acute;
+}
+);
+width = 532;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (159,0);
+ref = acute;
+}
+);
+width = 563;
+}
+);
+metricRight = "=a";
+unicode = 225;
+}

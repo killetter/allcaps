@@ -1,0 +1,50 @@
+{
+glyphname = southEastArrow;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (0,713);
+ref = northEastArrow;
+scale = (1,-1);
+}
+);
+width = 513;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (0,713);
+ref = northEastArrow;
+scale = (1,-1);
+}
+);
+width = 513;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (0,713);
+ref = northEastArrow;
+scale = (1,-1);
+}
+);
+width = 513;
+},
+{
+layerId = m004;
+shapes = (
+{
+pos = (0,713);
+ref = northEastArrow;
+scale = (1,-1);
+}
+);
+width = 513;
+}
+);
+unicode = 8600;
+}

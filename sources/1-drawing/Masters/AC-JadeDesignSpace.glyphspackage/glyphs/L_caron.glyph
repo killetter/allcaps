@@ -1,0 +1,63 @@
+{
+glyphname = Lcaron;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = L;
+},
+{
+alignment = -1;
+pos = (313,-79);
+ref = caron.alt;
+}
+);
+width = 460;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = L;
+},
+{
+alignment = -1;
+pos = (313,-79);
+ref = caron.alt;
+}
+);
+width = 460;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = L;
+},
+{
+alignment = -1;
+pos = (313,-79);
+ref = caron.alt;
+}
+);
+width = 460;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = L;
+},
+{
+alignment = -1;
+pos = (313,-79);
+ref = caron.alt;
+}
+);
+width = 460;
+}
+);
+metricRight = "=L";
+unicode = 317;
+}

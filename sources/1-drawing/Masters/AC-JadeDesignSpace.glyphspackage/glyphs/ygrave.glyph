@@ -1,0 +1,58 @@
+{
+glyphname = ygrave;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (52,0);
+ref = grave;
+}
+);
+width = 451;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (52,0);
+ref = grave;
+}
+);
+width = 451;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (52,0);
+ref = grave;
+}
+);
+width = 451;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (52,0);
+ref = grave;
+}
+);
+width = 451;
+}
+);
+unicode = 7923;
+}

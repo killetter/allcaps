@@ -1,0 +1,58 @@
+{
+glyphname = Edotaccent;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (204,189);
+ref = dotaccentcomb;
+}
+);
+width = 485;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (204,189);
+ref = dotaccentcomb;
+}
+);
+width = 485;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (204,189);
+ref = dotaccentcomb;
+}
+);
+width = 485;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (204,189);
+ref = dotaccentcomb;
+}
+);
+width = 485;
+}
+);
+unicode = 278;
+}

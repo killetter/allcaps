@@ -1,0 +1,69 @@
+{
+glyphname = dotaccentcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (142,580);
+}
+);
+layerId = master01;
+shapes = (
+{
+pos = (30,60);
+ref = dotaccentcomb;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (142,580);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (30,60);
+ref = dotaccentcomb;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (142,580);
+}
+);
+layerId = m003;
+shapes = (
+{
+pos = (30,60);
+ref = dotaccentcomb;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (142,580);
+}
+);
+layerId = m004;
+shapes = (
+{
+pos = (30,60);
+ref = dotaccentcomb;
+}
+);
+width = 600;
+}
+);
+}

@@ -1,0 +1,58 @@
+{
+glyphname = ograve;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (82,0);
+ref = grave;
+}
+);
+width = 513;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (67,0);
+ref = grave;
+}
+);
+width = 483;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (82,0);
+ref = grave;
+}
+);
+width = 513;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (67,0);
+ref = grave;
+}
+);
+width = 483;
+}
+);
+unicode = 242;
+}

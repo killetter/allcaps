@@ -1,0 +1,58 @@
+{
+glyphname = omacron;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (113,0);
+ref = macron;
+}
+);
+width = 513;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (98,0);
+ref = macron;
+}
+);
+width = 483;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (113,0);
+ref = macron;
+}
+);
+width = 513;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (98,0);
+ref = macron;
+}
+);
+width = 483;
+}
+);
+unicode = 333;
+}

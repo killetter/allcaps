@@ -1,0 +1,21 @@
+{
+glyphname = arrowleftuptip;
+layers = (
+{
+layerId = master01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+},
+{
+layerId = m004;
+width = 600;
+}
+);
+}
