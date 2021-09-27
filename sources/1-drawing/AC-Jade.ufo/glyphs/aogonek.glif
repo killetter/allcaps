@@ -1,10 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aogonek" format="2">
 	<advance width="532"/>
 	<unicode hex="0105"/>
 	<anchor x="478" y="10" name="_ogonek"/>
 	<outline>
-		<component base="a"/>
 		<contour>
 			<point x="454" y="11" type="line"/>
 			<point x="378" y="-20"/>
@@ -24,6 +23,7 @@
 			<point x="453" y="-31"/>
 			<point x="488" y="0" type="curve"/>
 		</contour>
+		<component base="a"/>
 	</outline>
 	<lib>
 		<dict>

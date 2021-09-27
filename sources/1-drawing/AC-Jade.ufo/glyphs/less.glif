@@ -1,7 +1,39 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="less" format="2">
-  <advance width="620"/>
-  <unicode hex="003C"/>
-  <outline>
-  </outline>
+	<advance width="575"/>
+	<unicode hex="003C"/>
+	<outline>
+		<contour>
+			<point x="88" y="283" type="line"/>
+			<point x="235" y="343"/>
+			<point x="359" y="395"/>
+			<point x="497" y="454" type="curve"/>
+			<point x="506" y="463" type="line"/>
+			<point x="502" y="547" type="line"/>
+			<point x="493" y="552" type="line"/>
+			<point x="354" y="481"/>
+			<point x="218" y="418"/>
+			<point x="72" y="360" type="curve"/>
+			<point x="62" y="348" type="line"/>
+			<point x="63" y="238" type="line"/>
+			<point x="73" y="226" type="line"/>
+			<point x="219" y="168"/>
+			<point x="355" y="105"/>
+			<point x="494" y="34" type="curve"/>
+			<point x="503" y="39" type="line"/>
+			<point x="507" y="123" type="line"/>
+			<point x="498" y="132" type="line"/>
+			<point x="360" y="191"/>
+			<point x="235" y="247"/>
+			<point x="88" y="307" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-27 18:43:07 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
+		</dict>
+	</lib>
 </glyph>

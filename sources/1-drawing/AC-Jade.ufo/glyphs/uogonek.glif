@@ -4,7 +4,6 @@
 	<unicode hex="0173"/>
 	<anchor x="482" y="9" name="_ogonek"/>
 	<outline>
-		<component base="u"/>
 		<contour>
 			<point x="487" y="12" type="line"/>
 			<point x="411" y="-19"/>
@@ -24,6 +23,7 @@
 			<point x="486" y="-30"/>
 			<point x="521" y="1" type="curve"/>
 		</contour>
+		<component base="u"/>
 	</outline>
 	<lib>
 		<dict>

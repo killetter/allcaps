@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="feliz.001" format="2">
 	<advance width="962"/>
-	<guideline x="481" y="630" angle="90" identifier="PFWvcrqCaR"/>
-	<guideline x="381" y="630" angle="90" identifier="oIXgdGo7uZ"/>
-	<guideline x="581" y="630" angle="90" identifier="H6ZRmjrgwE"/>
+	<guideline x="481" y="630" angle="90"/>
+	<guideline x="381" y="630" angle="90"/>
+	<guideline x="581" y="630" angle="90"/>
 	<outline>
 		<contour>
 			<point x="481" y="-10" type="curve" smooth="yes"/>
