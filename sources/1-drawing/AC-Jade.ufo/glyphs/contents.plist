@@ -320,6 +320,8 @@
 	<string>colon.glif</string>
 	<key>comma</key>
 	<string>comma.glif</string>
+	<key>commaaccentcomb</key>
+	<string>commaaccentcomb.glif</string>
 	<key>copyright</key>
 	<string>copyright.glif</string>
 	<key>d</key>
@@ -544,8 +546,12 @@
 	<string>paragraph.glif</string>
 	<key>parenleft</key>
 	<string>parenleft.glif</string>
+	<key>parenleft.case</key>
+	<string>parenleft.case.glif</string>
 	<key>parenright</key>
 	<string>parenright.glif</string>
+	<key>parenright.case</key>
+	<string>parenright.case.glif</string>
 	<key>percent</key>
 	<string>percent.glif</string>
 	<key>period</key>

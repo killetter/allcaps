@@ -55,7 +55,11 @@
 	</array>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>(){}[]‚„“”‘’›»«Minion»‹›"'@&amp;¶§©®™°|¦$+−×÷=≠&gt;&lt;≥~%↑↗→↘↓↙←↖</string>
+		<string>/parenleft.case HOLA/parenright.case (hola)
+((enojado))</string>
+		<string>/enojado/feliz/no/pizarron/sol/triste/banio.001/banio.002/persona.apuntando/persona.cuadro/persona.triangulo 
+Mi Nombre es Constanza
+/sol  Hoy es ((triangulo)) y estoy /feliz</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -345,6 +349,8 @@
 		<string>braceright</string>
 		<string>bracketleft</string>
 		<string>bracketright</string>
+		<string>parenleft.case</string>
+		<string>parenright.case</string>
 		<string>quotesinglbase</string>
 		<string>quotedblbase</string>
 		<string>quotedblleft</string>
@@ -396,6 +402,7 @@
 		<string>circumflexcomb</string>
 		<string>ringcomb</string>
 		<string>tildecomb</string>
+		<string>commaaccentcomb</string>
 		<string>cedillacomb</string>
 		<string>dieresis</string>
 		<string>dotaccent</string>
