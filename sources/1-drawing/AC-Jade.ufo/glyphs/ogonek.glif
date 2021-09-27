@@ -1,33 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ogonek" format="2">
-	<advance width="600"/>
-	<unicode hex="02DB"/>
-	<anchor x="410" y="0" name="_ogonek"/>
-	<outline>
-		<contour>
-			<point x="376" y="11" type="line"/>
-			<point x="300" y="-20"/>
-			<point x="262" y="-85"/>
-			<point x="262" y="-138" type="curve" smooth="yes"/>
-			<point x="262" y="-184"/>
-			<point x="290" y="-221"/>
-			<point x="344" y="-221" type="curve" smooth="yes"/>
-			<point x="366" y="-221"/>
-			<point x="392" y="-215"/>
-			<point x="423" y="-201" type="curve"/>
-			<point x="410" y="-140" type="line"/>
-			<point x="369" y="-145"/>
-			<point x="352" y="-127"/>
-			<point x="352" y="-101" type="curve" smooth="yes"/>
-			<point x="352" y="-71"/>
-			<point x="375" y="-31"/>
-			<point x="410" y="0" type="curve"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-26 06:26:22 +0000</string>
-		</dict>
-	</lib>
+  <advance width="600"/>
+  <unicode hex="02DB"/>
+  <anchor x="410" y="0" name="_ogonek"/>
+  <outline>
+    <contour>
+      <point x="373" y="9" type="line"/>
+      <point x="309.1249177311437" y="-33.916070899387854"/>
+      <point x="268.0" y="-92"/>
+      <point x="268" y="-144" type="curve"/>
+      <point x="268.0" y="-189.0"/>
+      <point x="297" y="-220.0"/>
+      <point x="347" y="-220" type="curve"/>
+      <point x="393.6542056074766" y="-220.0"/>
+      <point x="423" y="-196"/>
+      <point x="451" y="-167" type="curve"/>
+      <point x="433" y="-145" type="line"/>
+      <point x="415" y="-153"/>
+      <point x="399.7450980392157" y="-158.0"/>
+      <point x="380" y="-158" type="curve"/>
+      <point x="357.0" y="-158.0"/>
+      <point x="342.0" y="-144.73529411764707"/>
+      <point x="342" y="-117" type="curve" smooth="yes"/>
+      <point x="342" y="-82"/>
+      <point x="364" y="-38"/>
+      <point x="402" y="0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021-09-26 06:26:22 +0000</string>
+    </dict>
+  </lib>
 </glyph>

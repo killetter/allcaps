@@ -1,36 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb" format="2">
-	<advance width="308"/>
-	<unicode hex="0302"/>
-	<anchor x="153" y="517" name="_top"/>
-	<outline>
-		<contour>
-			<point x="167" y="718" type="curve"/>
-			<point x="141" y="718" type="line"/>
-			<point x="162" y="690"/>
-			<point x="193" y="659"/>
-			<point x="244" y="579" type="curve"/>
-			<point x="255" y="579" type="line"/>
-			<point x="307" y="617" type="line"/>
-			<point x="308" y="626" type="line"/>
-			<point x="255" y="690"/>
-			<point x="220" y="734"/>
-			<point x="196" y="772" type="curve"/>
-			<point x="112" y="772" type="line"/>
-			<point x="88" y="734"/>
-			<point x="53" y="690"/>
-			<point x="0" y="626" type="curve"/>
-			<point x="1" y="617" type="line"/>
-			<point x="53" y="579" type="line"/>
-			<point x="64" y="579" type="line"/>
-			<point x="114" y="659"/>
-			<point x="146" y="690"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-26 04:36:08 +0000</string>
-		</dict>
-	</lib>
+  <advance width="308"/>
+  <unicode hex="0302"/>
+  <anchor x="153" y="517" name="_top"/>
+  <outline>
+    <contour>
+      <point x="169.0" y="752.0" type="curve"/>
+      <point x="133.0" y="752.0" type="line"/>
+      <point x="165" y="699"/>
+      <point x="198" y="645"/>
+      <point x="240.0" y="569.0" type="curve"/>
+      <point x="251.0" y="569.0" type="line"/>
+      <point x="305.0" y="601.0" type="line"/>
+      <point x="305.0" y="613.0" type="line"/>
+      <point x="262" y="669"/>
+      <point x="218" y="730"/>
+      <point x="177.0" y="789.0" type="curve"/>
+      <point x="130.0" y="789.0" type="line"/>
+      <point x="90" y="727"/>
+      <point x="52" y="678"/>
+      <point x="0.0" y="607.0" type="curve"/>
+      <point x="1.0" y="598.0" type="line"/>
+      <point x="53.0" y="569.0" type="line"/>
+      <point x="64.0" y="569.0" type="line"/>
+      <point x="109" y="650"/>
+      <point x="130" y="689"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021-09-26 04:36:08 +0000</string>
+      <key>public.markColor</key>
+      <string>0.1503,0.8649,0.8052,1</string>
+    </dict>
+  </lib>
 </glyph>
