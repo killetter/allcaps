@@ -242,14 +242,30 @@
     <string>arrowS_E_.glif</string>
     <key>arrowSW</key>
     <string>arrowS_W_.glif</string>
+    <key>arrowdown.alt</key>
+    <string>arrowdown.alt.glif</string>
+    <key>arrowdown.alt2</key>
+    <string>arrowdown.alt2.glif</string>
+    <key>arrowleft.alt</key>
+    <string>arrowleft.alt.glif</string>
+    <key>arrowleft.alt2</key>
+    <string>arrowleft.alt2.glif</string>
     <key>arrowleftdowntip</key>
     <string>arrowleftdowntip.glif</string>
     <key>arrowleftright</key>
     <string>arrowleftright.glif</string>
     <key>arrowleftuptip</key>
     <string>arrowleftuptip.glif</string>
+    <key>arrowright.alt</key>
+    <string>arrowright.alt.glif</string>
+    <key>arrowright.alt2</key>
+    <string>arrowright.alt2.glif</string>
     <key>arrowrightdowntip</key>
     <string>arrowrightdowntip.glif</string>
+    <key>arrowup.alt</key>
+    <string>arrowup.alt.glif</string>
+    <key>arrowup.alt2</key>
+    <string>arrowup.alt2.glif</string>
     <key>arrowupdown</key>
     <string>arrowupdown.glif</string>
     <key>arrowuprighttip</key>
@@ -474,6 +490,8 @@
     <string>l.glif</string>
     <key>lacute</key>
     <string>lacute.glif</string>
+    <key>lapiz</key>
+    <string>lapiz.glif</string>
     <key>lavar</key>
     <string>lavar.glif</string>
     <key>lcaron</key>
@@ -510,8 +528,16 @@
     <string>no.glif</string>
     <key>northEastArrow</key>
     <string>northE_astA_rrow.glif</string>
+    <key>northEastArrow.alt</key>
+    <string>northE_astA_rrow.alt.glif</string>
+    <key>northEastArrow.alt2</key>
+    <string>northE_astA_rrow.alt2.glif</string>
     <key>northWestArrow</key>
     <string>northW_estA_rrow.glif</string>
+    <key>northWestArrow.alt</key>
+    <string>northW_estA_rrow.alt.glif</string>
+    <key>northWestArrow.alt2</key>
+    <string>northW_estA_rrow.alt2.glif</string>
     <key>notequal</key>
     <string>notequal.glif</string>
     <key>ntilde</key>
@@ -638,8 +664,16 @@
     <string>sol.glif</string>
     <key>southEastArrow</key>
     <string>southE_astA_rrow.glif</string>
+    <key>southEastArrow.alt</key>
+    <string>southE_astA_rrow.alt.glif</string>
+    <key>southEastArrow.alt2</key>
+    <string>southE_astA_rrow.alt2.glif</string>
     <key>southWestArrow</key>
     <string>southW_estA_rrow.glif</string>
+    <key>southWestArrow.alt</key>
+    <string>southW_estA_rrow.alt.glif</string>
+    <key>southWestArrow.alt2</key>
+    <string>southW_estA_rrow.alt2.glif</string>
     <key>space</key>
     <string>space.glif</string>
     <key>t</key>

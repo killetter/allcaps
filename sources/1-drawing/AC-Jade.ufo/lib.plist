@@ -104,8 +104,6 @@
           <string>Zdotaccent</string>
           <string>Zcaron</string>
           <string>Saltillo</string>
-          <string>J.001</string>
-          <string>M.001</string>
           <string>a</string>
           <string>agrave</string>
           <string>aacute</string>
@@ -360,6 +358,7 @@
           <string>feliz.001</string>
           <string>triste.001</string>
           <string>banio.002</string>
+          <string>lapiz</string>
           <string>enojado.003</string>
           <string>feliz.003</string>
           <string>triste.003</string>
@@ -372,26 +371,29 @@
           <string>hungarumlautcomb.case</string>
           <string>persona.cuadro</string>
           <string>persona.triangulo</string>
-          <string>arrowNE.alt</string>
-          <string>arrowNW.alt</string>
-          <string>arrowSE.alt</string>
-          <string>arrowSW.alt</string>
           <string>arrowdown.alt</string>
           <string>arrowleft.alt</string>
-          <string>arrowleftdowntip.alt</string>
-          <string>arrowleftright.alt</string>
-          <string>arrowleftuptip.alt</string>
-          <string>arrowright.alt</string>
-          <string>arrowrightdowntip.alt</string>
           <string>arrowup.alt</string>
-          <string>arrowupdown.alt</string>
-          <string>arrowuprighttip.alt</string>
+          <string>arrowright.alt</string>
+          <string>northWestArrow.alt</string>
+          <string>northEastArrow.alt</string>
+          <string>southWestArrow.alt</string>
+          <string>southEastArrow.alt</string>
+          <string>arrowdown.alt2</string>
+          <string>arrowleft.alt2</string>
+          <string>arrowup.alt2</string>
+          <string>arrowright.alt2</string>
+          <string>northWestArrow.alt2</string>
+          <string>northEastArrow.alt2</string>
+          <string>southWestArrow.alt2</string>
+          <string>southEastArrow.alt2</string>
           <string>a.alt</string>
           <string>g.alt</string>
           <string>J.alt</string>
           <string>y.alt</string>
           <string>Q.alt</string>
           <string>Y.alt</string>
+          <string>seven.alt</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
@@ -782,6 +784,7 @@
       <string>feliz.001</string>
       <string>triste.001</string>
       <string>banio.002</string>
+      <string>lapiz</string>
       <string>enojado.003</string>
       <string>feliz.003</string>
       <string>triste.003</string>
@@ -794,20 +797,22 @@
       <string>hungarumlautcomb.case</string>
       <string>persona.cuadro</string>
       <string>persona.triangulo</string>
-      <string>arrowNE.alt</string>
-      <string>arrowNW.alt</string>
-      <string>arrowSE.alt</string>
-      <string>arrowSW.alt</string>
       <string>arrowdown.alt</string>
       <string>arrowleft.alt</string>
-      <string>arrowleftdowntip.alt</string>
-      <string>arrowleftright.alt</string>
-      <string>arrowleftuptip.alt</string>
-      <string>arrowright.alt</string>
-      <string>arrowrightdowntip.alt</string>
       <string>arrowup.alt</string>
-      <string>arrowupdown.alt</string>
-      <string>arrowuprighttip.alt</string>
+      <string>arrowright.alt</string>
+      <string>northWestArrow.alt</string>
+      <string>northEastArrow.alt</string>
+      <string>southWestArrow.alt</string>
+      <string>southEastArrow.alt</string>
+      <string>arrowdown.alt2</string>
+      <string>arrowleft.alt2</string>
+      <string>arrowup.alt2</string>
+      <string>arrowright.alt2</string>
+      <string>northWestArrow.alt2</string>
+      <string>northEastArrow.alt2</string>
+      <string>southWestArrow.alt2</string>
+      <string>southEastArrow.alt2</string>
       <string>a.alt</string>
       <string>g.alt</string>
       <string>J.alt</string>
