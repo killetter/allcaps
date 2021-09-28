@@ -1,6 +1,7 @@
+#Languagesystems
 languagesystem DFLT dflt;
-languagesystem latn LAT;
-
+languagesystem latn dflt;
+languagesystem latn NLD;
 
 @numeros          =  [zero     one     two     three     four     five     six     seven     eight     nine];
 @numerosOldStyle  =  [zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf ];
@@ -23,6 +24,39 @@ feature tnum { #tnum es el feature de numeros tabulares
     sub @numeros  by @numerosTabulares ;
 } tnum;
 
+
+feature case { #Formas en mayusculas
+	sub hyphen          by  hyphen.case; 
+	sub endash          by  endash.case; 
+	sub emdash          by  emdash.case; 
+	sub periodcentered  by  periodcentered.case; 
+	sub bullet          by  bullet.case; 
+	sub parenleft       by  parenleft.case; 
+	sub parenright      by  parenright.case; 
+	sub bracketleft     by  bracketleft.case; 
+	sub bracketright    by  bracketright.case; 
+	sub braceleft       by  braceleft.case; 
+	sub braceright      by  braceright.case; 
+	sub slash           by  slash.case; 
+	sub backslash       by  backslash.case; 
+	sub guilsinglleft   by  guilsinglleft.case; 
+	sub guilsinglright  by  guilsinglright.case; 
+	sub guillemetleft   by  guillemetleft.case; 
+	sub guillemetright  by  guillemetright.case; 
+	sub at              by  at.case; 
+} case; 
+
+feature salt {
+    sub J        by  J.alt ;
+    sub Q        by  Q.alt ;
+    sub Y        by  Y.alt ;
+    sub a        by  a.alt ;
+    sub caron    by  caron.alt ;
+    sub g        by  g.alt ;
+    sub seven    by  seven.alt ;
+    sub y        by  y.alt ;
+    sub dollar   by  dollar.alt  ;
+} salt;
 
 feature liga {
     sub parenleft parenleft e n o j a d o parenright parenright                          by enojado             ;
@@ -52,34 +86,12 @@ feature liga {
 
 } liga;
 
-feature case { #Formas en mayusculas
-	sub hyphen          by  hyphen.case; 
-	sub endash          by  endash.case; 
-	sub emdash          by  emdash.case; 
-	sub periodcentered  by  periodcentered.case; 
-	sub bullet          by  bullet.case; 
-	sub parenleft       by  parenleft.case; 
-	sub parenright      by  parenright.case; 
-	sub bracketleft     by  bracketleft.case; 
-	sub bracketright    by  bracketright.case; 
-	sub braceleft       by  braceleft.case; 
-	sub braceright      by  braceright.case; 
-	sub slash           by  slash.case; 
-	sub backslash       by  backslash.case; 
-	sub guilsinglleft   by  guilsinglleft.case; 
-	sub guilsinglright  by  guilsinglright.case; 
-	sub guillemetleft   by  guillemetleft.case; 
-	sub guillemetright  by  guillemetright.case; 
-	sub at              by  at.case; 
-} case; 
-
 feature aalt {
-    sub J     by  J.alt ;
-    sub Q     by  Q.alt ;
-    sub Y     by  Y.alt ;
-    sub a     by  a.alt ;
-    sub caron by  caron.alt ;
-    sub g     by  g.alt ;
-    sub seven by  seven.alt ;
-    sub y     by  y.alt ;
+feature lnum;
+feature onum;
+feature tnum;
+feature case;
+feature salt;
+feature locl;
+feature pnum;
 } aalt;

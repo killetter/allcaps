@@ -4,9 +4,13 @@
 
 @numerosTabulares = [ zero.tf  one.tf  two.tf  three.tf  four.tf  five.tf  six.tf  seven.tf  eight.tf  nine.tf ];
 
+# automatic
+@Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde B C Cacute Ccaron Ccedilla Cdotaccent D Dcaron E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde F G H I Iacute Icircumflex Idieresis Igrave Imacron Iogonek Itilde J Jacute K L Lacute Lcaron M N Nacute Ncaron Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Otilde P Q R Racute Rcaron S Sacute Saltillo Scaron Scedilla T Tcaron Tcedilla U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent J.alt Q.alt Y.alt ];
+
 # Prefix: Languagesystems
 languagesystem DFLT dflt;
-languagesystem latn LAT;
+languagesystem latn dflt;
+languagesystem latn NLD;
 
 # Prefix: Prefix
 feature pnum { #NÃÂºmeros proporcionales
@@ -25,6 +29,40 @@ feature tnum {
  #tnum es el feature de numeros tabulares
     sub @numeros  by @numerosTabulares ;
 } tnum;
+
+feature case {
+ #Formas en mayusculas
+	sub hyphen          by  hyphen.case; 
+	sub endash          by  endash.case; 
+	sub emdash          by  emdash.case; 
+	sub periodcentered  by  periodcentered.case; 
+	sub bullet          by  bullet.case; 
+	sub parenleft       by  parenleft.case; 
+	sub parenright      by  parenright.case; 
+	sub bracketleft     by  bracketleft.case; 
+	sub bracketright    by  bracketright.case; 
+	sub braceleft       by  braceleft.case; 
+	sub braceright      by  braceright.case; 
+	sub slash           by  slash.case; 
+	sub backslash       by  backslash.case; 
+	sub guilsinglleft   by  guilsinglleft.case; 
+	sub guilsinglright  by  guilsinglright.case; 
+	sub guillemetleft   by  guillemetleft.case; 
+	sub guillemetright  by  guillemetright.case; 
+	sub at              by  at.case; 
+} case;
+
+feature salt {
+    sub J        by  J.alt ;
+    sub Q        by  Q.alt ;
+    sub Y        by  Y.alt ;
+    sub a        by  a.alt ;
+    sub caron    by  caron.alt ;
+    sub g        by  g.alt ;
+    sub seven    by  seven.alt ;
+    sub y        by  y.alt ;
+    sub dollar   by  dollar.alt  ;
+} salt;
 
 feature liga {
     sub parenleft parenleft e n o j a d o parenright parenright                          by enojado             ;
@@ -53,36 +91,57 @@ feature liga {
     sub parenleft parenleft p e n t a g o n o parenright parenright                      by pentagono           ;
 } liga;
 
-feature case {
- #Formas en mayusculas
-	sub hyphen          by  hyphen.case; 
-	sub endash          by  endash.case; 
-	sub emdash          by  emdash.case; 
-	sub periodcentered  by  periodcentered.case; 
-	sub bullet          by  bullet.case; 
-	sub parenleft       by  parenleft.case; 
-	sub parenright      by  parenright.case; 
-	sub bracketleft     by  bracketleft.case; 
-	sub bracketright    by  bracketright.case; 
-	sub braceleft       by  braceleft.case; 
-	sub braceright      by  braceright.case; 
-	sub slash           by  slash.case; 
-	sub backslash       by  backslash.case; 
-	sub guilsinglleft   by  guilsinglleft.case; 
-	sub guilsinglright  by  guilsinglright.case; 
-	sub guillemetleft   by  guillemetleft.case; 
-	sub guillemetright  by  guillemetright.case; 
-	sub at              by  at.case; 
-} case;
-
 feature aalt {
-    sub J     by  J.alt ;
-    sub Q     by  Q.alt ;
-    sub Y     by  Y.alt ;
-    sub a     by  a.alt ;
-    sub caron by  caron.alt ;
-    sub g     by  g.alt ;
-    sub seven by  seven.alt ;
-    sub y     by  y.alt ;
+# automatic
+feature lnum;
+feature onum;
+feature tnum;
+feature case;
+feature salt;
+feature locl;
+feature pnum;
 } aalt;
+
+feature ccmp {
+# automatic
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb circumflexcomb dieresiscomb dotaccentcomb gravecomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [cedillacomb];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb ringcomb tildecomb macron];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case circumflexcomb.case ringcomb.case tildecomb.case macron.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+} ccmp;
+
+feature locl {
+# automatic
+lookup locl_latn_0 {
+	script latn;
+	language NLD;
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_0;
+} locl;
+
+feature pnum {
+# automatic
+sub zero.tf by zero;
+sub one.tf by one;
+sub two.tf by two;
+sub three.tf by three;
+sub four.tf by four;
+sub five.tf by five;
+sub six.tf by six;
+sub seven.tf by seven;
+sub eight.tf by eight;
+sub nine.tf by nine;
+} pnum;
 
