@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcaron" format="2">
-	<advance width="379"/>
+	<advance width="383"/>
 	<unicode hex="0165"/>
 	<outline>
 		<contour>
@@ -20,7 +20,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-26 06:46:01 +0000</string>
+			<string>2021-09-28 07:12:55 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
 			<string>=t</string>
 		</dict>

@@ -4,7 +4,7 @@
 	<unicode hex="005A"/>
 	<anchor x="429" y="350" name="center"/>
 	<anchor x="249" y="11" name="bottom"/>
-	<anchor x="268" y="700" name="top"/>
+	<anchor x="293" y="700" name="top"/>
 	<outline>
 		<contour>
 			<point x="31" y="0" type="line"/>
@@ -50,7 +50,7 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-26 06:56:37 +0000</string>
+			<string>2021-09-28 07:41:23 +0000</string>
 			<key>public.markColor</key>
 			<string>0.15,0.86,0.81,1</string>
 		</dict>
