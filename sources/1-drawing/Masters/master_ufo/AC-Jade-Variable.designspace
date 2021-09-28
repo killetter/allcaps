@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="500" maximum="1000" default="500"/>
+    <axis tag="ital" name="Italic" minimum="0" maximum="1000" default="0"/>
+  </axes>
+  <rules>
+    <rule name="aItalic">
+      <conditionset>
+        <condition name="Weight" minimum="500" maximum="1000"/>
+        <condition name="Italic" minimum="500" maximum="1000"/>
+      </conditionset>
+      <sub name="a" with="a.italic"/>
+    </rule>
+    <rule name="eItalic">
+      <conditionset>
+        <condition name="Weight" minimum="500" maximum="1000"/>
+        <condition name="Italic" minimum="500" maximum="1000"/>
+      </conditionset>
+      <sub name="e" with="e.italic"/>
+    </rule>
+  </rules>
+  <sources>
+    <source filename="AC-Jade-Variable-Black Italic.ufo" familyname="AC-Jade-Variable" stylename="Black Italic">
+      <location>
+        <dimension name="Weight" xvalue="1000"/>
+        <dimension name="Italic" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="AC-Jade-Variable-Regular.ufo" familyname="AC-Jade-Variable" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="AC-Jade-Variable-Regular Italic.ufo" familyname="AC-Jade-Variable" stylename="Regular Italic">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Italic" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="AC-Jade-Variable-Black.ufo" familyname="AC-Jade-Variable" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="1000"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="AC-Jade-Variable" stylename="Regular" filename="instances/AC-Jade-Variable-Style_1.ufo">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="AC-Jade-Variable" stylename="Black" filename="instances/AC-Jade-Variable-Style_1.ufo">
+      <location>
+        <dimension name="Weight" xvalue="1000"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="AC-Jade-Variable" stylename="Regular Italic" filename="instances/AC-Jade-Variable-Style_1.ufo">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Italic" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="AC-Jade-Variable" stylename="Black Italic" filename="instances/AC-Jade-Variable-Style_1.ufo">
+      <location>
+        <dimension name="Weight" xvalue="1000"/>
+        <dimension name="Italic" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="AC-Jade-Variable" stylename="Bold" filename="instances/AC-Jade-Variable-Style_1.ufo">
+      <location>
+        <dimension name="Weight" xvalue="750"/>
+        <dimension name="Italic" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="AC-Jade-Variable" stylename="Bold Italic" filename="instances/AC-Jade-Variable-Style_1.ufo">
+      <location>
+        <dimension name="Weight" xvalue="750"/>
+        <dimension name="Italic" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.mathModelPref</key>
+      <string>previewVarLib</string>
+      <key>com.letterror.skateboard.interactionSources</key>
+      <dict>
+        <key>horizontal</key>
+        <array>
+          <string>Italic</string>
+        </array>
+        <key>vertical</key>
+        <array>
+          <string>Weight</string>
+        </array>
+      </dict>
+      <key>com.letterror.skateboard.previewLocation</key>
+      <dict>
+        <key>Italic</key>
+        <real>651.186146820027</real>
+        <key>Weight</key>
+        <real>895.1516073258197</real>
+      </dict>
+      <key>com.letterror.skateboard.previewText</key>
+      <string>Jade</string>
+    </dict>
+  </lib>
+</designspace>

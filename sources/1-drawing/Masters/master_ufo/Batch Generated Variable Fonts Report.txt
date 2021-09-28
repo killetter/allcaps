@@ -1,0 +1,240 @@
+Batch Generated Variable Fonts:
+*******************************
+
+source: /Users/imac/Documents/Torneo 2/Allcaps_git/allcaps/sources/1-drawing/Masters/master_ufo/AC-Jade-Variable_VFExport.designspace
+path: /Users/imac/Documents/Torneo 2/Allcaps_git/allcaps/sources/1-drawing/Masters/master_ufo/AC-Jade-Variable_VFExport.ttf
+    Making master glyphs compatible
+    '''''''''''''''''''''''''''''''
+        Adding missing glyph 'paragraph' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'paragraph' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'paragraph' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'paragraph' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'section' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'section' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'section' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'section' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowupdn' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowupdn' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowupdn' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowupdn' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowupdown' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowupdown' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowupdown' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowupdown' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'braceleft' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'braceleft' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'braceleft' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'braceleft' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'asciitilde' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'asciitilde' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'asciitilde' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'asciitilde' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowNW' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowNW' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowNW' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowNW' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'greater' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'greater' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'greater' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'greater' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowrightdowntip' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowrightdowntip' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowrightdowntip' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowrightdowntip' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'quotedblbase' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'quotedblbase' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'quotedblbase' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'quotedblbase' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowuprighttip' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowuprighttip' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowuprighttip' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowuprighttip' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowleftdowntip' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowleftdowntip' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowleftdowntip' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowleftdowntip' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowboth' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowboth' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowboth' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowboth' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'dollar' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'dollar' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'dollar' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'dollar' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'quotesinglbase' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'quotesinglbase' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'quotesinglbase' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'quotesinglbase' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowSE' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowSE' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowSE' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowSE' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'less' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'less' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'less' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'less' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowleftright' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowleftright' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowleftright' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowleftright' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'registered' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'registered' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'registered' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'registered' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'greaterequal' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'greaterequal' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'greaterequal' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'greaterequal' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowleftuptip' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowleftuptip' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowleftuptip' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowleftuptip' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowNE' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowNE' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowNE' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowNE' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'braceright' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'braceright' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'braceright' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'braceright' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowSW' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowSW' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowSW' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'arrowSW' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'copyright' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'copyright' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'copyright' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'copyright' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'percent' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'percent' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'percent' in master 'AC-Jade-Variable Regular (public.default)'
+        Adding missing glyph 'percent' in master 'AC-Jade-Variable Regular (public.default)'
+
+    Decompose Mixed Glyphs
+    ''''''''''''''''''''''
+        Decomposing glyph 'Eogonek' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'Iogonek' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'question' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'uogonek' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'aogonek' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'tcaron' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'Ccedilla' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'i' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'Scedilla' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'j' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'Aogonek' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'Eogonek' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'Iogonek' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'question' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'uogonek' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'aogonek' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'tcaron' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'Ccedilla' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'i' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'Scedilla' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'j' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'Aogonek' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'Eogonek' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'Iogonek' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'question' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'uogonek' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'aogonek' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'tcaron' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'Ccedilla' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'i' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'Scedilla' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'j' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'Aogonek' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'Eogonek' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'Iogonek' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'question' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'uogonek' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'aogonek' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'tcaron' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'Ccedilla' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'i' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'Scedilla' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'j' in master 'AC-Jade-Variable Regular (public.default)'
+        Decomposing glyph 'Aogonek' in master 'AC-Jade-Variable Regular (public.default)'
+
+    Making master kerning compatible
+    ''''''''''''''''''''''''''''''''
+
+
+    Generate TTF
+    ''''''''''''
+
+        Generate AC-Jade-Variable Regular (public.default)
+            --------------------
+            
+            makeotf Report
+            
+            makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+            makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+            makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+            makeotfexe [ERROR] <AC-Jade-Variable-Regular> Glyph "Etilde" not in font. [../../../../../../..features 8]
+            makeotfexe [FATAL] <AC-Jade-Variable-Regular> aborting because of errors
+            makeotf [Error] Failed to build output font file 'temp_00_AC-Jade-Variable-Regular-public.default.ttf'.
+            None
+            
+            Traceback (most recent call last):
+              File "/Applications/RoboFont.app/Contents/Resources/lib/python3.7/fontCompiler/tools/compileTools.py", line 281, in _executeCommand
+              File "/Applications/RoboFont.app/Contents/Resources/lib/python3.7/fontCompiler/tools/compileTools.py", line 322, in embedded_makeotf
+              File "makeotf.py", line 2604, in runMakeOTF
+            externalFrameworks.fdkTools.makeotf.MakeOTFRunError
+            
+            --------------------
+
+        Generate AC-Jade-Variable Regular (public.default)
+            --------------------
+            
+            makeotf Report
+            
+            makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+            makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+            makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+            Built release mode font 'temp_01_AC-Jade-Variable-Regular-public.default.ttf' Revision 1.000
+            
+            --------------------
+
+        Generate AC-Jade-Variable Regular (public.default)
+            --------------------
+            
+            makeotf Report
+            
+            makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+            makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+            makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+            makeotfexe [ERROR] <AC-Jade-Variable-Regular> Glyph "Etilde" not in font. [../../../../../../..features 8]
+            makeotfexe [FATAL] <AC-Jade-Variable-Regular> aborting because of errors
+            makeotf [Error] Failed to build output font file 'temp_02_AC-Jade-Variable-Regular-public.default.ttf'.
+            None
+            
+            Traceback (most recent call last):
+              File "/Applications/RoboFont.app/Contents/Resources/lib/python3.7/fontCompiler/tools/compileTools.py", line 281, in _executeCommand
+              File "/Applications/RoboFont.app/Contents/Resources/lib/python3.7/fontCompiler/tools/compileTools.py", line 322, in embedded_makeotf
+              File "makeotf.py", line 2604, in runMakeOTF
+            externalFrameworks.fdkTools.makeotf.MakeOTFRunError
+            
+            --------------------
+
+        Generate AC-Jade-Variable Regular (public.default)
+            --------------------
+            
+            makeotf Report
+            
+            makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+            makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+            makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+            makeotfexe [ERROR] <AC-Jade-Variable-Regular> Glyph "Etilde" not in font. [../../../../../../..features 8]
+            makeotfexe [FATAL] <AC-Jade-Variable-Regular> aborting because of errors
+            makeotf [Error] Failed to build output font file 'temp_03_AC-Jade-Variable-Regular-public.default.ttf'.
+            None
+            
+            Traceback (most recent call last):
+              File "/Applications/RoboFont.app/Contents/Resources/lib/python3.7/fontCompiler/tools/compileTools.py", line 281, in _executeCommand
+              File "/Applications/RoboFont.app/Contents/Resources/lib/python3.7/fontCompiler/tools/compileTools.py", line 322, in embedded_makeotf
+              File "makeotf.py", line 2604, in runMakeOTF
+            externalFrameworks.fdkTools.makeotf.MakeOTFRunError
+            
+            --------------------
