@@ -2,123 +2,87 @@
 
 @numerosOldStyle = [ zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf ];
 
-@numerosTabulares = [ zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf ];
-
-# automatic
-@Uppercase = [ A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek B C Ccedilla Cacute Cdotaccent Ccaron D Dcaron E Egrave Eacute Ecircumflex Edieresis Emacron Edotaccent Eogonek Ecaron Etilde F G H I Igrave Iacute Icircumflex Idieresis Itilde Imacron Iogonek J K L Lacute Lcaron M N Ntilde Nacute Ncaron O Ograve Oacute Ocircumflex Otilde Odieresis Omacron Ohungarumlaut P Q R Racute Rcaron S Sacute Scedilla Scaron T Tcedilla Tcaron U Ugrave Uacute Ucircumflex Udieresis Utilde Umacron Uring Uhungarumlaut Uogonek V W Wcircumflex Wgrave Wacute Wdieresis X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zdotaccent Zcaron Saltillo Jacute J.alt Q.alt Y.alt ];
-
-@todasLasAs = [ a acute ];
+@numerosTabulares = [ zero.tf  one.tf  two.tf  three.tf  four.tf  five.tf  six.tf  seven.tf  eight.tf  nine.tf ];
 
 # Prefix: Languagesystems
 languagesystem DFLT dflt;
 languagesystem latn LAT;
 
 # Prefix: Prefix
-#tnum es el feature de numeros tabulares
+feature pnum { #NÃÂºmeros proporcionales
+	sub @numerosTabulares by @numeros ;
+} pnum;
+
+feature lnum {
+    sub @numerosOldStyle by @numeros ;
+} lnum;
+
+feature onum {
+    sub @numeros by @numerosOldStyle   ;
+} onum;
 
 feature tnum {
+ #tnum es el feature de numeros tabulares
     sub @numeros  by @numerosTabulares ;
 } tnum;
 
-feature aalt {
-    sub a by a.alt ;
-} aalt;
-
 feature liga {
-    sub parenleft parenleft e n o j a d o parenright parenright by enojado ;
-    sub @todasLasAs n i m @todasLasAs' by a.alt ;
+    sub parenleft parenleft e n o j a d o parenright parenright                          by enojado             ;
+    sub parenleft parenleft f e l i z parenright parenright                              by feliz               ;
+    sub parenleft parenleft t r i s t e parenright parenright                            by triste              ;
+    sub parenleft parenleft s o l parenright parenright                                  by sol                 ;
+    sub parenleft parenleft n o parenright parenright                                    by no                  ;
+    sub parenleft parenleft p i z a r r o n parenright parenright                        by pizarron            ;
+    sub parenleft parenleft p e r s o n a space a p u n t a n d o parenright parenright  by persona.apuntando   ;
+    sub parenleft parenleft l a p i z parenright parenright                              by lapiz               ;
+    sub parenleft parenleft l a v a r parenright parenright                              by lavar               ;
+    sub parenleft parenleft b a ntilde o parenright parenright                           by banio.001           ;
+    sub parenleft parenleft m i n g i t o r i o parenright parenright                    by banio.002           ;
+    sub parenleft parenleft l a v a r parenright parenright                              by lavar               ;
+    sub parenleft parenleft n i ntilde o parenright parenright                           by persona.cuadro      ;
+    sub parenleft parenleft n i ntilde a parenright parenright                           by persona.triangulo   ;
+    sub parenleft parenleft t r i a n g u l o space l i n e a parenright parenright      by triangulo.001       ;
+    sub parenleft parenleft t r i a n g u l o  parenright parenright                     by triangulo           ;
+    sub parenleft parenleft h e x a g o n o space l i n e a parenright                   by hexagono.001        ;
+    sub parenleft parenleft h e x a g o n o parenright                                   by hexagono            ;
+    sub parenleft parenleft c u a d r a d o space l i n e a parenright                   by cuadrado.001        ;
+    sub parenleft parenleft c u a d r a d o parenright                                   by cuadrado            ;
+    sub parenleft parenleft c i r c u l o space l i n e a parenright parenright          by circulo.001         ;
+    sub parenleft parenleft c i r c u l o parenright parenright                          by circulo             ;
+    sub parenleft parenleft p e n t a g o n o space l i n e a parenright parenright      by pentagono.001       ;
+    sub parenleft parenleft p e n t a g o n o parenright parenright                      by pentagono           ;
 } liga;
 
-feature ccmp {
-# automatic
-lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb circumflexcomb dieresiscomb dotaccentcomb gravecomb ringcomb tildecomb];
-	@CombiningNonTopAccents = [cedillacomb];
-	sub [i j]' @CombiningTopAccents by [idotless jdotless];
-	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
-	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb ringcomb tildecomb macron];
-	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case circumflexcomb.case ringcomb.case tildecomb.case macron.case];
-	sub @Markscomb @Markscomb' by @MarkscombCase;
-	sub @Uppercase @Markscomb' by @MarkscombCase;
-} ccmp_Other_1;
-
-lookup ccmp_Other_2 {
-	sub @Markscomb' @MarkscombCase by @MarkscombCase;
-	sub @MarkscombCase @Markscomb' by @MarkscombCase;
-} ccmp_Other_2;
-} ccmp;
-
-feature locl {
-# automatic
-lookup locl_latn_0 {
-	script latn;
-	language NLD;
-	sub iacute j' by jacute;
-	sub Iacute J' by Jacute;
-} locl_latn_0;
-} locl;
-
-feature lnum {
-# automatic
-sub zero.osf by zero;
-sub one.osf by one;
-sub two.osf by two;
-sub three.osf by three;
-sub four.osf by four;
-sub five.osf by five;
-sub six.osf by six;
-sub seven.osf by seven;
-sub eight.osf by eight;
-sub nine.osf by nine;
-} lnum;
-
-feature pnum {
-# automatic
-sub zero.tf by zero;
-sub one.tf by one;
-sub two.tf by two;
-sub three.tf by three;
-sub four.tf by four;
-sub five.tf by five;
-sub six.tf by six;
-sub seven.tf by seven;
-sub eight.tf by eight;
-sub nine.tf by nine;
-} pnum;
-
-feature onum {
-# automatic
-sub zero by zero.osf;
-sub one by one.osf;
-sub two by two.osf;
-sub three by three.osf;
-sub four by four.osf;
-sub five by five.osf;
-sub six by six.osf;
-sub seven by seven.osf;
-sub eight by eight.osf;
-sub nine by nine.osf;
-} onum;
-
 feature case {
-# automatic
-sub dieresiscomb by dieresiscomb.case;
-sub dotaccentcomb by dotaccentcomb.case;
-sub gravecomb by gravecomb.case;
-sub acutecomb by acutecomb.case;
-sub circumflexcomb by circumflexcomb.case;
-sub ringcomb by ringcomb.case;
-sub tildecomb by tildecomb.case;
-sub macron by macron.case;
-sub zero.osf by zero;
-sub one.osf by one;
-sub two.osf by two;
-sub three.osf by three;
-sub four.osf by four;
-sub five.osf by five;
-sub six.osf by six;
-sub seven.osf by seven;
-sub eight.osf by eight;
-sub nine.osf by nine;
+ #Formas en mayusculas
+	sub hyphen          by  hyphen.case; 
+	sub endash          by  endash.case; 
+	sub emdash          by  emdash.case; 
+	sub periodcentered  by  periodcentered.case; 
+	sub bullet          by  bullet.case; 
+	sub parenleft       by  parenleft.case; 
+	sub parenright      by  parenright.case; 
+	sub bracketleft     by  bracketleft.case; 
+	sub bracketright    by  bracketright.case; 
+	sub braceleft       by  braceleft.case; 
+	sub braceright      by  braceright.case; 
+	sub slash           by  slash.case; 
+	sub backslash       by  backslash.case; 
+	sub guilsinglleft   by  guilsinglleft.case; 
+	sub guilsinglright  by  guilsinglright.case; 
+	sub guillemetleft   by  guillemetleft.case; 
+	sub guillemetright  by  guillemetright.case; 
+	sub at              by  at.case; 
 } case;
+
+feature aalt {
+    sub J     by  J.alt ;
+    sub Q     by  Q.alt ;
+    sub Y     by  Y.alt ;
+    sub a     by  a.alt ;
+    sub caron by  caron.alt ;
+    sub g     by  g.alt ;
+    sub seven by  seven.alt ;
+    sub y     by  y.alt ;
+} aalt;
 

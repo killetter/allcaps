@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="parenleft.case" format="2">
-	<advance width="334"/>
+<glyph name="guilsinglleft.case" format="2">
+	<advance width="311"/>
 	<outline>
-		<component base="parenleft" yOffset="60"/>
+		<component base="guilsinglleft" yOffset="60"/>
 	</outline>
 	<lib>
 		<dict>
@@ -14,15 +14,15 @@
 					<key>index</key>
 					<integer>0</integer>
 					<key>name</key>
-					<string>parenleft</string>
+					<string>guilsinglleft</string>
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2021-09-28 06:11:31 +0000</string>
+			<string>2021-09-28 06:13:16 +0000</string>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>parenleft</string>
+			<string>guilsinglleft</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>parenleft</string>
+			<string>guilsinglleft</string>
 		</dict>
 	</lib>
 </glyph>

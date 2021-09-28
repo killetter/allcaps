@@ -106,6 +106,8 @@
 	<string>N_caron.glif</string>
 	<key>Ntilde</key>
 	<string>N_tilde.glif</string>
+	<key>NuevoGlifo</key>
+	<string>N_uevoG_lifo.glif</string>
 	<key>O</key>
 	<string>O_.glif</string>
 	<key>Oacute</key>
@@ -280,12 +282,16 @@
 	<string>asterisk.glif</string>
 	<key>at</key>
 	<string>at.glif</string>
+	<key>at.case</key>
+	<string>at.case.glif</string>
 	<key>atilde</key>
 	<string>atilde.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
 	<key>backslash</key>
 	<string>backslash.glif</string>
+	<key>backslash.case</key>
+	<string>backslash.case.glif</string>
 	<key>banio.001</key>
 	<string>banio.001.glif</string>
 	<key>banio.002</key>
@@ -298,12 +304,20 @@
 	<string>bar.glif</string>
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
+	<key>braceleft.case</key>
+	<string>braceleft.case.glif</string>
 	<key>braceright</key>
 	<string>braceright.glif</string>
+	<key>braceright.case</key>
+	<string>braceright.case.glif</string>
 	<key>bracketleft</key>
 	<string>bracketleft.glif</string>
+	<key>bracketleft.case</key>
+	<string>bracketleft.case.glif</string>
 	<key>bracketright</key>
 	<string>bracketright.glif</string>
+	<key>bracketright.case</key>
+	<string>bracketright.case.glif</string>
 	<key>breve</key>
 	<string>breve.glif</string>
 	<key>brevecomb.case</key>
@@ -312,6 +326,10 @@
 	<string>brokenbar.glif</string>
 	<key>bullet</key>
 	<string>bullet.glif</string>
+	<key>bullet.case</key>
+	<string>bullet.case.glif</string>
+	<key>bullet.case.case</key>
+	<string>bullet.case.case.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
 	<key>cacute</key>
@@ -404,8 +422,12 @@
 	<string>emacron.glif</string>
 	<key>emdash</key>
 	<string>emdash.glif</string>
+	<key>emdash.case</key>
+	<string>emdash.case.glif</string>
 	<key>endash</key>
 	<string>endash.glif</string>
+	<key>endash.case</key>
+	<string>endash.case.glif</string>
 	<key>enojado</key>
 	<string>enojado.glif</string>
 	<key>enojado.001</key>
@@ -460,12 +482,20 @@
 	<string>greaterequal.glif</string>
 	<key>guillemetleft</key>
 	<string>guillemetleft.glif</string>
+	<key>guillemetleft.case</key>
+	<string>guillemetleft.case.glif</string>
 	<key>guillemetright</key>
 	<string>guillemetright.glif</string>
+	<key>guillemetright.case</key>
+	<string>guillemetright.case.glif</string>
 	<key>guilsinglleft</key>
 	<string>guilsinglleft.glif</string>
+	<key>guilsinglleft.case</key>
+	<string>guilsinglleft.case.glif</string>
 	<key>guilsinglright</key>
 	<string>guilsinglright.glif</string>
+	<key>guilsinglright.case</key>
+	<string>guilsinglright.case.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
 	<key>hexagono</key>
@@ -478,6 +508,8 @@
 	<string>hungarumlautcomb.case.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
+	<key>hyphen.case</key>
+	<string>hyphen.case.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
 	<key>iacute</key>
@@ -608,6 +640,8 @@
 	<string>period.glif</string>
 	<key>periodcentered</key>
 	<string>periodcentered.glif</string>
+	<key>periodcentered.case</key>
+	<string>periodcentered.case.glif</string>
 	<key>persona.apuntando</key>
 	<string>persona.apuntando.glif</string>
 	<key>persona.cuadro</key>
@@ -686,6 +720,8 @@
 	<string>six.tf.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
+	<key>slash.case</key>
+	<string>slash.case.glif</string>
 	<key>sol</key>
 	<string>sol.glif</string>
 	<key>southEastArrow</key>
