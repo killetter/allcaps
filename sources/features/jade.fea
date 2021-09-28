@@ -1,0 +1,23 @@
+languagesystem DFLT dflt;
+languagesystem latn LAT;
+
+
+@numeros         = [zero     one     two     three     four     five     six     seven     eight     nine];
+@numerosOldStyle = [zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf ];
+@numerosTabulares = [zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf ];
+@todasLasAs = [a acute]
+
+#tnum es el feature de numeros tabulares
+feature tnum {
+    sub @numeros  by @numerosTabulares ;
+} tnum;
+
+
+feature aalt {
+    sub a by a.alt ;
+} aalt;
+
+feature liga {
+    sub parenleft e n o j a d o parenright by enojado ;
+    sub @todasLasAs n i m @todasLasAs' by a.alt ;
+} liga;
