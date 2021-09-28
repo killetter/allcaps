@@ -401,10 +401,8 @@
 	</array>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>Į</string>
-		<string>Ş</string>
-		<string>ą</string>
-		<string>˝áű</string>
+		<string>/circulo</string>
+		<string>/circulo.001</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
