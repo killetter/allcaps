@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pentagono.001" format="2">
+	<advance width="605"/>
+	<outline>
+		<contour>
+			<point x="153" y="107" type="line"/>
+			<point x="60" y="391" type="line"/>
+			<point x="302" y="568" type="line"/>
+			<point x="545" y="391" type="line"/>
+			<point x="453" y="107" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2021-09-27 20:15:43 +0000</string>
+		</dict>
+	</lib>
+</glyph>

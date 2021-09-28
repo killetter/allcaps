@@ -240,6 +240,8 @@
 	<string>arrowN_E_.glif</string>
 	<key>arrowNW</key>
 	<string>arrowN_W_.glif</string>
+	<key>arrowNW.001</key>
+	<string>arrowN_W_.001.glif</string>
 	<key>arrowSE</key>
 	<string>arrowS_E_.glif</string>
 	<key>arrowSW</key>
@@ -314,6 +316,10 @@
 	<string>cedilla.glif</string>
 	<key>cedillacomb</key>
 	<string>cedillacomb.glif</string>
+	<key>circulo</key>
+	<string>circulo.glif</string>
+	<key>circulo.001</key>
+	<string>circulo.001.glif</string>
 	<key>circumflex</key>
 	<string>circumflex.glif</string>
 	<key>circumflexcomb</key>
@@ -328,6 +334,10 @@
 	<string>commaaccentcomb.glif</string>
 	<key>copyright</key>
 	<string>copyright.glif</string>
+	<key>cuadrado</key>
+	<string>cuadrado.glif</string>
+	<key>cuadrado.001</key>
+	<string>cuadrado.001.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
 	<key>dcaron</key>
@@ -442,6 +452,10 @@
 	<string>guilsinglright.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
+	<key>hexagono</key>
+	<string>hexagono.glif</string>
+	<key>hexagono.001</key>
+	<string>hexagono.001.glif</string>
 	<key>hungarumlaut</key>
 	<string>hungarumlaut.glif</string>
 	<key>hungarumlautcomb.case</key>
@@ -558,6 +572,10 @@
 	<string>parenright.glif</string>
 	<key>parenright.case</key>
 	<string>parenright.case.glif</string>
+	<key>pentagono</key>
+	<string>pentagono.glif</string>
+	<key>pentagono.001</key>
+	<string>pentagono.001.glif</string>
 	<key>percent</key>
 	<string>percent.glif</string>
 	<key>period</key>
@@ -670,6 +688,10 @@
 	<string>tildecomb.case.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
+	<key>triangulo</key>
+	<string>triangulo.glif</string>
+	<key>triangulo.001</key>
+	<string>triangulo.001.glif</string>
 	<key>triste</key>
 	<string>triste.glif</string>
 	<key>triste.001</key>
