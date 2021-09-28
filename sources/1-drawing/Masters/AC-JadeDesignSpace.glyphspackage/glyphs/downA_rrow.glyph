@@ -1,0 +1,50 @@
+{
+glyphname = downArrow;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+angle = -90;
+pos = (-104,665);
+ref = rightArrow;
+}
+);
+width = 507;
+},
+{
+layerId = m002;
+shapes = (
+{
+angle = -90;
+pos = (-104,665);
+ref = rightArrow;
+}
+);
+width = 507;
+},
+{
+layerId = m003;
+shapes = (
+{
+angle = -90;
+pos = (-104,665);
+ref = rightArrow;
+}
+);
+width = 507;
+},
+{
+layerId = m004;
+shapes = (
+{
+angle = -90;
+pos = (-104,665);
+ref = rightArrow;
+}
+);
+width = 507;
+}
+);
+unicode = 8595;
+}

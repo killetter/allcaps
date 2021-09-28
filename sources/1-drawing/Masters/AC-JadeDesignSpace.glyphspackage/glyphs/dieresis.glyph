@@ -1,0 +1,74 @@
+{
+glyphname = dieresis;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (205,520);
+}
+);
+layerId = master01;
+shapes = (
+{
+alignment = -1;
+pos = (0,7);
+ref = dieresiscomb;
+}
+);
+width = 412;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (205,520);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (0,7);
+ref = dieresiscomb;
+}
+);
+width = 412;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (205,520);
+}
+);
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (0,7);
+ref = dieresiscomb;
+}
+);
+width = 412;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (205,520);
+}
+);
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+pos = (0,7);
+ref = dieresiscomb;
+}
+);
+width = 412;
+}
+);
+unicode = 168;
+}

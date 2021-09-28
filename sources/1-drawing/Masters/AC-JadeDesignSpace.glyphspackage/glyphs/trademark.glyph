@@ -1,0 +1,58 @@
+{
+glyphname = trademark;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (528,0);
+ref = M;
+}
+);
+width = 1407;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (528,0);
+ref = M;
+}
+);
+width = 1407;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (528,0);
+ref = M;
+}
+);
+width = 1407;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (528,0);
+ref = M;
+}
+);
+width = 1407;
+}
+);
+unicode = 8482;
+}

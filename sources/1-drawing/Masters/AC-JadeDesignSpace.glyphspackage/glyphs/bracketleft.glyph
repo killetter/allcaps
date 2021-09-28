@@ -1,0 +1,50 @@
+{
+glyphname = bracketleft;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (295,0);
+ref = bracketright;
+scale = (-1,1);
+}
+);
+width = 295;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (295,0);
+ref = bracketright;
+scale = (-1,1);
+}
+);
+width = 295;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (295,0);
+ref = bracketright;
+scale = (-1,1);
+}
+);
+width = 295;
+},
+{
+layerId = m004;
+shapes = (
+{
+pos = (295,0);
+ref = bracketright;
+scale = (-1,1);
+}
+);
+width = 295;
+}
+);
+unicode = 91;
+}

@@ -1,0 +1,58 @@
+{
+glyphname = otilde;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (73,-10);
+ref = tilde;
+}
+);
+width = 513;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (58,-10);
+ref = tilde;
+}
+);
+width = 483;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (73,-10);
+ref = tilde;
+}
+);
+width = 513;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (58,-10);
+ref = tilde;
+}
+);
+width = 483;
+}
+);
+unicode = 245;
+}

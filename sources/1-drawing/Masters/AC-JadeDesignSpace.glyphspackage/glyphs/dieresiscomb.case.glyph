@@ -1,0 +1,69 @@
+{
+glyphname = dieresiscomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (205,701);
+}
+);
+layerId = master01;
+shapes = (
+{
+pos = (0,151);
+ref = dieresiscomb;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (205,701);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (0,151);
+ref = dieresiscomb;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (205,701);
+}
+);
+layerId = m003;
+shapes = (
+{
+pos = (0,151);
+ref = dieresiscomb;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (205,701);
+}
+);
+layerId = m004;
+shapes = (
+{
+pos = (0,151);
+ref = dieresiscomb;
+}
+);
+width = 600;
+}
+);
+}

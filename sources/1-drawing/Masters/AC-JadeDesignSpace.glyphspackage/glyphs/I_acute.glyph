@@ -1,0 +1,58 @@
+{
+glyphname = Iacute;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (112,-1);
+ref = acutecomb.case;
+}
+);
+width = 431;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (112,-1);
+ref = acutecomb.case;
+}
+);
+width = 431;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (112,-1);
+ref = acutecomb.case;
+}
+);
+width = 431;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (112,-1);
+ref = acutecomb.case;
+}
+);
+width = 431;
+}
+);
+unicode = 205;
+}

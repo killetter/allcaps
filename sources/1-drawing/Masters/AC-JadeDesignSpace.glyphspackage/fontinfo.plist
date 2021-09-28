@@ -1,0 +1,579 @@
+{
+.appVersion = "3098";
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+},
+{
+name = Italic;
+tag = ital;
+}
+);
+classes = (
+{
+code = " zero     one     two     three     four     five     six     seven     eight     nine ";
+name = numeros;
+},
+{
+code = " zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf ";
+name = numerosOldStyle;
+},
+{
+code = " zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf ";
+name = numerosTabulares;
+},
+{
+automatic = 1;
+code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde B C Cacute Ccaron Ccedilla Cdotaccent D Dcaron E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde F G H I Iacute Icircumflex Idieresis Igrave Imacron Iogonek Itilde J Jacute K L Lacute Lcaron M N Nacute Ncaron Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Otilde P Q R Racute Rcaron S Sacute Saltillo Scaron Scedilla T Tcaron Tcedilla U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent J.001 M.001";
+name = Uppercase;
+},
+{
+code = " a acute ";
+name = todasLasAs;
+}
+);
+customParameters = (
+{
+name = "Feature for Feature Variations";
+value = rvrn;
+}
+);
+date = "2021-09-25 20:41:52 +0000";
+familyName = "AC-Jade-Variable";
+featurePrefixes = (
+{
+code = "languagesystem DFLT dflt;
+languagesystem latn LAT;
+
+";
+name = Languagesystems;
+},
+{
+code = "#tnum es el feature de numeros tabulares";
+name = Prefix;
+}
+);
+features = (
+{
+code = "    sub @numeros  by @numerosTabulares ;";
+tag = tnum;
+},
+{
+code = "    sub a by a.alt ;";
+tag = aalt;
+},
+{
+code = "    sub parenleft parenleft e n o j a d o parenright parenright by enojado ;
+    sub @todasLasAs n i m @todasLasAs' by a.alt ;";
+tag = liga;
+},
+{
+automatic = 1;
+code = "lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb circumflexcomb dieresiscomb dotaccentcomb gravecomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [cedillacomb];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb ringcomb tildecomb macron];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case circumflexcomb.case ringcomb.case tildecomb.case macron.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;";
+tag = ccmp;
+},
+{
+automatic = 1;
+code = "lookup locl_latn_0 {
+	script latn;
+	language NLD;
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_0;";
+tag = locl;
+},
+{
+automatic = 1;
+code = "sub zero.osf by zero;
+sub one.osf by one;
+sub two.osf by two;
+sub three.osf by three;
+sub four.osf by four;
+sub five.osf by five;
+sub six.osf by six;
+sub seven.osf by seven;
+sub eight.osf by eight;
+sub nine.osf by nine;";
+tag = lnum;
+},
+{
+automatic = 1;
+code = "sub zero.tf by zero;
+sub one.tf by one;
+sub two.tf by two;
+sub three.tf by three;
+sub four.tf by four;
+sub five.tf by five;
+sub six.tf by six;
+sub seven.tf by seven;
+sub eight.tf by eight;
+sub nine.tf by nine;";
+tag = pnum;
+},
+{
+automatic = 1;
+code = "sub zero by zero.osf;
+sub one by one.osf;
+sub two by two.osf;
+sub three by three.osf;
+sub four by four.osf;
+sub five by five.osf;
+sub six by six.osf;
+sub seven by seven.osf;
+sub eight by eight.osf;
+sub nine by nine.osf;";
+tag = onum;
+},
+{
+automatic = 1;
+code = "sub dieresiscomb by dieresiscomb.case;
+sub dotaccentcomb by dotaccentcomb.case;
+sub gravecomb by gravecomb.case;
+sub acutecomb by acutecomb.case;
+sub circumflexcomb by circumflexcomb.case;
+sub ringcomb by ringcomb.case;
+sub tildecomb by tildecomb.case;
+sub macron by macron.case;
+sub zero.osf by zero;
+sub one.osf by one;
+sub two.osf by two;
+sub three.osf by three;
+sub four.osf by four;
+sub five.osf by five;
+sub six.osf by six;
+sub seven.osf by seven;
+sub eight.osf by eight;
+sub nine.osf by nine;";
+tag = case;
+}
+);
+fontMaster = (
+{
+axesValues = (
+500,
+0
+);
+guides = (
+{
+pos = (236,910);
+},
+{
+pos = (129,701);
+},
+{
+pos = (216,765);
+}
+);
+id = master01;
+metricValues = (
+{
+over = 10;
+pos = 780;
+},
+{
+over = 10;
+pos = 700;
+},
+{
+over = 10;
+pos = 510;
+},
+{
+over = -10;
+},
+{
+over = 10;
+pos = -220;
+},
+{
+}
+);
+name = Regular;
+userData = {
+layerinfo.color = "1,0.75,0,0.7";
+};
+},
+{
+axesValues = (
+1000,
+0
+);
+guides = (
+{
+pos = (236,910);
+},
+{
+pos = (129,701);
+},
+{
+pos = (216,765);
+},
+{
+pos = (548,37);
+}
+);
+iconName = Bold;
+id = m002;
+metricValues = (
+{
+over = 10;
+pos = 780;
+},
+{
+over = 10;
+pos = 700;
+},
+{
+over = 10;
+pos = 510;
+},
+{
+over = -10;
+},
+{
+over = 10;
+pos = -220;
+},
+{
+}
+);
+name = Black;
+userData = {
+layerinfo.color = "1,0.75,0,0.7";
+};
+},
+{
+axesValues = (
+500,
+1000
+);
+guides = (
+{
+pos = (236,910);
+},
+{
+pos = (129,701);
+},
+{
+pos = (216,765);
+}
+);
+id = m003;
+metricValues = (
+{
+over = 10;
+pos = 780;
+},
+{
+over = 10;
+pos = 700;
+},
+{
+over = 10;
+pos = 510;
+},
+{
+over = -10;
+},
+{
+over = 10;
+pos = -220;
+},
+{
+pos = 12;
+}
+);
+name = "Regular Italic";
+userData = {
+layerinfo.color = "1,0.75,0,0.7";
+};
+},
+{
+axesValues = (
+1000,
+1000
+);
+guides = (
+{
+pos = (236,910);
+},
+{
+pos = (129,701);
+},
+{
+pos = (216,765);
+},
+{
+pos = (548,37);
+}
+);
+iconName = Bold;
+id = m004;
+metricValues = (
+{
+over = 10;
+pos = 780;
+},
+{
+over = 10;
+pos = 700;
+},
+{
+over = 10;
+pos = 510;
+},
+{
+over = -10;
+},
+{
+over = 10;
+pos = -220;
+},
+{
+pos = 12;
+}
+);
+name = "Black Italic";
+userData = {
+layerinfo.color = "1,0.75,0,0.7";
+};
+}
+);
+instances = (
+{
+axesValues = (
+500,
+0
+);
+customParameters = (
+{
+name = "Feature for Feature Variations";
+value = rvrn;
+}
+);
+instanceInterpolations = {
+master01 = 1;
+};
+name = Variable;
+type = variable;
+},
+{
+axesValues = (
+500,
+0
+);
+customParameters = (
+{
+name = "Instance Preview";
+value = (
+Jade
+);
+}
+);
+instanceInterpolations = {
+master01 = 1;
+};
+name = Regular;
+},
+{
+axesValues = (
+750,
+0
+);
+instanceInterpolations = {
+m002 = 0.5;
+master01 = 0.5;
+};
+name = Bold;
+weightClass = 700;
+},
+{
+axesValues = (
+1000,
+0
+);
+customParameters = (
+{
+name = "Instance Preview";
+value = (
+Jade
+);
+}
+);
+instanceInterpolations = {
+m002 = 1;
+};
+name = Black;
+weightClass = 900;
+},
+{
+axesValues = (
+500,
+1000
+);
+customParameters = (
+{
+name = "Instance Preview";
+value = (
+Jade
+);
+}
+);
+instanceInterpolations = {
+m003 = 1;
+};
+name = "Regular Italic";
+},
+{
+axesValues = (
+750,
+1000
+);
+instanceInterpolations = {
+m003 = 0.5;
+m004 = 0.5;
+};
+name = "Bold Italic";
+weightClass = 700;
+},
+{
+axesValues = (
+1000,
+1000
+);
+customParameters = (
+{
+name = "Instance Preview";
+value = (
+Jade
+);
+}
+);
+instanceInterpolations = {
+m004 = 1;
+};
+name = "Black Italic";
+weightClass = 900;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+settings = {
+disablesNiceNames = 1;
+};
+unitsPerEm = 1000;
+userData = {
+UFO.lib = {
+com.defcon.sortDescriptor = (
+{
+allowPseudoUnicode = 1;
+ascending = 1;
+type = alphabetical;
+},
+{
+allowPseudoUnicode = 1;
+ascending = 1;
+type = category;
+},
+{
+allowPseudoUnicode = 1;
+ascending = 1;
+type = unicode;
+},
+{
+allowPseudoUnicode = 1;
+ascending = 1;
+type = script;
+},
+{
+allowPseudoUnicode = 1;
+ascending = 1;
+type = suffix;
+},
+{
+allowPseudoUnicode = 1;
+ascending = 1;
+type = decompositionBase;
+}
+);
+com.typemytype.robofont.compileSettings.autohint = 1;
+com.typemytype.robofont.compileSettings.checkOutlines = 0;
+com.typemytype.robofont.compileSettings.createDummyDSIG = 1;
+com.typemytype.robofont.compileSettings.decompose = 0;
+com.typemytype.robofont.compileSettings.generateFormat = 0;
+com.typemytype.robofont.compileSettings.releaseMode = 0;
+com.typemytype.robofont.italicSlantOffset = 0;
+com.typemytype.robofont.segmentType = curve;
+com.typemytype.robofont.shouldAddPointsInSplineConversion = 1;
+com.typemytype.robofont.smartSets.uniqueKey = "4580139664";
+public.postscriptNames = {
+Etilde = uni1EBC;
+Jacute = uni004A0301;
+Saltillo = uniA78B;
+Tcedilla = uni0162;
+Ytilde = uni1EF8;
+cedillacomb = uni0327;
+circumflexcomb = uni0302;
+dieresiscomb = uni0308;
+dotaccentcomb = uni0307;
+downArrow = arrowdown;
+etilde = uni1EBD;
+guillemetleft = guillemotleft;
+guillemetright = guillemotright;
+idotless = dotlessi;
+jacute = uni006A0301;
+jdotless = uni0237;
+leftArrow = arrowleft;
+leftRightArrow = arrowboth;
+northEastArrow = uni2197;
+northWestArrow = uni2196;
+rightArrow = arrowright;
+ringcomb = uni030A;
+saltillo = uniA78C;
+southEastArrow = uni2198;
+southWestArrow = uni2199;
+tcedilla = uni0163;
+upArrow = arrowup;
+upDownArrow = arrowupdn;
+ytilde = uni1EF9;
+};
+};
+UFOFormat = 3;
+};
+versionMajor = 1;
+versionMinor = 0;
+}

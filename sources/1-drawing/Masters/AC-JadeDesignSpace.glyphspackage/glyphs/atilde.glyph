@@ -1,0 +1,58 @@
+{
+glyphname = atilde;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (90,-10);
+ref = tilde;
+}
+);
+width = 532;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (21,-10);
+ref = tilde;
+}
+);
+width = 563;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (213,-10);
+ref = tilde;
+}
+);
+width = 532;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (75,-10);
+ref = tilde;
+}
+);
+width = 563;
+}
+);
+unicode = 227;
+}

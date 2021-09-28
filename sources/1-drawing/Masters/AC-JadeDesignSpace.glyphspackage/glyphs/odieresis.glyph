@@ -1,0 +1,58 @@
+{
+glyphname = odieresis;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (51,0);
+ref = dieresiscomb;
+}
+);
+width = 513;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (36,0);
+ref = dieresiscomb;
+}
+);
+width = 483;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (51,0);
+ref = dieresiscomb;
+}
+);
+width = 513;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (36,0);
+ref = dieresiscomb;
+}
+);
+width = 483;
+}
+);
+unicode = 246;
+}

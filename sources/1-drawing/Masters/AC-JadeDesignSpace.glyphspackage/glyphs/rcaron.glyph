@@ -1,0 +1,58 @@
+{
+glyphname = rcaron;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = r;
+},
+{
+pos = (18,-6);
+ref = caron;
+}
+);
+width = 416;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = r;
+},
+{
+pos = (18,-6);
+ref = caron;
+}
+);
+width = 416;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = r;
+},
+{
+pos = (18,-6);
+ref = caron;
+}
+);
+width = 416;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = r;
+},
+{
+pos = (18,-6);
+ref = caron;
+}
+);
+width = 416;
+}
+);
+unicode = 345;
+}

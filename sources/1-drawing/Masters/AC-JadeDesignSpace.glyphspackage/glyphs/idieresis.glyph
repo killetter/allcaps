@@ -1,0 +1,58 @@
+{
+glyphname = idieresis;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-65,-10);
+ref = dieresis;
+}
+);
+width = 280;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-65,-10);
+ref = dieresis;
+}
+);
+width = 280;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-65,-10);
+ref = dieresis;
+}
+);
+width = 280;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-65,-10);
+ref = dieresis;
+}
+);
+width = 280;
+}
+);
+unicode = 239;
+}

@@ -1,0 +1,45 @@
+{
+glyphname = parenright.case;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (0,75);
+ref = parenright;
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (0,75);
+ref = parenright;
+}
+);
+width = 600;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (0,75);
+ref = parenright;
+}
+);
+width = 600;
+},
+{
+layerId = m004;
+shapes = (
+{
+pos = (0,75);
+ref = parenright;
+}
+);
+width = 600;
+}
+);
+}

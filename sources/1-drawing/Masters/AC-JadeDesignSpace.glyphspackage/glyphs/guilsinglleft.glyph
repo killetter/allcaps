@@ -1,0 +1,50 @@
+{
+glyphname = guilsinglleft;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+pos = (311,0);
+ref = guilsinglright;
+scale = (-1,1);
+}
+);
+width = 311;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (311,0);
+ref = guilsinglright;
+scale = (-1,1);
+}
+);
+width = 311;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (311,0);
+ref = guilsinglright;
+scale = (-1,1);
+}
+);
+width = 311;
+},
+{
+layerId = m004;
+shapes = (
+{
+pos = (311,0);
+ref = guilsinglright;
+scale = (-1,1);
+}
+);
+width = 311;
+}
+);
+unicode = 8249;
+}

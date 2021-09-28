@@ -1,0 +1,59 @@
+{
+color = 0;
+glyphname = tcedilla;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (141,0);
+ref = commaaccentcomb;
+}
+);
+width = 343;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (141,0);
+ref = commaaccentcomb;
+}
+);
+width = 343;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (141,0);
+ref = commaaccentcomb;
+}
+);
+width = 343;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (141,0);
+ref = commaaccentcomb;
+}
+);
+width = 343;
+}
+);
+unicode = 355;
+}

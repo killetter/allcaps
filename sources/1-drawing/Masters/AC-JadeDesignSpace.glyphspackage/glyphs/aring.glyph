@@ -1,0 +1,58 @@
+{
+glyphname = aring;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (119,0);
+ref = ring;
+}
+);
+width = 532;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (50,0);
+ref = ring;
+}
+);
+width = 563;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (242,0);
+ref = ring;
+}
+);
+width = 532;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (104,0);
+ref = ring;
+}
+);
+width = 563;
+}
+);
+unicode = 229;
+}

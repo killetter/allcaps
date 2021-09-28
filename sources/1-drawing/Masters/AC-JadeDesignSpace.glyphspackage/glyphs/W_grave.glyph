@@ -1,0 +1,58 @@
+{
+glyphname = Wgrave;
+layers = (
+{
+layerId = master01;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (304,-1);
+ref = gravecomb.case;
+}
+);
+width = 859;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (304,-1);
+ref = gravecomb.case;
+}
+);
+width = 859;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (304,-1);
+ref = gravecomb.case;
+}
+);
+width = 859;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (304,-1);
+ref = gravecomb.case;
+}
+);
+width = 859;
+}
+);
+unicode = 7808;
+}

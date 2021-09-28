@@ -1,0 +1,70 @@
+{
+glyphname = cedilla;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (157,-11);
+}
+);
+layerId = master01;
+shapes = (
+{
+pos = (30,0);
+ref = cedillacomb;
+}
+);
+width = 277;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (157,-11);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (30,0);
+ref = cedillacomb;
+}
+);
+width = 277;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (157,-11);
+}
+);
+layerId = m003;
+shapes = (
+{
+pos = (30,0);
+ref = cedillacomb;
+}
+);
+width = 277;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (157,-11);
+}
+);
+layerId = m004;
+shapes = (
+{
+pos = (30,0);
+ref = cedillacomb;
+}
+);
+width = 277;
+}
+);
+unicode = 184;
+}
