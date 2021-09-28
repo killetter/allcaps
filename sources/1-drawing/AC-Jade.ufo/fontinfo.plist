@@ -39,16 +39,16 @@
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-220</integer>
-		<integer>-210</integer>
-		<integer>-10</integer>
-		<integer>0</integer>
-		<integer>510</integer>
-		<integer>520</integer>
-		<integer>700</integer>
-		<integer>710</integer>
-		<integer>780</integer>
-		<integer>790</integer>
+		<real>-220.0</real>
+		<real>-210.0</real>
+		<real>-10.0</real>
+		<real>0.0</real>
+		<real>510.0</real>
+		<real>520.0</real>
+		<real>700.0</real>
+		<real>710.0</real>
+		<real>780.0</real>
+		<real>790.0</real>
 	</array>
 	<key>postscriptFontName</key>
 	<string>AC-Jade-Regular</string>
