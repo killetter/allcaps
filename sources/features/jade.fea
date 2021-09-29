@@ -73,16 +73,16 @@ feature liga {
     sub parenleft parenleft l a v a r parenright parenright                              by lavar               ;
     sub parenleft parenleft n i ntilde o parenright parenright                           by persona.cuadro      ;
     sub parenleft parenleft n i ntilde a parenright parenright                           by persona.triangulo   ;
-    sub parenleft parenleft t r i a n g u l o space l i n e a parenright parenright      by triangulo.001       ;
     sub parenleft parenleft t r i a n g u l o  parenright parenright                     by triangulo           ;
-    sub parenleft parenleft h e x a g o n o space l i n e a parenright                   by hexagono.001        ;
+    sub parenleft parenleft t r i a n g u l o space l i n e a parenright parenright      by triangulo.001       ;
     sub parenleft parenleft h e x a g o n o parenright                                   by hexagono            ;
-    sub parenleft parenleft c u a d r a d o space l i n e a parenright                   by cuadrado.001        ;
+    sub parenleft parenleft h e x a g o n o space l i n e a parenright                   by hexagono.001        ;
     sub parenleft parenleft c u a d r a d o parenright                                   by cuadrado            ;
-    sub parenleft parenleft c i r c u l o space l i n e a parenright parenright          by circulo.001         ;
+    sub parenleft parenleft c u a d r a d o space l i n e a parenright                   by cuadrado.001        ;
     sub parenleft parenleft c i r c u l o parenright parenright                          by circulo             ;
-    sub parenleft parenleft p e n t a g o n o space l i n e a parenright parenright      by pentagono.001       ;
+    sub parenleft parenleft c i r c u l o space l i n e a parenright parenright          by circulo.001         ;
     sub parenleft parenleft p e n t a g o n o parenright parenright                      by pentagono           ;
+    sub parenleft parenleft p e n t a g o n o space l i n e a parenright parenright      by pentagono.001       ;
 
 } liga;
 

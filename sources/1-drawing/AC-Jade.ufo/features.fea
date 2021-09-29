@@ -4,6 +4,9 @@
 
 @numerosTabulares = [ zero.tf  one.tf  two.tf  three.tf  four.tf  five.tf  six.tf  seven.tf  eight.tf  nine.tf ];
 
+# automatic
+@Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde B C Cacute Ccaron Ccedilla Cdotaccent D Dcaron E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde F G H I Iacute Icircumflex Idieresis Igrave Imacron Iogonek Itilde J Jacute K L Lacute Lcaron M N Nacute Ncaron Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Otilde P Q R Racute Rcaron S Sacute Saltillo Scaron Scedilla T Tcaron Tcedilla U Uacute Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent J.alt Q.alt Y.alt ];
+
 # Prefix: Languagesystems
 languagesystem DFLT dflt;
 languagesystem latn dflt;
@@ -77,16 +80,16 @@ feature liga {
     sub parenleft parenleft l a v a r parenright parenright                              by lavar               ;
     sub parenleft parenleft n i ntilde o parenright parenright                           by persona.cuadro      ;
     sub parenleft parenleft n i ntilde a parenright parenright                           by persona.triangulo   ;
-    sub parenleft parenleft t r i a n g u l o space l i n e a parenright parenright      by triangulo.001       ;
     sub parenleft parenleft t r i a n g u l o  parenright parenright                     by triangulo           ;
-    sub parenleft parenleft h e x a g o n o space l i n e a parenright                   by hexagono.001        ;
-    sub parenleft parenleft h e x a g o n o parenright                                   by hexagono            ;
-    sub parenleft parenleft c u a d r a d o space l i n e a parenright                   by cuadrado.001        ;
-    sub parenleft parenleft c u a d r a d o parenright                                   by cuadrado            ;
-    sub parenleft parenleft c i r c u l o space l i n e a parenright parenright          by circulo.001         ;
+    sub parenleft parenleft t r i a n g u l o space l i n e a parenright parenright      by triangulo.001       ;
+    sub parenleft parenleft h e x a g o n o parenright parenright                        by hexagono            ;
+    sub parenleft parenleft h e x a g o n o space l i n e a parenright parenright        by hexagono.001        ;
+    sub parenleft parenleft c u a d r a d o parenright  parenright                       by cuadrado            ;
+    sub parenleft parenleft c u a d r a d o space l i n e a parenright  parenright       by cuadrado.001        ;
     sub parenleft parenleft c i r c u l o parenright parenright                          by circulo             ;
-    sub parenleft parenleft p e n t a g o n o space l i n e a parenright parenright      by pentagono.001       ;
+    sub parenleft parenleft c i r c u l o space l i n e a parenright parenright          by circulo.001         ;
     sub parenleft parenleft p e n t a g o n o parenright parenright                      by pentagono           ;
+    sub parenleft parenleft p e n t a g o n o space l i n e a parenright parenright      by pentagono.001       ;
 } liga;
 
 feature aalt {
@@ -98,4 +101,47 @@ feature salt;
 feature locl;
 feature pnum;
 } aalt;
+
+feature ccmp {
+# automatic
+lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb circumflexcomb dieresiscomb dotaccentcomb gravecomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [cedillacomb];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb circumflexcomb ringcomb tildecomb macron];
+	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case circumflexcomb.case ringcomb.case tildecomb.case macron.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+} ccmp;
+
+feature locl {
+# automatic
+lookup locl_latn_0 {
+	script latn;
+	language NLD;
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_0;
+} locl;
+
+feature pnum {
+# automatic
+sub zero.tf by zero;
+sub one.tf by one;
+sub two.tf by two;
+sub three.tf by three;
+sub four.tf by four;
+sub five.tf by five;
+sub six.tf by six;
+sub seven.tf by seven;
+sub eight.tf by eight;
+sub nine.tf by nine;
+} pnum;
 
