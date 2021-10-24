@@ -1,0 +1,21 @@
+{
+glyphname = .notdef;
+layers = (
+{
+layerId = master01;
+width = 0;
+},
+{
+layerId = m002;
+width = 0;
+},
+{
+layerId = m003;
+width = 0;
+},
+{
+layerId = m004;
+width = 0;
+}
+);
+}
